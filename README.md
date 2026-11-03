@@ -2,6 +2,12 @@
 
 12页中文学术交流演示文稿，内容包括激光无线传能背景、材料路线选择、团队单结/两结/六结器件及文献对比。
 
+## 单页导出：两种材料路线（红白配色）
+
+[SVG矢量图](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/single_slide/1064nm_material_routes_redwhite.svg) · [PDF矢量图](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/single_slide/1064nm_material_routes_redwhite.pdf) · [PNG](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/single_slide/1064nm_material_routes_redwhite.png) · [JPG](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/single_slide/1064nm_material_routes_redwhite.jpg) · [单页可编辑PPT](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/single_slide/1064nm_material_routes_redwhite.pptx)
+
+[全部格式ZIP下载](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/single_slide/1064nm_material_routes_redwhite_all_formats.zip)。SVG/PDF为纯矢量，PNG/JPG为3840×2160；PPT的节点、连线与比较表均可编辑。
+
 ## 单页导出：1064 nm波长选择（红白配色）
 
 - [下载SVG纯矢量图](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/single_slide/1064nm_wavelength_redwhite.svg)
