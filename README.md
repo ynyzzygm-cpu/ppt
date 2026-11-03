@@ -2,6 +2,14 @@
 
 12页中文学术交流演示文稿，内容包括激光无线传能背景、材料路线选择、团队单结/两结/六结器件及文献对比。
 
+## 单页导出：1064 nm波长选择（红白配色）
+
+- [下载SVG纯矢量图](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/single_slide/1064nm_wavelength_redwhite.svg)
+- [下载PNG高清图片（3840×2160）](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/single_slide/1064nm_wavelength_redwhite.png)
+- [下载全部格式ZIP（SVG、PDF、PNG、JPG、可编辑PPTX）](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/single_slide/1064nm_wavelength_redwhite_all_formats.zip)
+
+SVG/PDF为纯矢量，不含嵌入位图；仅处理用户选定页面，不替换整套演示稿。
+
 ## 新版：红白配色可编辑演示稿
 
 - [下载可编辑PPT（12页，红白配色）](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/1064nm_presentation_editable_redwhite.pptx)
