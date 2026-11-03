@@ -1,0 +1,115 @@
+{
+  "slides": 12,
+  "native_charts": 14,
+  "embedded_editable_workbooks": 14,
+  "native_tables": 2,
+  "editable_text_objects": 385,
+  "pictures_only_for": [
+    "experimental device photograph",
+    "HRXRD-RSM",
+    "CL"
+  ],
+  "native_slide_element_bounds": "All inside canvas",
+  "pdf_pages": 12,
+  "notes_pages": 12,
+  "slide_details": [
+    {
+      "slide": 1,
+      "text_objects": 21,
+      "charts": 0,
+      "tables": 0,
+      "pictures": 0,
+      "shapes_total": 46
+    },
+    {
+      "slide": 2,
+      "text_objects": 22,
+      "charts": 0,
+      "tables": 0,
+      "pictures": 0,
+      "shapes_total": 58
+    },
+    {
+      "slide": 3,
+      "text_objects": 15,
+      "charts": 0,
+      "tables": 0,
+      "pictures": 0,
+      "shapes_total": 27
+    },
+    {
+      "slide": 4,
+      "text_objects": 12,
+      "charts": 0,
+      "tables": 1,
+      "pictures": 0,
+      "shapes_total": 201
+    },
+    {
+      "slide": 5,
+      "text_objects": 38,
+      "charts": 0,
+      "tables": 0,
+      "pictures": 0,
+      "shapes_total": 66
+    },
+    {
+      "slide": 6,
+      "text_objects": 49,
+      "charts": 3,
+      "tables": 0,
+      "pictures": 1,
+      "shapes_total": 102
+    },
+    {
+      "slide": 7,
+      "text_objects": 61,
+      "charts": 4,
+      "tables": 0,
+      "pictures": 0,
+      "shapes_total": 123
+    },
+    {
+      "slide": 8,
+      "text_objects": 22,
+      "charts": 0,
+      "tables": 0,
+      "pictures": 2,
+      "shapes_total": 41
+    },
+    {
+      "slide": 9,
+      "text_objects": 64,
+      "charts": 6,
+      "tables": 0,
+      "pictures": 0,
+      "shapes_total": 127
+    },
+    {
+      "slide": 10,
+      "text_objects": 43,
+      "charts": 1,
+      "tables": 0,
+      "pictures": 0,
+      "shapes_total": 70
+    },
+    {
+      "slide": 11,
+      "text_objects": 9,
+      "charts": 0,
+      "tables": 1,
+      "pictures": 0,
+      "shapes_total": 17
+    },
+    {
+      "slide": 12,
+      "text_objects": 29,
+      "charts": 0,
+      "tables": 0,
+      "pictures": 0,
+      "shapes_total": 54
+    }
+  ],
+  "theme": "Reference white background, red separators and accents, dark blue titles; axis/series colors remain distinguishable",
+  "curve_provenance": "Figure-based reconstructions, approximate. Single IV extracted from PDF vector paths; not original raw measurements."
+}

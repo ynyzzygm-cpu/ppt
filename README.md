@@ -2,7 +2,18 @@
 
 12页中文学术交流演示文稿，内容包括激光无线传能背景、材料路线选择、团队单结/两结/六结器件及文献对比。
 
-## 下载
+## 新版：红白配色可编辑演示稿
+
+- [下载可编辑PPT（12页，红白配色）](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/1064nm_presentation_editable_redwhite.pptx)
+- [下载新版PDF](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/1064nm_presentation_editable_redwhite.pdf)
+- [编辑说明](EDITABLE_GUIDE.md) / [讲稿及参考文献](speaker_notes_editable.md)
+- [曲线近似数据CSV](editable_curve_data.csv) / [完整图表数据JSON](editable_chart_data.json)
+
+标题、正文、结构图、表格为原生可编辑对象；14个曲线/数据图表均内嵌可编辑工作簿。实验照片、RSM和CL保留图片。曲线恢复值为论文读图近似值，非原始测量数据。六结四Y轴采用4个透明图表叠加，编辑方法见说明。
+
+![红白可编辑版总览](1064nm_editable_redwhite_preview.png)
+
+## 旧版：图片式演示稿下载
 
 - [PowerPoint演示文稿（约16 MB）](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/1064nm_presentation.pptx)
 - [PDF版本（约3 MB）](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/1064nm_presentation.pdf)
@@ -10,7 +21,7 @@
 
 如果浏览器打开文件预览页，请点击页面上的下载按钮。私有仓库需先登录有访问权限的GitHub账号。
 
-## 内容说明
+## 旧版内容说明
 
 - 单结、两结分别采用结构—实验结果大组图；六结分为材料结构与光电/温度特性两页。
 - 六结四条曲线共用横轴，左右各两个独立Y轴，轴线与曲线同色。

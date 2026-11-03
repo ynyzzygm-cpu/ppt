@@ -1,0 +1,930 @@
+﻿panel,series,x,y,provenance
+single_irradiance,FF_percent,0.1,84.5,graph-read approximate
+single_irradiance,FF_percent,0.2,84.0,graph-read approximate
+single_irradiance,FF_percent,0.4,82.7,graph-read approximate
+single_irradiance,FF_percent,0.8,79.5,graph-read approximate
+single_irradiance,FF_percent,1.6,70.3,graph-read approximate
+single_irradiance,FF_percent,2.4,63.0,graph-read approximate
+single_irradiance,FF_percent,3.6,53.7,graph-read approximate
+single_irradiance,PCE_percent,0.1,42.1,graph-read approximate
+single_irradiance,PCE_percent,0.2,43.3,graph-read approximate
+single_irradiance,PCE_percent,0.4,44.68,graph-read approximate
+single_irradiance,PCE_percent,0.8,42.5,graph-read approximate
+single_irradiance,PCE_percent,1.6,38.2,graph-read approximate
+single_irradiance,PCE_percent,2.4,34.1,graph-read approximate
+single_irradiance,PCE_percent,3.6,29.1,graph-read approximate
+two_power,PCE_percent,0.1,18.608,graph-read approximate
+two_power,PCE_percent,0.2,27.99,graph-read approximate
+two_power,PCE_percent,0.3,39.175,graph-read approximate
+two_power,PCE_percent,0.4,46.121,graph-read approximate
+two_power,PCE_percent,0.5,46.031,graph-read approximate
+two_power,PCE_percent,0.6,46.121,graph-read approximate
+two_power,PCE_percent,0.7,46.83,graph-read approximate
+two_power,PCE_percent,0.8,45.67,graph-read approximate
+two_power,PCE_percent,1,44.678,graph-read approximate
+two_power,PCE_percent,1.5,42.738,graph-read approximate
+two_power,PCE_percent,2,41.34,graph-read approximate
+two_power,PCE_percent,2.5,39.987,graph-read approximate
+two_power,PCE_percent,3,41.115,graph-read approximate
+two_power,PCE_percent,3.5,40.032,graph-read approximate
+two_power,PCE_percent,4,38.093,graph-read approximate
+two_power,PCE_percent,4.5,36.875,graph-read approximate
+two_power,PCE_percent,5,35.477,graph-read approximate
+two_power,PCE_percent,5.5,34.124,graph-read approximate
+two_power,PCE_percent,6,32.771,graph-read approximate
+two_power,PCE_percent,6.5,31.688,graph-read approximate
+two_power,PCE_percent,7,30.696,graph-read approximate
+two_power,PCE_percent,7.5,30.064,graph-read approximate
+two_power,PCE_percent,8,28.892,graph-read approximate
+two_power,PCE_percent,8.5,27.719,graph-read approximate
+two_power,PCE_percent,9,27.043,graph-read approximate
+two_power,PCE_percent,9.5,26.005,graph-read approximate
+two_power,PCE_percent,10,25.329,graph-read approximate
+two_power,Isc_mA,0.1,33.505,graph-read approximate
+two_power,Isc_mA,0.2,41.881,graph-read approximate
+two_power,Isc_mA,0.3,100.515,graph-read approximate
+two_power,Isc_mA,0.4,150.773,graph-read approximate
+two_power,Isc_mA,0.5,180.09,graph-read approximate
+two_power,Isc_mA,0.6,209.407,graph-read approximate
+two_power,Isc_mA,0.7,251.289,graph-read approximate
+two_power,Isc_mA,0.8,284.794,graph-read approximate
+two_power,Isc_mA,1,351.804,graph-read approximate
+two_power,Isc_mA,1.5,527.706,graph-read approximate
+two_power,Isc_mA,2,720.361,graph-read approximate
+two_power,Isc_mA,2.5,887.887,graph-read approximate
+two_power,Isc_mA,3,1055.412,graph-read approximate
+two_power,Isc_mA,3.5,1227.126,graph-read approximate
+two_power,Isc_mA,4,1365.335,graph-read approximate
+two_power,Isc_mA,4.5,1557.99,graph-read approximate
+two_power,Isc_mA,5,1725.515,graph-read approximate
+two_power,Isc_mA,5.5,1926.546,graph-read approximate
+two_power,Isc_mA,6,2094.072,graph-read approximate
+two_power,Isc_mA,6.5,2261.598,graph-read approximate
+two_power,Isc_mA,7,2437.5,graph-read approximate
+two_power,Isc_mA,7.5,2596.649,graph-read approximate
+two_power,Isc_mA,8,2688.789,graph-read approximate
+two_power,Isc_mA,8.5,2780.928,graph-read approximate
+two_power,Isc_mA,9,2856.314,graph-read approximate
+two_power,Isc_mA,9.5,2931.701,graph-read approximate
+two_power,Isc_mA,10,2998.711,graph-read approximate
+two_temperature,PCE_percent,103,5.557,graph-read approximate
+two_temperature,PCE_percent,113,8.62,graph-read approximate
+two_temperature,PCE_percent,123,16.813,graph-read approximate
+two_temperature,PCE_percent,133,22.085,graph-read approximate
+two_temperature,PCE_percent,143,26.645,graph-read approximate
+two_temperature,PCE_percent,153,30.635,graph-read approximate
+two_temperature,PCE_percent,163,33.912,graph-read approximate
+two_temperature,PCE_percent,173,36.762,graph-read approximate
+two_temperature,PCE_percent,183,38.899,graph-read approximate
+two_temperature,PCE_percent,193,40.609,graph-read approximate
+two_temperature,PCE_percent,203,42.319,graph-read approximate
+two_temperature,PCE_percent,213,43.815,graph-read approximate
+two_temperature,PCE_percent,223,45.026,graph-read approximate
+two_temperature,PCE_percent,233,46.095,graph-read approximate
+two_temperature,PCE_percent,243,46.736,graph-read approximate
+two_temperature,PCE_percent,253,47.34,graph-read approximate
+two_temperature,PCE_percent,263,47.34,graph-read approximate
+two_temperature,PCE_percent,273,46.451,graph-read approximate
+two_temperature,PCE_percent,283,45.168,graph-read approximate
+two_temperature,PCE_percent,293,44.598,graph-read approximate
+two_temperature,PCE_percent,303,43.459,graph-read approximate
+two_temperature,PCE_percent,313,41.891,graph-read approximate
+two_temperature,PCE_percent,323,40.751,graph-read approximate
+two_temperature,PCE_percent,333,39.255,graph-read approximate
+two_temperature,PCE_percent,343,38.115,graph-read approximate
+two_temperature,PCE_percent,353,37.118,graph-read approximate
+two_temperature,PCE_percent,363,36.049,graph-read approximate
+two_temperature,PCE_percent,373,34.767,graph-read approximate
+two_temperature,PCE_percent,383,33.556,graph-read approximate
+two_temperature,PCE_percent,393,32.06,graph-read approximate
+two_temperature,PCE_percent,403,30.706,graph-read approximate
+two_temperature,PCE_percent,413,29.281,graph-read approximate
+two_temperature,PCE_percent,423,27.927,graph-read approximate
+two_temperature,PCE_percent,433,26.645,graph-read approximate
+two_temperature,PCE_percent,443,25.291,graph-read approximate
+two_temperature,PCE_percent,453,23.938,graph-read approximate
+two_temperature,PCE_percent,463,23.938,graph-read approximate
+two_temperature,PCE_percent,473,23.938,graph-read approximate
+two_temperature,Isc_mA,103,38.99,graph-read approximate
+two_temperature,Isc_mA,113,59.845,graph-read approximate
+two_temperature,Isc_mA,123,97.927,graph-read approximate
+two_temperature,Isc_mA,133,129.663,graph-read approximate
+two_temperature,Isc_mA,143,151.425,graph-read approximate
+two_temperature,Isc_mA,153,176.813,graph-read approximate
+two_temperature,Isc_mA,163,195.855,graph-read approximate
+two_temperature,Isc_mA,173,212.176,graph-read approximate
+two_temperature,Isc_mA,183,223.51,graph-read approximate
+two_temperature,Isc_mA,193,232.578,graph-read approximate
+two_temperature,Isc_mA,203,243.459,graph-read approximate
+two_temperature,Isc_mA,213,252.526,graph-read approximate
+two_temperature,Isc_mA,223,262.047,graph-read approximate
+two_temperature,Isc_mA,233,270.661,graph-read approximate
+two_temperature,Isc_mA,243,278.368,graph-read approximate
+two_temperature,Isc_mA,253,287.435,graph-read approximate
+two_temperature,Isc_mA,263,291.516,graph-read approximate
+two_temperature,Isc_mA,273,304.663,graph-read approximate
+two_temperature,Isc_mA,283,305.57,graph-read approximate
+two_temperature,Isc_mA,293,311.464,graph-read approximate
+two_temperature,Isc_mA,303,314.637,graph-read approximate
+two_temperature,Isc_mA,313,316.451,graph-read approximate
+two_temperature,Isc_mA,323,317.811,graph-read approximate
+two_temperature,Isc_mA,333,315.544,graph-read approximate
+two_temperature,Isc_mA,343,313.731,graph-read approximate
+two_temperature,Isc_mA,353,316.451,graph-read approximate
+two_temperature,Isc_mA,363,316.904,graph-read approximate
+two_temperature,Isc_mA,373,315.091,graph-read approximate
+two_temperature,Isc_mA,383,315.091,graph-read approximate
+two_temperature,Isc_mA,393,313.277,graph-read approximate
+two_temperature,Isc_mA,403,311.917,graph-read approximate
+two_temperature,Isc_mA,413,311.01,graph-read approximate
+two_temperature,Isc_mA,423,310.104,graph-read approximate
+two_temperature,Isc_mA,433,309.197,graph-read approximate
+two_temperature,Isc_mA,443,307.383,graph-read approximate
+two_temperature,Isc_mA,453,304.663,graph-read approximate
+two_temperature,Isc_mA,463,304.663,graph-read approximate
+two_temperature,Isc_mA,473,304.663,graph-read approximate
+six_temperature,PCE_percent,-110,22.199,graph-read approximate
+six_temperature,PCE_percent,-100,26.616,graph-read approximate
+six_temperature,PCE_percent,-90,30.095,graph-read approximate
+six_temperature,PCE_percent,-80,34.844,graph-read approximate
+six_temperature,PCE_percent,-70,35.617,graph-read approximate
+six_temperature,PCE_percent,-60,38.931,graph-read approximate
+six_temperature,PCE_percent,-50,39.207,graph-read approximate
+six_temperature,PCE_percent,-40,41.416,graph-read approximate
+six_temperature,PCE_percent,-30,42.354,graph-read approximate
+six_temperature,PCE_percent,-20,43.072,graph-read approximate
+six_temperature,PCE_percent,-10,44.342,graph-read approximate
+six_temperature,PCE_percent,0,45.778,graph-read approximate
+six_temperature,PCE_percent,10,46.109,graph-read approximate
+six_temperature,PCE_percent,20,46.551,graph-read approximate
+six_temperature,PCE_percent,30,46.054,graph-read approximate
+six_temperature,PCE_percent,40,46.054,graph-read approximate
+six_temperature,PCE_percent,50,45.833,graph-read approximate
+six_temperature,PCE_percent,60,45.668,graph-read approximate
+six_temperature,PCE_percent,70,45.06,graph-read approximate
+six_temperature,PCE_percent,80,45.226,graph-read approximate
+six_temperature,PCE_percent,90,44.453,graph-read approximate
+six_temperature,PCE_percent,100,43.569,graph-read approximate
+six_temperature,PCE_percent,110,42.575,graph-read approximate
+six_temperature,PCE_percent,120,41.305,graph-read approximate
+six_temperature,Isc_mA,-110,164.458,graph-read approximate
+six_temperature,Isc_mA,-100,189.157,graph-read approximate
+six_temperature,Isc_mA,-90,210.241,graph-read approximate
+six_temperature,Isc_mA,-80,249.398,graph-read approximate
+six_temperature,Isc_mA,-70,248.795,graph-read approximate
+six_temperature,Isc_mA,-60,283.133,graph-read approximate
+six_temperature,Isc_mA,-50,286.747,graph-read approximate
+six_temperature,Isc_mA,-40,303.012,graph-read approximate
+six_temperature,Isc_mA,-30,315.663,graph-read approximate
+six_temperature,Isc_mA,-20,321.084,graph-read approximate
+six_temperature,Isc_mA,-10,336.747,graph-read approximate
+six_temperature,Isc_mA,0,353.614,graph-read approximate
+six_temperature,Isc_mA,10,360.843,graph-read approximate
+six_temperature,Isc_mA,20,369.88,graph-read approximate
+six_temperature,Isc_mA,30,377.711,graph-read approximate
+six_temperature,Isc_mA,40,391.566,graph-read approximate
+six_temperature,Isc_mA,50,377.108,graph-read approximate
+six_temperature,Isc_mA,60,401.205,graph-read approximate
+six_temperature,Isc_mA,70,402.41,graph-read approximate
+six_temperature,Isc_mA,80,419.277,graph-read approximate
+six_temperature,Isc_mA,90,425.904,graph-read approximate
+six_temperature,Isc_mA,100,425.301,graph-read approximate
+six_temperature,Isc_mA,110,419.277,graph-read approximate
+six_temperature,Isc_mA,120,412.651,graph-read approximate
+six_power,Voc_V,1.0,4.829,graph-read approximate
+six_power,Voc_V,2.0,4.881,graph-read approximate
+six_power,Voc_V,3.0,4.911,graph-read approximate
+six_power,Voc_V,4.0,4.932,graph-read approximate
+six_power,Voc_V,5.0,4.941,graph-read approximate
+six_power,Voc_V,6.0,4.937,graph-read approximate
+six_power,Voc_V,7.0,4.938,graph-read approximate
+six_power,Voc_V,8.0,4.936,graph-read approximate
+six_power,Voc_V,9.0,4.937,graph-read approximate
+six_power,Voc_V,10.0,4.929,graph-read approximate
+six_power,Voc_V,11.0,4.921,graph-read approximate
+six_power,Isc_mA,1.0,112.0,graph-read approximate
+six_power,Isc_mA,2.0,220.0,graph-read approximate
+six_power,Isc_mA,3.0,329.0,graph-read approximate
+six_power,Isc_mA,4.0,433.0,graph-read approximate
+six_power,Isc_mA,5.0,550.0,graph-read approximate
+six_power,Isc_mA,6.0,663.0,graph-read approximate
+six_power,Isc_mA,7.0,776.0,graph-read approximate
+six_power,Isc_mA,8.0,895.0,graph-read approximate
+six_power,Isc_mA,9.0,1001.0,graph-read approximate
+six_power,Isc_mA,10.0,1123.0,graph-read approximate
+six_power,Isc_mA,11.0,1242.0,graph-read approximate
+six_power,FF_percent,1.0,82.8,graph-read approximate
+six_power,FF_percent,2.0,82.3,graph-read approximate
+six_power,FF_percent,3.0,78.9,graph-read approximate
+six_power,FF_percent,4.0,76.7,graph-read approximate
+six_power,FF_percent,5.0,73.3,graph-read approximate
+six_power,FF_percent,6.0,70.5,graph-read approximate
+six_power,FF_percent,7.0,68.5,graph-read approximate
+six_power,FF_percent,8.0,66.5,graph-read approximate
+six_power,FF_percent,9.0,65.2,graph-read approximate
+six_power,FF_percent,10.0,64.1,graph-read approximate
+six_power,FF_percent,11.0,63.0,graph-read approximate
+six_power,PCE_percent,1.0,44.7,graph-read approximate
+six_power,PCE_percent,2.0,45.5,graph-read approximate
+six_power,PCE_percent,3.0,46.5,graph-read approximate
+six_power,PCE_percent,4.0,44.6,graph-read approximate
+six_power,PCE_percent,5.0,43.3,graph-read approximate
+six_power,PCE_percent,6.0,41.6,graph-read approximate
+six_power,PCE_percent,7.0,40.7,graph-read approximate
+six_power,PCE_percent,8.0,39.9,graph-read approximate
+six_power,PCE_percent,9.0,38.9,graph-read approximate
+six_power,PCE_percent,10.0,38.3,graph-read approximate
+six_power,PCE_percent,11.0,37.8,graph-read approximate
+single_iv,0.1 W/cm²,0,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.00778,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.01587,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.02364,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.03142,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.0392,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.04729,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.05506,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.06284,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.07062,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.07871,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.08524,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.09333,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.10111,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.10888,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.11666,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.12475,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.13253,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.1403,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.14808,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.15617,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.16395,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.17172,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.17919,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.18759,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.19506,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.20283,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.21061,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.2187,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.22648,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.23426,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.24203,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.25012,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.25665,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.26505,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.27252,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.2803,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.28807,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.29616,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.30394,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.31172,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.3195,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.32758,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.33536,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.34314,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.35092,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.359,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.36678,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.37456,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.38234,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.39043,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.3982,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.40598,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.41376,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.42185,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.42838,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.43647,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.44424,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.45202,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.4598,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.46789,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.47567,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.48344,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.49122,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.49931,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.50709,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.51455,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.52233,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.53073,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.5382,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.54597,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.55375,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.56184,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.56962,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.57739,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.58517,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.59326,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.59979,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.60788,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.61566,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.62344,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.63121,67.486,graph-read approximate
+single_iv,0.1 W/cm²,0.6393,64.889,graph-read approximate
+single_iv,0.1 W/cm²,0.64708,64.889,graph-read approximate
+single_iv,0.1 W/cm²,0.65486,64.889,graph-read approximate
+single_iv,0.1 W/cm²,0.66263,63.592,graph-read approximate
+single_iv,0.1 W/cm²,0.67072,62.294,graph-read approximate
+single_iv,0.1 W/cm²,0.6785,60.997,graph-read approximate
+single_iv,0.1 W/cm²,0.68628,57.103,graph-read approximate
+single_iv,0.1 W/cm²,0.69405,54.508,graph-read approximate
+single_iv,0.1 W/cm²,0.70214,50.614,graph-read approximate
+single_iv,0.1 W/cm²,0.70992,48.019,graph-read approximate
+single_iv,0.1 W/cm²,0.7177,41.53,graph-read approximate
+single_iv,0.1 W/cm²,0.72548,36.339,graph-read approximate
+single_iv,0.1 W/cm²,0.73356,28.552,graph-read approximate
+single_iv,0.1 W/cm²,0.74134,20.764,graph-read approximate
+single_iv,0.1 W/cm²,0.74912,10.383,graph-read approximate
+single_iv,0.1 W/cm²,0.75658,1.297,graph-read approximate
+single_iv,0.1 W/cm²,0.75738,0,graph-read approximate
+single_iv,0.2 W/cm²,0,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.00778,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.01587,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.02364,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.03142,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.0392,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.04729,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.05506,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.06284,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.07062,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.07871,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.08524,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.09333,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.10111,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.10888,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.11666,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.12475,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.13253,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.1403,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.14808,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.15617,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.16395,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.17172,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.17919,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.18759,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.19506,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.20283,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.21061,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.2187,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.22648,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.23426,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.24203,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.25012,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.25665,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.26505,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.27252,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.2803,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.28807,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.29616,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.30394,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.31172,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.3195,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.32758,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.33536,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.34314,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.35092,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.359,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.36678,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.37456,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.38234,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.39043,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.3982,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.40598,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.41376,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.42185,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.42838,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.43647,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.44424,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.45202,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.4598,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.46789,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.47567,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.48344,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.49122,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.49931,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.50709,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.51455,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.52233,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.53073,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.5382,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.54597,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.55375,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.56184,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.56962,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.57739,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.58517,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.59326,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.59979,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.60788,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.61566,136.267,graph-read approximate
+single_iv,0.2 W/cm²,0.62344,134.97,graph-read approximate
+single_iv,0.2 W/cm²,0.63121,134.97,graph-read approximate
+single_iv,0.2 W/cm²,0.6393,133.672,graph-read approximate
+single_iv,0.2 W/cm²,0.64708,131.076,graph-read approximate
+single_iv,0.2 W/cm²,0.65486,129.778,graph-read approximate
+single_iv,0.2 W/cm²,0.66263,128.481,graph-read approximate
+single_iv,0.2 W/cm²,0.67072,124.587,graph-read approximate
+single_iv,0.2 W/cm²,0.6785,120.694,graph-read approximate
+single_iv,0.2 W/cm²,0.68628,115.503,graph-read approximate
+single_iv,0.2 W/cm²,0.69405,110.311,graph-read approximate
+single_iv,0.2 W/cm²,0.70214,102.525,graph-read approximate
+single_iv,0.2 W/cm²,0.70992,94.739,graph-read approximate
+single_iv,0.2 W/cm²,0.7177,84.356,graph-read approximate
+single_iv,0.2 W/cm²,0.72548,71.378,graph-read approximate
+single_iv,0.2 W/cm²,0.73356,57.103,graph-read approximate
+single_iv,0.2 W/cm²,0.74134,41.53,graph-read approximate
+single_iv,0.2 W/cm²,0.74912,23.361,graph-read approximate
+single_iv,0.2 W/cm²,0.75658,2.597,graph-read approximate
+single_iv,0.2 W/cm²,0.75742,0,graph-read approximate
+single_iv,0.4 W/cm²,0,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.00809,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.01587,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.02395,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.03111,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.0392,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.04698,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.05506,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.06315,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.07093,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.07902,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.08711,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.09426,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.10173,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.11013,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.11822,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.12599,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.13408,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.14217,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.14901,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.15679,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.16488,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.17328,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.18075,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.18915,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.19723,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.20408,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.21186,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.21994,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.22803,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.23581,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.2439,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.25199,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.25976,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.26692,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.27501,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.2831,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.29087,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.29896,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.30705,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.31483,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.32198,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.33007,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.33816,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.34594,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.35403,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.36212,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.36989,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.37798,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.38483,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.39323,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.40069,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.40909,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.41718,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.42496,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.43305,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.43989,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.44798,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.45576,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.46384,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.47224,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.47971,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.48811,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.49495,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.50304,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.51113,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.51891,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.527,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.53477,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.54286,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.55095,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.55811,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.56619,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.57397,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.58206,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.59015,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.59793,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.60601,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.61317,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.62126,276.428,graph-read approximate
+single_iv,0.4 W/cm²,0.62904,275.131,graph-read approximate
+single_iv,0.4 W/cm²,0.63712,273.832,graph-read approximate
+single_iv,0.4 W/cm²,0.64521,271.237,graph-read approximate
+single_iv,0.4 W/cm²,0.65299,269.939,graph-read approximate
+single_iv,0.4 W/cm²,0.66108,267.343,graph-read approximate
+single_iv,0.4 W/cm²,0.66917,262.153,graph-read approximate
+single_iv,0.4 W/cm²,0.67632,256.961,graph-read approximate
+single_iv,0.4 W/cm²,0.68379,250.473,graph-read approximate
+single_iv,0.4 W/cm²,0.69219,241.387,graph-read approximate
+single_iv,0.4 W/cm²,0.70028,231.006,graph-read approximate
+single_iv,0.4 W/cm²,0.70805,216.731,graph-read approximate
+single_iv,0.4 W/cm²,0.71614,201.156,graph-read approximate
+single_iv,0.4 W/cm²,0.72423,180.392,graph-read approximate
+single_iv,0.4 W/cm²,0.73108,155.734,graph-read approximate
+single_iv,0.4 W/cm²,0.73885,127.183,graph-read approximate
+single_iv,0.4 W/cm²,0.74694,93.441,graph-read approximate
+single_iv,0.4 W/cm²,0.75534,53.209,graph-read approximate
+single_iv,0.4 W/cm²,0.76281,7.786,graph-read approximate
+single_iv,0.4 W/cm²,0.76407,0,graph-read approximate
+single_iv,0.8 W/cm²,0,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.00809,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.01587,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.02395,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.03204,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.03982,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.04791,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.05631,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.06377,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.07217,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.08026,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.08804,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.09613,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.10422,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.11199,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.12008,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.12817,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.13595,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.14404,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.15181,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.16115,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.16893,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.17701,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.1851,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.19288,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.20097,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.20906,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.21683,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.22492,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.23301,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.24079,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.24888,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.25728,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.26505,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.27314,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.28123,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.28901,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.2971,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.30519,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.31296,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.32105,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.32914,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.33692,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.34501,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.35309,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.36087,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.36896,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.37674,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.38483,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.39323,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.40069,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.40909,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.41718,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.42496,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.43305,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.44113,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.44891,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.457,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.46602,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.47411,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.4822,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.48998,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.49806,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.50615,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.51393,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.52202,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.53011,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.53788,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.54597,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.55406,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.56184,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.56993,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.57833,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.5861,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.59419,545.068,graph-read approximate
+single_iv,0.8 W/cm²,0.60197,543.771,graph-read approximate
+single_iv,0.8 W/cm²,0.61006,539.877,graph-read approximate
+single_iv,0.8 W/cm²,0.61815,538.579,graph-read approximate
+single_iv,0.8 W/cm²,0.62592,535.985,graph-read approximate
+single_iv,0.8 W/cm²,0.63401,530.793,graph-read approximate
+single_iv,0.8 W/cm²,0.6421,525.602,graph-read approximate
+single_iv,0.8 W/cm²,0.64988,519.113,graph-read approximate
+single_iv,0.8 W/cm²,0.65797,511.326,graph-read approximate
+single_iv,0.8 W/cm²,0.66606,502.243,graph-read approximate
+single_iv,0.8 W/cm²,0.67383,490.562,graph-read approximate
+single_iv,0.8 W/cm²,0.68192,476.287,graph-read approximate
+single_iv,0.8 W/cm²,0.69001,459.415,graph-read approximate
+single_iv,0.8 W/cm²,0.69779,438.651,graph-read approximate
+single_iv,0.8 W/cm²,0.70588,416.588,graph-read approximate
+single_iv,0.8 W/cm²,0.71428,389.335,graph-read approximate
+single_iv,0.8 W/cm²,0.72174,358.187,graph-read approximate
+single_iv,0.8 W/cm²,0.73014,323.148,graph-read approximate
+single_iv,0.8 W/cm²,0.73823,284.215,graph-read approximate
+single_iv,0.8 W/cm²,0.74601,238.792,graph-read approximate
+single_iv,0.8 W/cm²,0.7541,190.775,graph-read approximate
+single_iv,0.8 W/cm²,0.76218,136.267,graph-read approximate
+single_iv,0.8 W/cm²,0.76996,76.569,graph-read approximate
+single_iv,0.8 W/cm²,0.77929,10.383,graph-read approximate
+single_iv,0.8 W/cm²,0.78044,0,graph-read approximate
+single_iv,1.6 W/cm²,0,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.00809,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.01587,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.02395,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.03298,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.04106,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.04915,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.05693,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.06502,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.07311,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.08213,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.08991,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.098,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.10608,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.11386,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.12195,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.13097,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.13906,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.14715,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.15493,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.16301,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.1711,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.17888,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.1879,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.19599,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.20408,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.21186,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.21994,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.22803,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.23705,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.24514,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.25292,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.26101,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.2691,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.27688,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.28621,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.29399,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.30207,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.30985,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.31794,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.32603,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.33381,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.34314,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.35092,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.359,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.36709,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.37487,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.38296,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.39198,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.40007,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.40816,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.41594,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.42402,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.43211,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.44113,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.44891,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.457,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.46509,1095.328,graph-read approximate
+single_iv,1.6 W/cm²,0.47287,1094.031,graph-read approximate
+single_iv,1.6 W/cm²,0.48095,1094.031,graph-read approximate
+single_iv,1.6 W/cm²,0.48904,1092.733,graph-read approximate
+single_iv,1.6 W/cm²,0.49806,1091.434,graph-read approximate
+single_iv,1.6 W/cm²,0.50615,1088.839,graph-read approximate
+single_iv,1.6 W/cm²,0.51393,1087.542,graph-read approximate
+single_iv,1.6 W/cm²,0.52202,1084.945,graph-read approximate
+single_iv,1.6 W/cm²,0.53011,1081.053,graph-read approximate
+single_iv,1.6 W/cm²,0.53788,1078.456,graph-read approximate
+single_iv,1.6 W/cm²,0.54691,1073.267,graph-read approximate
+single_iv,1.6 W/cm²,0.55499,1068.075,graph-read approximate
+single_iv,1.6 W/cm²,0.56308,1061.586,graph-read approximate
+single_iv,1.6 W/cm²,0.57086,1055.097,graph-read approximate
+single_iv,1.6 W/cm²,0.57895,1047.311,graph-read approximate
+single_iv,1.6 W/cm²,0.58704,1038.225,graph-read approximate
+single_iv,1.6 W/cm²,0.59606,1026.545,graph-read approximate
+single_iv,1.6 W/cm²,0.60415,1013.567,graph-read approximate
+single_iv,1.6 W/cm²,0.61193,999.292,graph-read approximate
+single_iv,1.6 W/cm²,0.62001,983.719,graph-read approximate
+single_iv,1.6 W/cm²,0.6281,965.55,graph-read approximate
+single_iv,1.6 W/cm²,0.63588,946.083,graph-read approximate
+single_iv,1.6 W/cm²,0.64397,924.022,graph-read approximate
+single_iv,1.6 W/cm²,0.65299,899.363,graph-read approximate
+single_iv,1.6 W/cm²,0.66108,873.408,graph-read approximate
+single_iv,1.6 W/cm²,0.66917,846.155,graph-read approximate
+single_iv,1.6 W/cm²,0.67694,813.71,graph-read approximate
+single_iv,1.6 W/cm²,0.68503,781.266,graph-read approximate
+single_iv,1.6 W/cm²,0.69281,744.927,graph-read approximate
+single_iv,1.6 W/cm²,0.70214,705.994,graph-read approximate
+single_iv,1.6 W/cm²,0.70992,663.166,graph-read approximate
+single_iv,1.6 W/cm²,0.71801,617.744,graph-read approximate
+single_iv,1.6 W/cm²,0.7261,567.132,graph-read approximate
+single_iv,1.6 W/cm²,0.73387,515.22,graph-read approximate
+single_iv,1.6 W/cm²,0.74196,458.118,graph-read approximate
+single_iv,1.6 W/cm²,0.75099,395.823,graph-read approximate
+single_iv,1.6 W/cm²,0.75907,330.934,graph-read approximate
+single_iv,1.6 W/cm²,0.76716,260.854,graph-read approximate
+single_iv,1.6 W/cm²,0.77494,182.987,graph-read approximate
+single_iv,1.6 W/cm²,0.78303,103.823,graph-read approximate
+single_iv,1.6 W/cm²,0.79112,16.872,graph-read approximate
+single_iv,1.6 W/cm²,0.79258,0,graph-read approximate
+single_iv,2.4 W/cm²,0,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.00809,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.01587,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.0252,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.03298,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.04106,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.04915,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.05817,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.06595,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.07404,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.08213,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.08991,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.09924,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.10702,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.11511,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.12319,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.13222,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.1403,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.14808,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.15617,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.16395,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.17328,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.18075,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.18915,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.19723,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.20501,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.21403,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.22181,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.23021,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.2383,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.24701,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.25479,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.26288,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.27096,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.27874,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.28807,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.29585,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.30394,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.31203,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.32105,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.32914,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.33692,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.34501,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.35309,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.36212,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.36989,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.37798,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.38607,1620.93,graph-read approximate
+single_iv,2.4 W/cm²,0.39509,1618.335,graph-read approximate
+single_iv,2.4 W/cm²,0.40318,1618.335,graph-read approximate
+single_iv,2.4 W/cm²,0.41096,1617.036,graph-read approximate
+single_iv,2.4 W/cm²,0.41905,1614.441,graph-read approximate
+single_iv,2.4 W/cm²,0.42713,1611.846,graph-read approximate
+single_iv,2.4 W/cm²,0.43616,1609.249,graph-read approximate
+single_iv,2.4 W/cm²,0.44424,1605.357,graph-read approximate
+single_iv,2.4 W/cm²,0.45202,1602.761,graph-read approximate
+single_iv,2.4 W/cm²,0.46011,1597.569,graph-read approximate
+single_iv,2.4 W/cm²,0.46789,1591.08,graph-read approximate
+single_iv,2.4 W/cm²,0.47722,1587.188,graph-read approximate
+single_iv,2.4 W/cm²,0.485,1578.102,graph-read approximate
+single_iv,2.4 W/cm²,0.49309,1569.019,graph-read approximate
+single_iv,2.4 W/cm²,0.50118,1561.232,graph-read approximate
+single_iv,2.4 W/cm²,0.50989,1550.849,graph-read approximate
+single_iv,2.4 W/cm²,0.51829,1537.871,graph-read approximate
+single_iv,2.4 W/cm²,0.52606,1524.894,graph-read approximate
+single_iv,2.4 W/cm²,0.53415,1513.213,graph-read approximate
+single_iv,2.4 W/cm²,0.54224,1496.343,graph-read approximate
+single_iv,2.4 W/cm²,0.55095,1480.769,graph-read approximate
+single_iv,2.4 W/cm²,0.55873,1461.302,graph-read approximate
+single_iv,2.4 W/cm²,0.56682,1441.835,graph-read approximate
+single_iv,2.4 W/cm²,0.57522,1421.071,graph-read approximate
+single_iv,2.4 W/cm²,0.58393,1399.009,graph-read approximate
+single_iv,2.4 W/cm²,0.59202,1374.351,graph-read approximate
+single_iv,2.4 W/cm²,0.59979,1349.693,graph-read approximate
+single_iv,2.4 W/cm²,0.60788,1321.143,graph-read approximate
+single_iv,2.4 W/cm²,0.61628,1292.59,graph-read approximate
+single_iv,2.4 W/cm²,0.62499,1262.742,graph-read approximate
+single_iv,2.4 W/cm²,0.63308,1230.298,graph-read approximate
+single_iv,2.4 W/cm²,0.64086,1196.556,graph-read approximate
+single_iv,2.4 W/cm²,0.64895,1160.217,graph-read approximate
+single_iv,2.4 W/cm²,0.65797,1122.581,graph-read approximate
+single_iv,2.4 W/cm²,0.66606,1082.35,graph-read approximate
+single_iv,2.4 W/cm²,0.67383,1040.822,graph-read approximate
+single_iv,2.4 W/cm²,0.68192,995.4,graph-read approximate
+single_iv,2.4 W/cm²,0.69001,948.678,graph-read approximate
+single_iv,2.4 W/cm²,0.69903,899.363,graph-read approximate
+single_iv,2.4 W/cm²,0.70712,847.452,graph-read approximate
+single_iv,2.4 W/cm²,0.7149,791.647,graph-read approximate
+single_iv,2.4 W/cm²,0.72299,733.247,graph-read approximate
+single_iv,2.4 W/cm²,0.73108,670.954,graph-read approximate
+single_iv,2.4 W/cm²,0.7401,604.766,graph-read approximate
+single_iv,2.4 W/cm²,0.74819,535.985,graph-read approximate
+single_iv,2.4 W/cm²,0.75596,462.01,graph-read approximate
+single_iv,2.4 W/cm²,0.76405,382.846,graph-read approximate
+single_iv,2.4 W/cm²,0.77307,298.49,graph-read approximate
+single_iv,2.4 W/cm²,0.78116,211.539,graph-read approximate
+single_iv,2.4 W/cm²,0.78894,118.098,graph-read approximate
+single_iv,2.4 W/cm²,0.79703,20.764,graph-read approximate
+single_iv,2.4 W/cm²,0.79865,0,graph-read approximate
+single_iv,3.6 W/cm²,0,2394.407,graph-read approximate
+single_iv,3.6 W/cm²,0.00809,2394.407,graph-read approximate
+single_iv,3.6 W/cm²,0.01587,2394.407,graph-read approximate
+single_iv,3.6 W/cm²,0.0252,2394.407,graph-read approximate
+single_iv,3.6 W/cm²,0.03298,2394.407,graph-read approximate
+single_iv,3.6 W/cm²,0.04106,2394.407,graph-read approximate
+single_iv,3.6 W/cm²,0.04915,2394.407,graph-read approximate
+single_iv,3.6 W/cm²,0.05693,2394.407,graph-read approximate
+single_iv,3.6 W/cm²,0.06595,2394.407,graph-read approximate
+single_iv,3.6 W/cm²,0.07404,2394.407,graph-read approximate
+single_iv,3.6 W/cm²,0.08213,2394.407,graph-read approximate
+single_iv,3.6 W/cm²,0.08991,2394.407,graph-read approximate
+single_iv,3.6 W/cm²,0.098,2394.407,graph-read approximate
+single_iv,3.6 W/cm²,0.10608,2393.11,graph-read approximate
+single_iv,3.6 W/cm²,0.11511,2391.813,graph-read approximate
+single_iv,3.6 W/cm²,0.12319,2389.216,graph-read approximate
+single_iv,3.6 W/cm²,0.13097,2387.919,graph-read approximate
+single_iv,3.6 W/cm²,0.13906,2387.919,graph-read approximate
+single_iv,3.6 W/cm²,0.14715,2385.324,graph-read approximate
+single_iv,3.6 W/cm²,0.15617,2384.026,graph-read approximate
+single_iv,3.6 W/cm²,0.16395,2380.132,graph-read approximate
+single_iv,3.6 W/cm²,0.17204,2378.835,graph-read approximate
+single_iv,3.6 W/cm²,0.18012,2374.941,graph-read approximate
+single_iv,3.6 W/cm²,0.1879,2372.346,graph-read approximate
+single_iv,3.6 W/cm²,0.19723,2368.452,graph-read approximate
+single_iv,3.6 W/cm²,0.20501,2365.857,graph-read approximate
+single_iv,3.6 W/cm²,0.2131,2361.963,graph-read approximate
+single_iv,3.6 W/cm²,0.22119,2355.474,graph-read approximate
+single_iv,3.6 W/cm²,0.22897,2351.582,graph-read approximate
+single_iv,3.6 W/cm²,0.2383,2347.688,graph-read approximate
+single_iv,3.6 W/cm²,0.24577,2341.199,graph-read approximate
+single_iv,3.6 W/cm²,0.25417,2332.115,graph-read approximate
+single_iv,3.6 W/cm²,0.26225,2324.327,graph-read approximate
+single_iv,3.6 W/cm²,0.27003,2317.838,graph-read approximate
+single_iv,3.6 W/cm²,0.27812,2308.754,graph-read approximate
+single_iv,3.6 W/cm²,0.28683,2298.371,graph-read approximate
+single_iv,3.6 W/cm²,0.29523,2290.585,graph-read approximate
+single_iv,3.6 W/cm²,0.3027,2284.096,graph-read approximate
+single_iv,3.6 W/cm²,0.3111,2271.118,graph-read approximate
+single_iv,3.6 W/cm²,0.31918,2252.949,graph-read approximate
+single_iv,3.6 W/cm²,0.32789,2241.27,graph-read approximate
+single_iv,3.6 W/cm²,0.33629,2233.482,graph-read approximate
+single_iv,3.6 W/cm²,0.34376,2217.909,graph-read approximate
+single_iv,3.6 W/cm²,0.35216,2199.74,graph-read approximate
+single_iv,3.6 W/cm²,0.36025,2189.359,graph-read approximate
+single_iv,3.6 W/cm²,0.36896,2182.87,graph-read approximate
+single_iv,3.6 W/cm²,0.37674,2159.509,graph-read approximate
+single_iv,3.6 W/cm²,0.38483,2142.637,graph-read approximate
+single_iv,3.6 W/cm²,0.39323,2125.767,graph-read approximate
+single_iv,3.6 W/cm²,0.40069,2111.492,graph-read approximate
+single_iv,3.6 W/cm²,0.41002,2086.834,graph-read approximate
+single_iv,3.6 W/cm²,0.4178,2060.878,graph-read approximate
+single_iv,3.6 W/cm²,0.42589,2037.517,graph-read approximate
+single_iv,3.6 W/cm²,0.43429,2019.348,graph-read approximate
+single_iv,3.6 W/cm²,0.44176,2005.073,graph-read approximate
+single_iv,3.6 W/cm²,0.45109,1983.011,graph-read approximate
+single_iv,3.6 W/cm²,0.45887,1957.056,graph-read approximate
+single_iv,3.6 W/cm²,0.46695,1931.1,graph-read approximate
+single_iv,3.6 W/cm²,0.47504,1906.442,graph-read approximate
+single_iv,3.6 W/cm²,0.48282,1881.784,graph-read approximate
+single_iv,3.6 W/cm²,0.49122,1854.531,graph-read approximate
+single_iv,3.6 W/cm²,0.49993,1825.98,graph-read approximate
+single_iv,3.6 W/cm²,0.50802,1797.428,graph-read approximate
+single_iv,3.6 W/cm²,0.5158,1770.175,graph-read approximate
+single_iv,3.6 W/cm²,0.52389,1739.028,graph-read approximate
+single_iv,3.6 W/cm²,0.53228,1707.881,graph-read approximate
+single_iv,3.6 W/cm²,0.541,1675.436,graph-read approximate
+single_iv,3.6 W/cm²,0.54908,1644.291,graph-read approximate
+single_iv,3.6 W/cm²,0.55686,1611.846,graph-read approximate
+single_iv,3.6 W/cm²,0.56495,1578.102,graph-read approximate
+single_iv,3.6 W/cm²,0.57304,1541.765,graph-read approximate
+single_iv,3.6 W/cm²,0.58206,1506.724,graph-read approximate
+single_iv,3.6 W/cm²,0.59015,1472.982,graph-read approximate
+single_iv,3.6 W/cm²,0.59793,1434.049,graph-read approximate
+single_iv,3.6 W/cm²,0.60601,1393.818,graph-read approximate
+single_iv,3.6 W/cm²,0.61379,1353.587,graph-read approximate
+single_iv,3.6 W/cm²,0.62312,1314.654,graph-read approximate
+single_iv,3.6 W/cm²,0.6309,1275.72,graph-read approximate
+single_iv,3.6 W/cm²,0.63899,1232.893,graph-read approximate
+single_iv,3.6 W/cm²,0.64708,1186.173,graph-read approximate
+single_iv,3.6 W/cm²,0.65486,1140.751,graph-read approximate
+single_iv,3.6 W/cm²,0.66295,1095.328,graph-read approximate
+single_iv,3.6 W/cm²,0.67197,1047.311,graph-read approximate
+single_iv,3.6 W/cm²,0.68006,995.4,graph-read approximate
+single_iv,3.6 W/cm²,0.68814,944.786,graph-read approximate
+single_iv,3.6 W/cm²,0.69592,892.875,graph-read approximate
+single_iv,3.6 W/cm²,0.70401,838.367,graph-read approximate
+single_iv,3.6 W/cm²,0.71303,779.967,graph-read approximate
+single_iv,3.6 W/cm²,0.72112,718.971,graph-read approximate
+single_iv,3.6 W/cm²,0.7289,656.677,graph-read approximate
+single_iv,3.6 W/cm²,0.73699,590.491,graph-read approximate
+single_iv,3.6 W/cm²,0.74507,520.41,graph-read approximate
+single_iv,3.6 W/cm²,0.7541,446.437,graph-read approximate
+single_iv,3.6 W/cm²,0.76218,369.868,graph-read approximate
+single_iv,3.6 W/cm²,0.76996,289.406,graph-read approximate
+single_iv,3.6 W/cm²,0.77805,205.05,graph-read approximate
+single_iv,3.6 W/cm²,0.78614,116.8,graph-read approximate
+single_iv,3.6 W/cm²,0.79516,22.063,graph-read approximate
+single_iv,3.6 W/cm²,0.79695,0,graph-read approximate
