@@ -1,0 +1,380 @@
+[
+  {
+    "index": 1,
+    "role": "帽层",
+    "material": "GaInAs",
+    "fill": "#DCE6EF",
+    "text_color": "#182733",
+    "y": 10,
+    "height": 72,
+    "vertices": [
+      [
+        10,
+        10
+      ],
+      [
+        460,
+        10
+      ],
+      [
+        460,
+        82
+      ],
+      [
+        10,
+        82
+      ]
+    ]
+  },
+  {
+    "index": 2,
+    "role": "窗口层",
+    "material": "GaInP",
+    "fill": "#255574",
+    "text_color": "#FFFFFF",
+    "y": 82,
+    "height": 72,
+    "vertices": [
+      [
+        10,
+        82
+      ],
+      [
+        460,
+        82
+      ],
+      [
+        460,
+        154
+      ],
+      [
+        10,
+        154
+      ]
+    ]
+  },
+  {
+    "index": 3,
+    "role": "发射区",
+    "material": "GaInAs",
+    "fill": "#C6D9E7",
+    "text_color": "#182733",
+    "y": 154,
+    "height": 72,
+    "vertices": [
+      [
+        10,
+        154
+      ],
+      [
+        460,
+        154
+      ],
+      [
+        460,
+        226
+      ],
+      [
+        10,
+        226
+      ]
+    ]
+  },
+  {
+    "index": 4,
+    "role": "基区",
+    "material": "GaInAs",
+    "fill": "#E8EFF4",
+    "text_color": "#182733",
+    "y": 226,
+    "height": 72,
+    "vertices": [
+      [
+        10,
+        226
+      ],
+      [
+        460,
+        226
+      ],
+      [
+        460,
+        298
+      ],
+      [
+        10,
+        298
+      ]
+    ]
+  },
+  {
+    "index": 5,
+    "role": "背场层",
+    "material": "AlGaInAs",
+    "fill": "#F0DEC7",
+    "text_color": "#182733",
+    "y": 298,
+    "height": 72,
+    "vertices": [
+      [
+        10,
+        298
+      ],
+      [
+        460,
+        298
+      ],
+      [
+        460,
+        370
+      ],
+      [
+        10,
+        370
+      ]
+    ]
+  },
+  {
+    "index": 6,
+    "role": "隧穿结",
+    "material": "AlGaInAs",
+    "fill": "#A72A3D",
+    "text_color": "#FFFFFF",
+    "y": 370,
+    "height": 72,
+    "vertices": [
+      [
+        10,
+        370
+      ],
+      [
+        460,
+        370
+      ],
+      [
+        460,
+        442
+      ],
+      [
+        10,
+        442
+      ]
+    ]
+  },
+  {
+    "index": 7,
+    "role": "窗口层",
+    "material": "GaInP",
+    "fill": "#255574",
+    "text_color": "#FFFFFF",
+    "y": 442,
+    "height": 72,
+    "vertices": [
+      [
+        10,
+        442
+      ],
+      [
+        460,
+        442
+      ],
+      [
+        460,
+        514
+      ],
+      [
+        10,
+        514
+      ]
+    ]
+  },
+  {
+    "index": 8,
+    "role": "发射区",
+    "material": "GaInAs",
+    "fill": "#C6D9E7",
+    "text_color": "#182733",
+    "y": 514,
+    "height": 72,
+    "vertices": [
+      [
+        10,
+        514
+      ],
+      [
+        460,
+        514
+      ],
+      [
+        460,
+        586
+      ],
+      [
+        10,
+        586
+      ]
+    ]
+  },
+  {
+    "index": 9,
+    "role": "基区",
+    "material": "GaInAs",
+    "fill": "#E8EFF4",
+    "text_color": "#182733",
+    "y": 586,
+    "height": 72,
+    "vertices": [
+      [
+        10,
+        586
+      ],
+      [
+        460,
+        586
+      ],
+      [
+        460,
+        658
+      ],
+      [
+        10,
+        658
+      ]
+    ]
+  },
+  {
+    "index": 10,
+    "role": "背场层",
+    "material": "AlGaInAs",
+    "fill": "#F0DEC7",
+    "text_color": "#182733",
+    "y": 658,
+    "height": 72,
+    "vertices": [
+      [
+        10,
+        658
+      ],
+      [
+        460,
+        658
+      ],
+      [
+        460,
+        730
+      ],
+      [
+        10,
+        730
+      ]
+    ]
+  },
+  {
+    "index": 11,
+    "role": "隧穿结",
+    "material": "AlGaInAs",
+    "fill": "#A72A3D",
+    "text_color": "#FFFFFF",
+    "y": 730,
+    "height": 72,
+    "vertices": [
+      [
+        10,
+        730
+      ],
+      [
+        460,
+        730
+      ],
+      [
+        460,
+        802
+      ],
+      [
+        10,
+        802
+      ]
+    ]
+  },
+  {
+    "index": 12,
+    "role": "渐变缓冲层",
+    "material": "AlGaInAs",
+    "fill": "#B73C4D",
+    "text_color": "#FFFFFF",
+    "y": 802,
+    "height": 210,
+    "vertices": [
+      [
+        10,
+        802
+      ],
+      [
+        460,
+        802
+      ],
+      [
+        370,
+        1012
+      ],
+      [
+        100,
+        1012
+      ]
+    ]
+  },
+  {
+    "index": 13,
+    "role": "缓冲层",
+    "material": "GaAs",
+    "fill": "#657A86",
+    "text_color": "#FFFFFF",
+    "y": 1012,
+    "height": 84,
+    "vertices": [
+      [
+        100,
+        1012
+      ],
+      [
+        370,
+        1012
+      ],
+      [
+        370,
+        1096
+      ],
+      [
+        100,
+        1096
+      ]
+    ]
+  },
+  {
+    "index": 14,
+    "role": "衬底",
+    "material": "GaAs",
+    "fill": "#CCD3D8",
+    "text_color": "#182733",
+    "y": 1096,
+    "height": 72,
+    "vertices": [
+      [
+        100,
+        1096
+      ],
+      [
+        370,
+        1096
+      ],
+      [
+        370,
+        1168
+      ],
+      [
+        100,
+        1168
+      ]
+    ]
+  }
+]

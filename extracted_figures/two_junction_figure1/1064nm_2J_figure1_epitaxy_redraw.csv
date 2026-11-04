@@ -1,0 +1,15 @@
+﻿Order_top_to_bottom,Layer_role,Original_material_label
+1,帽层,GaInAs
+2,窗口层,GaInP
+3,发射区,GaInAs
+4,基区,GaInAs
+5,背场层,AlGaInAs
+6,隧穿结,AlGaInAs
+7,窗口层,GaInP
+8,发射区,GaInAs
+9,基区,GaInAs
+10,背场层,AlGaInAs
+11,隧穿结,AlGaInAs
+12,渐变缓冲层,AlGaInAs
+13,缓冲层,GaAs
+14,衬底,GaAs

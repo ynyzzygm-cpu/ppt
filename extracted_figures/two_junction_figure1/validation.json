@@ -1,0 +1,19 @@
+{
+  "layer_count": 14,
+  "original_order_preserved": true,
+  "original_material_labels_preserved": true,
+  "PPT_native_shapes": 14,
+  "PPT_native_text_boxes": 14,
+  "font_latin": "Times New Roman Bold",
+  "font_chinese": "Noto Sans CJK SC Bold",
+  "pdf_fonts": [
+    "CNAJXZ+TimesNewRomanPS-BoldMT",
+    "CVKVVF+NotoSansCJKsc-Bold"
+  ],
+  "PNG_pixels": [
+    2320,
+    5824
+  ],
+  "native_PPT_office_roundtrip_checked": true,
+  "roundtrip_material_labels_matched": true
+}
