@@ -1,0 +1,55 @@
+{
+  "run_status": "slides_recorded",
+  "deck_name": "multijunction-process-slide-v3",
+  "selected_backend": "built-in image tool",
+  "sample_generation_method": {
+    "backend_used": "built-in image tool",
+    "tool_name": "image_gen__imagegen",
+    "mode": "edit",
+    "input_context_preparation": "Reference image viewed; edit existing slide using built-in image tool. User provided supplementary 9J data and an isometric style reference."
+  },
+  "max_concurrent_slides": 6,
+  "slides": [
+    {
+      "slide_id": "slide_01",
+      "number": 1,
+      "title": "多结InGaAs激光光伏电池：结构设计与制备流程",
+      "job": "prompts/slide_01.json",
+      "out": "origin_image/slide_01.png",
+      "input_images": [
+        {
+          "path": "/workspace/multijunction-process-slide-v2/origin_image/slide_01.png",
+          "role": "Current slide to edit: redraw only structure region and its material legend",
+          "fidelity": "Preserve right buffer staircase, bottom six process modules, title and9J performance."
+        }
+      ],
+      "requires_context_images": true,
+      "status": "recorded",
+      "dispatch": {
+        "agent_id": "/root/process_slide_image",
+        "agent_nickname": "process_slide_image",
+        "prompt": "prompts/slide_01.json",
+        "prompt_sha256": "15e99c25ff53ebf3095bfcaa42ffc7bf1d7e112c7b9f99bf8b36131a4d58ea71",
+        "dispatched_at": "2026-11-04T14:06:30Z"
+      },
+      "result": {
+        "agent_id": "/root/process_slide_image",
+        "backend_used": "built-in image tool",
+        "selected_source": "/workspace/multijunction-process-slide-v3/candidates/slide01_materials_final.png",
+        "selected_source_sha256": "e6bd67910592f22d5af884c50b740a91122f3f474fe4786580b9075f74eb3748",
+        "final_image": "origin_image/slide_01.png",
+        "final_image_sha256": "e6bd67910592f22d5af884c50b740a91122f3f474fe4786580b9075f74eb3748",
+        "expected_backend": "built-in image tool",
+        "expected_backend_labels": [
+          "built-in image tool",
+          "image_gen__imagegen"
+        ],
+        "sample_generation_method_matched": true,
+        "qa_note": "Root visual QA: explicit material layers and readable Subcell4-layer/TJ2-layer insets;1J AlGaAs/GaAs inversionTJ andCGB/BSF retained;2J top1 bottom2;6J omitted2–5,9J omitted2–8 with proper first/final cells and basalTJs;9Jperformance,9-stepbuffer and6processmodules unchanged;3DandTNRserif retained.",
+        "recorded_at": "2026-11-04T14:11:57Z"
+      },
+      "blocker": null
+    }
+  ],
+  "updated_at": "2026-11-04T14:11:57Z"
+}

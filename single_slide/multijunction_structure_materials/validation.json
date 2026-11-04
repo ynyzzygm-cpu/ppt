@@ -1,0 +1,72 @@
+{
+  "slides": 1,
+  "aspect_ratio": "16:9",
+  "slide_kind": "full-slide generated image",
+  "backend": "built-in image tool (image_gen__imagegen), edit",
+  "source_image_pixels": [
+    1672,
+    941
+  ],
+  "picture_bytes_match_backend_image": true,
+  "notes_embedded": true,
+  "typography": "Times New Roman Bold appearance for Latin, image-based",
+  "visual_QA": {
+    "isometric_structure": true,
+    "2J_numbering_top_to_bottom": [
+      1,
+      2
+    ],
+    "6J_shown_subcells": [
+      1,
+      6
+    ],
+    "6J_omitted_range": [
+      2,
+      5
+    ],
+    "6J_omitted_count": 4,
+    "9J_shown_subcells": [
+      1,
+      9
+    ],
+    "9J_omitted_range": [
+      2,
+      8
+    ],
+    "9J_omitted_count": 7,
+    "multijunction_TJ_bilayer_top_to_bottom": [
+      "AlGaInAs-p++",
+      "AlGaInAs-n++"
+    ],
+    "subcell_layers_top_to_bottom": [
+      "GaInP-Si Window",
+      "GaInAs-Si Emitter",
+      "GaInAs-Zn Base",
+      "AlGaInAs-Zn BSF"
+    ],
+    "cap": "GaInAs-Si",
+    "CGB": "AlGaInAs",
+    "substrate": "n-GaAs",
+    "basal_TJs_shown": [
+      "TJ2",
+      "TJ6",
+      "TJ9"
+    ],
+    "single_junction_inversion_TJ": "AlGaAs/GaAs",
+    "single_junction_CGB_also_BSF": true,
+    "9J_performance_and_conditions_preserved": true,
+    "buffer_In_steps_percent": [
+      1,
+      2,
+      6,
+      10,
+      14,
+      18,
+      22,
+      30,
+      22
+    ],
+    "fabrication_modules": 6
+  },
+  "schematic_not_thickness_scale": true
+}
