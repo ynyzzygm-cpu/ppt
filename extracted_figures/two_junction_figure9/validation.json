@@ -1,0 +1,16 @@
+{
+  "font": "Times New Roman Bold",
+  "pdf_fonts": [
+    "FYLPTV+TimesNewRomanPS-BoldItalicMT",
+    "CNAJXZ+TimesNewRomanPS-BoldMT"
+  ],
+  "legend_outside_plot": true,
+  "dual_y_preserved": true,
+  "png_size": [
+    4320,
+    3200
+  ],
+  "min_derivative": -0.8082,
+  "min_derivative_wavelength_nm": 1130.0,
+  "EQE_max": 43.967
+}
