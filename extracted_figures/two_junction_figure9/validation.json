@@ -4,7 +4,9 @@
     "FYLPTV+TimesNewRomanPS-BoldItalicMT",
     "CNAJXZ+TimesNewRomanPS-BoldMT"
   ],
-  "legend_outside_plot": true,
+  "legend_inside_plot": true,
+  "legend_position": "upper left, stacked above curves",
+  "legend_curve_clearance_verified": true,
   "dual_y_preserved": true,
   "png_size": [
     4320,
