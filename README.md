@@ -45,3 +45,11 @@ SVG/PDF为纯矢量，不含嵌入位图；仅处理用户选定页面，不替�
 - 文献对比保留不同波长、面积和测试方式的条件差异，不宣称本团队效率为全球最高。
 
 文件校验值见[SHA256SUMS.txt](SHA256SUMS.txt)。
+
+## 新增：1064 nm激光光伏电池文献数据汇总
+
+按上传参考表的11列核对33篇不同论文，形成69条器件/测试条件记录，包含吸收层基区/发射区组分、衬底、结数等。实测/等效/模拟、波长和面积口径分别注明。
+
+- [下载完整Excel](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/literature_summary/1064nm_literature_summary.xlsx)
+- [下载PDF汇总表](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/literature_summary/1064nm_literature_summary.pdf)
+- [完整表格、文献目录与核对说明](literature_summary/README.md)

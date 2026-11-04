@@ -1,0 +1,2614 @@
+{
+  "schema": [
+    "吸收层外延组分（基区/发射区）",
+    "衬底类型",
+    "结数",
+    "激光光伏电池转换效率/%",
+    "激光辐照功率密度/(W·cm⁻²)",
+    "辐照均匀性",
+    "激光波长",
+    "激光光伏电池面积",
+    "激光辐照方式",
+    "研究机构",
+    "文献编号"
+  ],
+  "papers": [
+    {
+      "id": 1,
+      "author": "Gou等",
+      "year": 2022,
+      "title": "1064 nm InGaAs metamorphic laser power converts with over 44% efficiency",
+      "doi": "10.1364/OE.474693",
+      "org": "四川大学、苏州长光华芯",
+      "comp": "p-InₓGa₁₋ₓAs:Zn / n-InₓGa₁₋ₓAs:Si（目标x≈0.24；正文基区材料有矛盾，见核对说明）",
+      "substrate": "GaAs",
+      "area": "1 cm²（10×10 mm²）",
+      "note": "Fig.1标基区、发射区均为InGaAs；§2文字却写Zn-doped GaAs base。按结构图列InGaAs并保留矛盾，不能静默改成已证实的同组分。最大效率对应1 W；连续4 W、550 h为另外的可靠性条件。",
+      "anchor": "44.1",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 2,
+      "author": "Aonuki等",
+      "year": 2026,
+      "title": "Operation-relevant electron-irradiation tolerance and laser-induced recovery in 1064-nm InGaAsP laser power converters",
+      "doi": "10.1016/j.solmat.2026.114512",
+      "org": "NTT、宫崎大学、NICT",
+      "comp": "p-InGaAsP:Zn / n-InGaAsP:Si（组分比例未报告；Eg≈1.10 eV）",
+      "substrate": "p-InP:Zn (100)",
+      "area": "6 mm²（2×3 mm²）",
+      "note": "辐照强度按总入射功率/几何面积6 mm²定义；2 mm光斑为非均匀照明。39.0%为未辐照样品平均值；39.8→22.8→28.7%为摘要中的同一样品状态变化，不能作为三个不同结构。全部J-V在约25°C环境记录，非结温。",
+      "anchor": "39.8",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 3,
+      "author": "Shvarts等",
+      "year": 2020,
+      "title": "Temperature Tweaking of the Output Photovoltaic Parameters of Laser Power Converters",
+      "doi": "10.1109/LED.2020.3012023",
+      "org": "Ioffe Institute（俄罗斯约飞研究所）",
+      "comp": "InₓGa₁₋ₓAs / InₓGa₁₋ₓAs（x=0.23或0.18；本篇未细列掺杂）",
+      "substrate": "GaAs",
+      "area": "7.84 mm²（2.8×2.8 mm²）",
+      "note": "温度调谐研究；x=0.18的约50%对应50–60°C，非25°C。图示数值取约值；Pin=530 mW，原文给6.8 W/cm²。",
+      "anchor": "530",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 4,
+      "author": "Oshimo等",
+      "year": 2025,
+      "title": "Mesh-shaped electrode thickness dependence of 1.06 μm range InGaAsP photovoltaic characteristics under high-intensity laser irradiation",
+      "doi": "10.35848/1347-4065/ae09e3",
+      "org": "宫崎大学、NTT、千叶工业大学、NICT",
+      "comp": "p-InGaAsP:Zn / n-InGaAsP:Si（比例未报告；Eg≈1.03 eV）",
+      "substrate": "p-InP:Zn (100)",
+      "area": "器件6 mm²；光斑3.9 mm²",
+      "note": "吸收基区2250 nm、发射区250 nm；摘要称最大效率exceeded 35%，3.3 W/cm²。不同电极厚度的实验，不把器件面积与光斑面积混同。",
+      "anchor": "35%",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 5,
+      "author": "Fleming、Polly、Hubbard",
+      "year": 2024,
+      "title": "Improving 2J In0.20Ga0.80As Laser Power Converters for 1064 nm Power Beaming",
+      "doi": "10.1109/PVSC57443.2024.10748910",
+      "org": "罗切斯特理工学院 RIT",
+      "comp": "p-In₀.₂₀Ga₀.₈₀As:Zn / n-In₀.₂₀Ga₀.₈₀As:Si（另有UID i层）",
+      "substrate": "p-GaAs",
+      "area": "未报告",
+      "note": "Fig.1明确Zn基区、Si发射区及UID区。39.8%、199 mW是单结参考器件；两结没有明确报告完整效率峰值，不能将39.8%填入两结。",
+      "anchor": "39.8",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 6,
+      "author": "Kalyuzhnyy等",
+      "year": 2018,
+      "title": "InGaAs/GaAs receiver for infrared (λ=1064 nm) laser power conversion",
+      "doi": "10.1063/1.5053551",
+      "org": "Ioffe Institute（俄罗斯约飞研究所）",
+      "comp": "In₀.₂₄Ga₀.₇₆As p–n（基/发区掺杂未细列）",
+      "substrate": "GaAs",
+      "area": "单片1 cm²；组件4片×1 cm²",
+      "note": "36%和31.5%来自Xe脉冲模拟器并换算1064 nm单色效率。四片平面串联为4×1J，非垂直4J；组件峰值处原文只写1.5 W，面积归一口径不清，不擅自改成1.5 W/cm²。",
+      "anchor": "36.0",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 7,
+      "author": "Arai等",
+      "year": 2023,
+      "title": "Electrode Shape Dependence of InGaAsP Photovoltaic Characteristics under Laser Irradiation for Optical Wireless and Fiber Power Transmission",
+      "doi": "",
+      "org": "宫崎大学",
+      "comp": "p-InGaAsP:Zn / n-InGaAsP:Si（比例未报告；Eg≈0.99 eV）",
+      "substrate": "p-InP:Zn",
+      "area": "网格器件6 mm²；环形接收区直径2 mm（≈3.14 mm²）",
+      "note": "作者为Arai等，期刊The Review of Laser Engineering 51(3)。无减反射膜；20.3%为50 μm内网格+外环电极。正文给49–278 mW扫描，不将扫描上限自动配为峰值输入功率。",
+      "anchor": "20.3",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 8,
+      "author": "Kalyuzhnyy等",
+      "year": 2019,
+      "title": "Thermal and resistive losses in InGaAs metamorphic laser (λ=1064 nm) power converters with over 50% efficiency",
+      "doi": "10.1063/1.5124191",
+      "org": "Ioffe Institute（俄罗斯约飞研究所）",
+      "comp": "n-In₀.₂₃Ga₀.₇₇As:Si / p-In₀.₂₃Ga₀.₇₇As:Zn",
+      "substrate": "n-GaAs (100)，偏6°",
+      "area": "有效7.84 mm²；芯片3×3.4 mm²",
+      "note": "峰值50.6%在0.41 W、5.2 W/cm²；有效面积7.84 mm²而非整个芯片10.2 mm²。脉冲光及Xe结果一致；连续激光的热损失另行讨论。",
+      "anchor": "50.6",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 9,
+      "author": "Singh等",
+      "year": 2016,
+      "title": "InAlGaAs/InP-Based Laser Photovoltaic Converter at ~1070 nm",
+      "doi": "10.1109/LED.2016.2591015",
+      "org": "南洋理工大学 Temasek Laboratories",
+      "comp": "n-InAlGaAs / p-InAlGaAs（比例未报告；Eg=1.10 eV）",
+      "substrate": "半绝缘 InP（Table I：SI）",
+      "area": "直径2 mm，≈3.14 mm²",
+      "note": "Table I给出InP substrate SI，不是n-InP。n型基区3300 nm、p型发射区200 nm。原设计37.2%@0.51；减薄横向导电层后40.7%@0.16。",
+      "anchor": "40.7",
+      "scope": "邻近波长1070 nm"
+    },
+    {
+      "id": 10,
+      "author": "Y. Kim等",
+      "year": 2019,
+      "title": "1080 nm InGaAs laser power converters grown by MOCVD using InAlGaAs metamorphic buffer layers",
+      "doi": "10.1016/j.solmat.2019.109984",
+      "org": "韩国KANC、光州APRI",
+      "comp": "n-In₀.₂₄Ga₀.₇₆As:Si / p-In₀.₂₄Ga₀.₇₆As:Zn",
+      "substrate": "n-GaAs:Si (100)，偏6°",
+      "area": "孔径5.5×5.5 mm²（0.3025 cm²）",
+      "note": "Fig.2：n基区1300 nm，p发射区100 nm；峰值37.87%@0.538 W/cm²。实际波长1080 nm，不能写成1064 nm。",
+      "anchor": "37.87",
+      "scope": "邻近波长1080 nm"
+    },
+    {
+      "id": 11,
+      "author": "吕朝晨等",
+      "year": 2026,
+      "title": "1 μm波段晶格异变激光电池制备及性能测试",
+      "doi": "10.3969/j.issn.1002-087X.2026.08.022",
+      "org": "中电科十八所、北京工业大学、722所/湖北重点实验室、天津蓝天、中电科蓝天",
+      "comp": "In₀.₂₂Ga₀.₇₈As基区 / In₀.₂₂Ga₀.₇₈As发射区（吸收层掺杂未明确细列）",
+      "substrate": "n-GaAs (100)，4英寸、偏6°",
+      "area": "收光面1 cm²；内切圆光斑",
+      "note": "实际测试激光1056 nm。46.83%对应室温Pin=0.7 W；1.36 V为最大功率点电压，非开路电压；47.34%对应约263 K、Pin=0.9 W。未把Pin W直接改写成光斑功率密度。",
+      "anchor": "46.83",
+      "scope": "邻近波长1056 nm；团队两结"
+    },
+    {
+      "id": 12,
+      "author": "Yin等",
+      "year": 2020,
+      "title": "1064 nm InGaAsP multi-junction laser power converters",
+      "doi": "10.1088/1674-4926/41/6/062303",
+      "org": "中科院苏州纳米所、 中国科学技术大学",
+      "comp": "p-InGaAsP:Zn / n-InGaAsP:Si（比例未报告；Eg=1.08 eV）",
+      "substrate": "p-InP",
+      "area": "孔径1×1 cm²",
+      "note": "三结实验峰值32.6%@1.1 W/cm²。理论42.3%为器件模型，不能与实验混用。各子电池厚264/456/2109 nm。",
+      "anchor": "32.6",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 13,
+      "author": "Feng等",
+      "year": 2026,
+      "title": "1064 nm InGaAsP multi-junction laser power converters via reverse-bias method",
+      "doi": "10.1364/OE.587964",
+      "org": "四川大学、苏州长光华芯",
+      "comp": "p-InGaAsP / n-InGaAsP（比例未报告；Eg=1.08 eV）",
+      "substrate": "InP（导电型以原图/正文为准，未细列）",
+      "area": "单结1 cm²；两结/六结0.25 cm²",
+      "note": "各结数峰值温度不同。六结42.4%@28 W/cm²是在5°C，非室温。Table2统一25°C、5.52 W/cm²的数据另列；吸收层掺杂元素未由隧穿结掺杂代推。",
+      "anchor": "45.7",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 14,
+      "author": "Khvostikov等",
+      "year": 2019,
+      "title": "Module of Laser-Radiation (λ=1064 nm) Photovoltaic Converters",
+      "doi": "10.1134/S1063782619080116",
+      "org": "Ioffe Institute（俄罗斯约飞研究所）",
+      "comp": "In₀.₂₄Ga₀.₇₆As p–n（掺杂未细列）",
+      "substrate": "GaAs",
+      "area": "4片×1 cm²；按光敏面积计算效率",
+      "note": "31.5%@1.5 W/cm²为四个单结平面串联组件，均匀Xe光等效单色结果。非垂直四结。与[6]有关联但为不同论文。",
+      "anchor": "31.5",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 15,
+      "author": "Kalyuzhnyy等",
+      "year": 2017,
+      "title": "InGaAs metamorphic laser (1064 nm) power converters with over 40% efficiency",
+      "doi": "10.1049/el.2016.4308",
+      "org": "Ioffe Institute（俄罗斯约飞研究所）",
+      "comp": "n-InₓGa₁₋ₓAs:Si / p-InₓGa₁₋ₓAs:Zn（x=0.27或0.24）",
+      "substrate": "n-GaAs",
+      "area": "有效7.84 mm²；芯片3×3.4 mm²",
+      "note": "Table1 A/B/C效率38.4/40.2/41.4%，为均匀Xe等效单色。最佳C在Pin≈0.25–0.7 W区间>41%，峰值精确Pin未列。非均匀连续1064 nm激光约40%，两种模式不混列。",
+      "anchor": "41.4",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 16,
+      "author": "Meeker等",
+      "year": 2024,
+      "title": "1.1 eV GaInAs Cell Development for Dual-use Solar and 1070 nm Laser Power Converters",
+      "doi": "10.1109/PVSC57443.2024.10749080",
+      "org": "美国国家可再生能源实验室 NREL",
+      "comp": "GaInAs（Eg=1.10 eV；准确原子比及吸收层掺杂未细列）",
+      "substrate": "GaAs",
+      "area": "未报告",
+      "note": "单结无减反射膜，38%@约55 W/cm²。另研究太阳/激光双用三结结构，但无可直接填写的三结激光效率记录；不把38%填入三结。",
+      "anchor": "55 W",
+      "scope": "邻近波长1070 nm"
+    },
+    {
+      "id": 17,
+      "author": "Kalyuzhnyy等",
+      "year": 2018,
+      "title": "InGaAs Metamorphic Laser (λ=1064 nm) Power Converters with over 44% efficiency",
+      "doi": "10.1063/1.5053550",
+      "org": "Ioffe Institute（俄罗斯约飞研究所）",
+      "comp": "n-In₀.₂₄Ga₀.₇₆As:Si / p-In₀.₂₄Ga₀.₇₆As:Zn",
+      "substrate": "n-GaAs (100)，偏6°",
+      "area": "有效7.84 mm²；芯片3×3.4 mm²",
+      "note": "Fig.5均匀Xe等效单色：无梯度基区峰值46.8%；梯度基区44.9%。直接连续激光：梯度基区未聚焦44.5%、聚焦44.4%。峰值功率密度未明确数值列出，不沿用截图6.38作为已报告值。",
+      "anchor": "46.8",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 18,
+      "author": "Kalyuzhnyy等",
+      "year": 2020,
+      "title": "Optimization of photoelectric parameters of InGaAs metamorphic laser (λ=1064 nm) power converters with over 50% efficiency",
+      "doi": "10.1016/j.solmat.2020.110710",
+      "org": "Ioffe Institute（俄罗斯约飞研究所）",
+      "comp": "n-In₀.₂₃Ga₀.₇₇As:Si / p-In₀.₂₃Ga₀.₇₇As:Zn",
+      "substrate": "n-GaAs (100)，偏6°",
+      "area": "有效7.84 mm²；芯片3×3.4 mm²",
+      "note": "实测峰值50.8%@4.2 W/cm²；脉冲激光经匀光。论文还研究x=0.22–0.29系列，主表保留最佳器件。",
+      "anchor": "50.8",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 19,
+      "author": "Oshimo等",
+      "year": 2025,
+      "title": "High-Efficiency InGaAsP Photovoltaic Devices for Optical Wireless Power Transmission in the 1.06 μm Range",
+      "doi": "10.1002/pssa.202500585",
+      "org": "宫崎大学、NTT、千叶工业大学、NICT",
+      "comp": "p-InGaAsP:Zn / n-InGaAsP:Si（比例未报告；PL≈1.12–1.13 μm）",
+      "substrate": "p-InP:Zn (100)",
+      "area": "环形区直径2 mm（≈3.14 mm²）；网格器件2×3 mm²",
+      "note": "一结带外环电极约44%@1.5 W/cm²。50%、60%为估算/未来改进，不列实测。两结样品C有实验曲线，但正文未给明确绝对峰值，标未明确报告。",
+      "anchor": "44%",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 20,
+      "author": "Xia等",
+      "year": 2025,
+      "title": "High-voltage metamorphic 1064 nm InGaAs multi-junction laser power converters",
+      "doi": "10.1063/5.0272594",
+      "org": "中科院苏州纳米所、 中国科学技术大学",
+      "comp": "n-In₀.₂₅Ga₀.₇₅As:Si / p-In₀.₂₅Ga₀.₇₅As:Zn",
+      "substrate": "n-GaAs (001)，偏15°",
+      "area": "孔径3×3 mm²（0.09 cm²）",
+      "note": "正文明确Si-doped base、Zn-doped emitter，基/发区顺序与团队器件相反；峰值28.26%@14.05 W/cm²、室温，Voc=4.59 V。照射3 s后采集，未明确给连续/脉冲分类。",
+      "anchor": "28.26",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 21,
+      "author": "万荣华等",
+      "year": "2026（修订稿）",
+      "title": "高效率1064 nm激光光伏电池设计与制备研究",
+      "doi": "",
+      "org": "天津蓝天、中电科十八所、天津恒电",
+      "comp": "p-In₀.₂₂Ga₀.₇₈As / n-In₀.₂₂Ga₀.₇₈As（吸收区掺杂元素未细列；Cap明确Si掺杂）",
+      "substrate": "n-GaAs",
+      "area": "1 cm²（10×10 mm²）",
+      "note": "上传的revised-v2 DOCX；文章编号尚为占位，不按已正式刊出处理。44.68%@0.4 W/cm²，25±1°C；Voc=0.765 V。参考文献回顾中的波长/组分笔误不作为原始数据使用。",
+      "anchor": "44.68",
+      "scope": "1064 nm；团队单结修订稿"
+    },
+    {
+      "id": 22,
+      "author": "Fafard、Masson",
+      "year": 2025,
+      "title": "55% Efficient High-Power Multijunction Photovoltaic Laser Power Converters for 1070 nm",
+      "doi": "10.3390/photonics12050406",
+      "org": "Broadcom Canada",
+      "comp": "InGaAsP多结（晶格匹配InP；基/发区原子比及掺杂未披露）",
+      "substrate": "InP",
+      "area": "1 cm²；小芯片0.029 cm²",
+      "note": "1 cm²：55%@32.7 W输入，冷启动扫描；54.4%@24.2 W、1000 h平均。小芯片57.9–59.0%@35–69 W/cm²，1067 nm、20°C（非200°C）。各点并非同面积或同照明时间。",
+      "anchor": "57.9",
+      "scope": "1064–1067 nm；题名1070 nm"
+    },
+    {
+      "id": 23,
+      "author": "Wan等",
+      "year": 2026,
+      "title": "Design and fabrication of high-efficiency lattice-mismatched six-junction In0.22Ga0.78As laser power converters for 1064 nm remote power transmission",
+      "doi": "10.1140/epjs/s11734-026-02453-1",
+      "org": "天津蓝天、中电科十八所、天津恒电、北京工业大学",
+      "comp": "p-In₀.₂₂Ga₀.₇₈As:Zn / n-In₀.₂₂Ga₀.₇₈As:Si",
+      "substrate": "n-GaAs (100)，4英寸、偏9°",
+      "area": "光敏面积1 cm²",
+      "note": "Fig.1明确GaInAs-Zn base / GaInAs-Si emitter。峰值46.5%@3 W/cm²、25°C，Voc4.91 V；5 W/cm²时43.3%、Voc4.94 V。均匀性未量化，不因全覆盖而标均匀。",
+      "anchor": "46.5",
+      "scope": "1064 nm；团队六结"
+    },
+    {
+      "id": 24,
+      "author": "Pellegrino等",
+      "year": 2023,
+      "title": "High-Efficiency 1064 nm Metamorphic Photonic Power Converters for Spacecraft Wireless Power Transfer",
+      "doi": "10.1109/ESPC59009.2023.10298134",
+      "org": "Fraunhofer ISE",
+      "comp": "p-GaInAs / n-GaInAs（Eg≈1.15 eV；吸收区比例未直接给出）",
+      "substrate": "GaAs",
+      "area": "0.054 cm²",
+      "note": "2023欧洲空间电源会议ESPC；54.7%是Xe宽带脉冲I–V结合SR换算的等效1064 nm效率，非直接激光测得。x=0.195明确用于缓冲层目标，不自动当作已明示的吸收区组成。",
+      "anchor": "54.7",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 25,
+      "author": "Suzuki等",
+      "year": 2014,
+      "title": "Structural design of laser-photovoltaic power converter",
+      "doi": "",
+      "org": "日本宇宙航空研究开发机构 JAXA",
+      "comp": "p-In₀.₂₄Ga₀.₇₆As / n-In₀.₂₄Ga₀.₇₆As（最优模型）",
+      "substrate": "p-GaAs（原型结构）",
+      "area": "模型有效面积1 cm²",
+      "note": "PC1D模拟42.6%@0.3 W/cm²、300 K。最佳In组分0.24；0.23是模型标定参考器件，不能用参考器件组分替代最优结果。",
+      "anchor": "42.6",
+      "scope": "1070 nm；模拟"
+    },
+    {
+      "id": 26,
+      "author": "Kalyuzhnyy等",
+      "year": 2020,
+      "title": "InGaAs metamorphic laser power converters with distributed Bragg reflector for wavelength range λ=1–1.1 μm",
+      "doi": "10.1063/5.0032903",
+      "org": "Ioffe Institute（俄罗斯约飞研究所）",
+      "comp": "n-In₀.₁₈₅Ga₀.₈₁₅As:Si / p-In₀.₁₈₅Ga₀.₈₁₅As:Zn（样品B，12对DBR）",
+      "substrate": "n-GaAs",
+      "area": "有效7.84 mm²；芯片3×3.4 mm²",
+      "note": "Table1最佳样品B的x=0.185；正文一处Ga0.715为组分不归一的笔误，按表纠正。52%@约6.5 W/cm²是1.06 μm结果，54.8%左右是1020 nm，不混入1064 nm排名。",
+      "anchor": "52%",
+      "scope": "1.06 μm范围；含1020 nm对照"
+    },
+    {
+      "id": 27,
+      "author": "Khvostikov等",
+      "year": 2018,
+      "title": "GaInAsP/InP-Based Laser Power Converters (λ=1064 nm)",
+      "doi": "10.1134/S1063782618130079",
+      "org": "Ioffe Institute（俄罗斯约飞研究所）",
+      "comp": "p-InGaAsP:Zn / n-InGaAsP:Te（实际器件精确比例未列；Eg≈1.10 eV）",
+      "substrate": "n-InP:Te (100)，偏3°",
+      "area": "3.5×3.5 mm²（0.1225 cm²）",
+      "note": "34.5%来自均匀脉冲模拟器：等效1064 nm输入1.2 W；密度1.2/0.1225≈9.80为换算值。原文另称非均匀直接激光无明显效率下降，但未单列其精确效率。",
+      "anchor": "34.5",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 28,
+      "author": "Aonuki等",
+      "year": 2025,
+      "title": "Enhanced High Laser Irradiation Tolerance in Single-Junction InGaAsP Laser Power Converters With 42% Conversion Efficiency",
+      "doi": "10.1109/TED.2025.3619923",
+      "org": "宫崎大学、NTT、千叶工业大学、NICT",
+      "comp": "p-InGaAsP:Zn / n-InGaAsP:Si（比例未报告；Eg=1.10 eV）",
+      "substrate": "p-InP:Zn (100)",
+      "area": "收光1 cm²；含焊盘芯片1×1.2 cm²",
+      "note": "25°C，42.0%@4.0 W/cm²。高斯非均匀光斑；厚11 μm金属电极。最大FF76.9%@3.0 W/cm²不等于最大η条件。",
+      "anchor": "42.0",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 29,
+      "author": "Marichev等",
+      "year": 2023,
+      "title": "Development of the technology for production power laser converters on wavelength 1.06 μm",
+      "doi": "10.61011/SC.2023.07.57428.5339",
+      "org": "Ioffe Institute（俄罗斯约飞研究所）",
+      "comp": "p-InGaAsP:Zn / n-InGaAsP:Si（背景给Ga₀.₂₂In₀.₇₈As₀.₄₆P₀.₅₄；本器件比例未单独确认）",
+      "substrate": "n-InP:Sn",
+      "area": "3.5×3.5 mm²",
+      "note": "34.5%@10 W/cm²对应Fig.1单结；两级GaP微晶短路互联原型只验证两级工作，不能套用单结效率。背景组分及分层生长引用为既往工作，本器件正文给Eg1.05 eV，不强行赋同组分。",
+      "anchor": "34.5",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 30,
+      "author": "Emelyanov等",
+      "year": 2016,
+      "title": "Simulation of the Characteristics of InGaAs/InP-based Photovoltaic Laser-Power Converters",
+      "doi": "10.1134/S1063782616010097",
+      "org": "Ioffe Institute（俄罗斯约飞研究所）",
+      "comp": "In₀.₅₃Ga₀.₄₇As基区/发射区（两种n/p掺杂模型；基区导电型随模型变化）",
+      "substrate": "n-InP",
+      "area": "未报告",
+      "note": "本篇实际模拟1300和1550 nm，非1064 nm论文。约40%和50%为该长波段模型极限，不能作为1064 nm实验记录；2–6 W是输入功率而非W/cm²。",
+      "anchor": "1550",
+      "scope": "非1064 nm；1300/1550 nm模拟"
+    },
+    {
+      "id": 31,
+      "author": "Yin等",
+      "year": 2022,
+      "title": "High-Voltage 1064 nm InGaAsP Multijunction Laser Power Converters",
+      "doi": "10.1109/LED.2022.3183833",
+      "org": "中科院苏州纳米所、 中国科学技术大学、姑苏实验室",
+      "comp": "p-InGaAsP / n-InGaAsP（比例未报告；Eg=1.08 eV）",
+      "substrate": "InP（导电型未细列）",
+      "area": "有效孔径8.32 mm²；芯片3×3 mm²",
+      "note": "41.2±2%@1.676 W、室温；按有效孔径换算约20.14 W/cm²，而非按9 mm²算18.62。高斯光束；每条I–V以快门控制在照射2 s内，不等于脉冲激光。",
+      "anchor": "41.2",
+      "scope": "1064 nm相关"
+    },
+    {
+      "id": 32,
+      "author": "Emelyanov等",
+      "year": 2020,
+      "title": "Effects of Doping of Bragg Reflector Layers on the Electrical Characteristics of InGaAs/GaAs Metamorphic Photovoltaic Converters",
+      "doi": "10.1134/S1063782620040053",
+      "org": "Ioffe Institute（俄罗斯约飞研究所）",
+      "comp": "n-InₓGa₁₋ₓAs:Si / p-InₓGa₁₋ₓAs:Zn（样品系列x=0.025–0.24）",
+      "substrate": "n-GaAs",
+      "area": "未报告",
+      "note": "研究Si/Te掺杂DBR的电阻、FF及谱响应，未给可纳入排名的1064 nm转换效率。FF>80%、EQE>85%不可当作PCE；电流密度2 A/cm²不是光功率密度。",
+      "anchor": "80%",
+      "scope": "材料/DBR研究；无单波长PCE记录"
+    },
+    {
+      "id": 33,
+      "author": "Kalyuzhnyy等",
+      "year": 2019,
+      "title": "Performance of InGaAs metamorphic laser power converters at different conditions",
+      "doi": "10.1088/1742-6596/1410/1/012094",
+      "org": "Ioffe Institute（俄罗斯约飞研究所）",
+      "comp": "In₀.₂₃Ga₀.₇₇As p–n（本篇掺杂未细列）",
+      "substrate": "n-GaAs",
+      "area": "有效7.84 mm²（原文芯片尺寸单位nm²疑为笔误）",
+      "note": "本篇最高50.4%@6 W/cm²（Xe或准均匀散焦脉冲激光），聚焦非均匀脉冲峰值49.4%，不与[8]50.6%或[18]50.8%混用。",
+      "anchor": "50.4",
+      "scope": "1064 nm相关"
+    }
+  ],
+  "rows": [
+    {
+      "row_id": "R001",
+      "paper_id": 1,
+      "values": [
+        "p-InₓGa₁₋ₓAs:Zn / n-InₓGa₁₋ₓAs:Si（目标x≈0.24；正文基区材料有矛盾，见核对说明）",
+        "GaAs",
+        "单结",
+        "44.1",
+        "1.00（1 W/1 cm²换算）",
+        "未报告",
+        "1064 nm",
+        "1 cm²（10×10 mm²）",
+        "连续（含550 h连续运行测试）",
+        "四川大学、苏州长光华芯",
+        "[1]"
+      ],
+      "temperature": "测试温控；峰值温度未单列",
+      "kind": "直接激光实测",
+      "variant": "",
+      "input_power": "1.0 W",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "Fig.1标基区、发射区均为InGaAs；§2文字却写Zn-doped GaAs base。按结构图列InGaAs并保留矛盾，不能静默改成已证实的同组分。最大效率对应1 W；连续4 W、550 h为另外的可靠性条件。"
+    },
+    {
+      "row_id": "R002",
+      "paper_id": 2,
+      "values": [
+        "p-InGaAsP:Zn / n-InGaAsP:Si（组分比例未报告；Eg≈1.10 eV）",
+        "p-InP:Zn (100)",
+        "单结",
+        "39.0（未辐照样品平均）",
+        "6.8",
+        "非均匀；2 mm光斑",
+        "1064 nm",
+        "6 mm²（2×3 mm²）",
+        "连续",
+        "NTT、宫崎大学、NICT",
+        "[2]"
+      ],
+      "temperature": "环境约25°C",
+      "kind": "直接激光实测",
+      "variant": "未电子辐照，平均值",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "辐照强度按总入射功率/几何面积6 mm²定义；2 mm光斑为非均匀照明。39.0%为未辐照样品平均值；39.8→22.8→28.7%为摘要中的同一样品状态变化，不能作为三个不同结构。全部J-V在约25°C环境记录，非结温。"
+    },
+    {
+      "row_id": "R003",
+      "paper_id": 2,
+      "values": [
+        "p-InGaAsP:Zn / n-InGaAsP:Si（组分比例未报告；Eg≈1.10 eV）",
+        "p-InP:Zn (100)",
+        "单结",
+        "20.6（未辐照样品平均）",
+        "0.1",
+        "非均匀；2 mm光斑",
+        "1064 nm",
+        "6 mm²（2×3 mm²）",
+        "连续",
+        "NTT、宫崎大学、NICT",
+        "[2]"
+      ],
+      "temperature": "环境约25°C",
+      "kind": "直接激光实测",
+      "variant": "低强度，平均值",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "辐照强度按总入射功率/几何面积6 mm²定义；2 mm光斑为非均匀照明。39.0%为未辐照样品平均值；39.8→22.8→28.7%为摘要中的同一样品状态变化，不能作为三个不同结构。全部J-V在约25°C环境记录，非结温。"
+    },
+    {
+      "row_id": "R004",
+      "paper_id": 2,
+      "values": [
+        "p-InGaAsP:Zn / n-InGaAsP:Si（组分比例未报告；Eg≈1.10 eV）",
+        "p-InP:Zn (100)",
+        "单结",
+        "39.8",
+        "6.8",
+        "非均匀；2 mm光斑",
+        "1064 nm",
+        "6 mm²（2×3 mm²）",
+        "连续",
+        "NTT、宫崎大学、NICT",
+        "[2]"
+      ],
+      "temperature": "环境约25°C",
+      "kind": "直接激光实测",
+      "variant": "电子辐照前；摘要同一样品对比",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "辐照强度按总入射功率/几何面积6 mm²定义；2 mm光斑为非均匀照明。39.0%为未辐照样品平均值；39.8→22.8→28.7%为摘要中的同一样品状态变化，不能作为三个不同结构。全部J-V在约25°C环境记录，非结温。"
+    },
+    {
+      "row_id": "R005",
+      "paper_id": 2,
+      "values": [
+        "p-InGaAsP:Zn / n-InGaAsP:Si（组分比例未报告；Eg≈1.10 eV）",
+        "p-InP:Zn (100)",
+        "单结",
+        "22.8",
+        "6.8",
+        "非均匀；2 mm光斑",
+        "1064 nm",
+        "6 mm²（2×3 mm²）",
+        "连续",
+        "NTT、宫崎大学、NICT",
+        "[2]"
+      ],
+      "temperature": "环境约25°C",
+      "kind": "直接激光实测",
+      "variant": "电子辐照后；摘要同一样品对比",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "辐照强度按总入射功率/几何面积6 mm²定义；2 mm光斑为非均匀照明。39.0%为未辐照样品平均值；39.8→22.8→28.7%为摘要中的同一样品状态变化，不能作为三个不同结构。全部J-V在约25°C环境记录，非结温。"
+    },
+    {
+      "row_id": "R006",
+      "paper_id": 2,
+      "values": [
+        "p-InGaAsP:Zn / n-InGaAsP:Si（组分比例未报告；Eg≈1.10 eV）",
+        "p-InP:Zn (100)",
+        "单结",
+        "28.7",
+        "6.8",
+        "非均匀；2 mm光斑",
+        "1064 nm",
+        "6 mm²（2×3 mm²）",
+        "连续",
+        "NTT、宫崎大学、NICT",
+        "[2]"
+      ],
+      "temperature": "环境约25°C",
+      "kind": "直接激光实测",
+      "variant": "电子辐照后连续激光恢复30 min；摘要同一样品对比",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "辐照强度按总入射功率/几何面积6 mm²定义；2 mm光斑为非均匀照明。39.0%为未辐照样品平均值；39.8→22.8→28.7%为摘要中的同一样品状态变化，不能作为三个不同结构。全部J-V在约25°C环境记录，非结温。"
+    },
+    {
+      "row_id": "R007",
+      "paper_id": 3,
+      "values": [
+        "In₀.₂₃Ga₀.₇₇As / In₀.₂₃Ga₀.₇₇As（掺杂未细列）",
+        "GaAs",
+        "单结",
+        "约50",
+        "6.8",
+        "均匀（匀光器）",
+        "1064 nm",
+        "7.84 mm²（2.8×2.8 mm²）",
+        "脉冲，50 μs",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[3]"
+      ],
+      "temperature": "25°C",
+      "kind": "直接激光实测",
+      "variant": "",
+      "input_power": "530 mW",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "温度调谐研究；x=0.18的约50%对应50–60°C，非25°C。图示数值取约值；Pin=530 mW，原文给6.8 W/cm²。"
+    },
+    {
+      "row_id": "R008",
+      "paper_id": 3,
+      "values": [
+        "In₀.₁₈Ga₀.₈₂As / In₀.₁₈Ga₀.₈₂As（掺杂未细列）",
+        "GaAs",
+        "单结",
+        "约40",
+        "6.8",
+        "均匀（匀光器）",
+        "1064 nm",
+        "7.84 mm²（2.8×2.8 mm²）",
+        "脉冲，50 μs",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[3]"
+      ],
+      "temperature": "25°C",
+      "kind": "直接激光实测",
+      "variant": "",
+      "input_power": "530 mW",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "温度调谐研究；x=0.18的约50%对应50–60°C，非25°C。图示数值取约值；Pin=530 mW，原文给6.8 W/cm²。"
+    },
+    {
+      "row_id": "R009",
+      "paper_id": 3,
+      "values": [
+        "In₀.₁₈Ga₀.₈₂As / In₀.₁₈Ga₀.₈₂As（掺杂未细列）",
+        "GaAs",
+        "单结",
+        "约50",
+        "6.8",
+        "均匀（匀光器）",
+        "1064 nm",
+        "7.84 mm²（2.8×2.8 mm²）",
+        "脉冲，50 μs",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[3]"
+      ],
+      "temperature": "50–60°C",
+      "kind": "直接激光实测",
+      "variant": "",
+      "input_power": "530 mW",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "温度调谐研究；x=0.18的约50%对应50–60°C，非25°C。图示数值取约值；Pin=530 mW，原文给6.8 W/cm²。"
+    },
+    {
+      "row_id": "R010",
+      "paper_id": 4,
+      "values": [
+        "p-InGaAsP:Zn / n-InGaAsP:Si（比例未报告；Eg≈1.03 eV）",
+        "p-InP:Zn (100)",
+        "单结",
+        ">35（摘要）",
+        "3.3",
+        "非均匀；光斑3.9 mm²",
+        "1064 nm",
+        "器件6 mm²；光斑3.9 mm²",
+        "激光；连续/脉冲未明确",
+        "宫崎大学、NTT、千叶工业大学、NICT",
+        "[4]"
+      ],
+      "temperature": "未报告",
+      "kind": "直接激光实测",
+      "variant": "",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "吸收基区2250 nm、发射区250 nm；摘要称最大效率exceeded 35%，3.3 W/cm²。不同电极厚度的实验，不把器件面积与光斑面积混同。"
+    },
+    {
+      "row_id": "R011",
+      "paper_id": 5,
+      "values": [
+        "p-In₀.₂₀Ga₀.₈₀As:Zn / n-In₀.₂₀Ga₀.₈₀As:Si（另有UID i层）",
+        "p-GaAs",
+        "单结参考",
+        "39.8",
+        "3.9",
+        "未报告",
+        "1064 nm",
+        "未报告",
+        "激光；连续/脉冲未明确",
+        "罗切斯特理工学院 RIT",
+        "[5]"
+      ],
+      "temperature": "未报告",
+      "kind": "直接激光实测",
+      "variant": "",
+      "input_power": "199 mW",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "Fig.1明确Zn基区、Si发射区及UID区。39.8%、199 mW是单结参考器件；两结没有明确报告完整效率峰值，不能将39.8%填入两结。"
+    },
+    {
+      "row_id": "R012",
+      "paper_id": 5,
+      "values": [
+        "p-In₀.₂₀Ga₀.₈₀As:Zn / n-In₀.₂₀Ga₀.₈₀As:Si（另有UID i层）",
+        "p-GaAs",
+        "两结",
+        "未报告完整效率峰值",
+        "未报告",
+        "未报告",
+        "1064 nm",
+        "未报告",
+        "激光；连续/脉冲未明确",
+        "罗切斯特理工学院 RIT",
+        "[5]"
+      ],
+      "temperature": "未报告",
+      "kind": "制备与初步表征",
+      "variant": "本篇主要开发对象",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "Fig.1明确Zn基区、Si发射区及UID区。39.8%、199 mW是单结参考器件；两结没有明确报告完整效率峰值，不能将39.8%填入两结。"
+    },
+    {
+      "row_id": "R013",
+      "paper_id": 6,
+      "values": [
+        "In₀.₂₄Ga₀.₇₆As p–n（基/发区掺杂未细列）",
+        "GaAs",
+        "单结",
+        "36.0",
+        "2.0（2 W/1 cm²换算）",
+        "均匀",
+        "1064 nm",
+        "1 cm²",
+        "Xe脉冲模拟器，1 ms",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[6]"
+      ],
+      "temperature": "25°C",
+      "kind": "等效1064 nm单色效率",
+      "variant": "",
+      "input_power": "等效2 W",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "36%和31.5%来自Xe脉冲模拟器并换算1064 nm单色效率。四片平面串联为4×1J，非垂直4J；组件峰值处原文只写1.5 W，面积归一口径不清，不擅自改成1.5 W/cm²。"
+    },
+    {
+      "row_id": "R014",
+      "paper_id": 6,
+      "values": [
+        "In₀.₂₄Ga₀.₇₆As p–n（基/发区掺杂未细列）",
+        "GaAs",
+        "4×单结（平面串联）",
+        "31.5",
+        "未明确；原文1.5 W",
+        "均匀",
+        "1064 nm",
+        "4片×1 cm²",
+        "Xe脉冲模拟器，1 ms",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[6]"
+      ],
+      "temperature": "25°C",
+      "kind": "等效单色组件效率",
+      "variant": "",
+      "input_power": "原文1.5 W，归一口径不明确",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "36%和31.5%来自Xe脉冲模拟器并换算1064 nm单色效率。四片平面串联为4×1J，非垂直4J；组件峰值处原文只写1.5 W，面积归一口径不清，不擅自改成1.5 W/cm²。"
+    },
+    {
+      "row_id": "R015",
+      "paper_id": 7,
+      "values": [
+        "p-InGaAsP:Zn / n-InGaAsP:Si（比例未报告；Eg≈0.99 eV）",
+        "p-InP:Zn",
+        "单结",
+        "14.4",
+        "未报告",
+        "非均匀；光斑5 mm²",
+        "1064 nm",
+        "器件2×3 mm²",
+        "激光；连续/脉冲未明确",
+        "宫崎大学",
+        "[7]"
+      ],
+      "temperature": "未报告",
+      "kind": "直接激光实测",
+      "variant": "简单网格；无ARC",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "作者为Arai等，期刊The Review of Laser Engineering 51(3)。无减反射膜；20.3%为50 μm内网格+外环电极。正文给49–278 mW扫描，不将扫描上限自动配为峰值输入功率。"
+    },
+    {
+      "row_id": "R016",
+      "paper_id": 7,
+      "values": [
+        "p-InGaAsP:Zn / n-InGaAsP:Si（比例未报告；Eg≈0.99 eV）",
+        "p-InP:Zn",
+        "单结",
+        "20.3",
+        "未报告",
+        "光斑匹配圆环；分布未量化",
+        "1064 nm",
+        "直径2 mm，≈3.14 mm²",
+        "激光；连续/脉冲未明确",
+        "宫崎大学",
+        "[7]"
+      ],
+      "temperature": "未报告",
+      "kind": "直接激光实测",
+      "variant": "50 μm内网格+外环；无ARC",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "作者为Arai等，期刊The Review of Laser Engineering 51(3)。无减反射膜；20.3%为50 μm内网格+外环电极。正文给49–278 mW扫描，不将扫描上限自动配为峰值输入功率。"
+    },
+    {
+      "row_id": "R017",
+      "paper_id": 8,
+      "values": [
+        "n-In₀.₂₃Ga₀.₇₇As:Si / p-In₀.₂₃Ga₀.₇₇As:Zn",
+        "n-GaAs (100)，偏6°",
+        "单结",
+        "50.6",
+        "5.2",
+        "均匀/匀光",
+        "1064 nm",
+        "有效7.84 mm²；芯片3×3.4 mm²",
+        "脉冲激光；Xe结果一致",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[8]"
+      ],
+      "temperature": "室温",
+      "kind": "直接激光实测",
+      "variant": "",
+      "input_power": "0.41 W",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "峰值50.6%在0.41 W、5.2 W/cm²；有效面积7.84 mm²而非整个芯片10.2 mm²。脉冲光及Xe结果一致；连续激光的热损失另行讨论。"
+    },
+    {
+      "row_id": "R018",
+      "paper_id": 9,
+      "values": [
+        "n-InAlGaAs / p-InAlGaAs（比例未报告；Eg=1.10 eV）",
+        "半绝缘 InP（Table I：SI）",
+        "单结",
+        "37.2",
+        "0.51",
+        "非均匀（高斯）",
+        "约1070 nm",
+        "直径2 mm，≈3.14 mm²",
+        "连续",
+        "南洋理工大学 Temasek Laboratories",
+        "[9]"
+      ],
+      "temperature": "未报告",
+      "kind": "直接激光实测",
+      "variant": "原始横向导电层LCL",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "Table I给出InP substrate SI，不是n-InP。n型基区3300 nm、p型发射区200 nm。原设计37.2%@0.51；减薄横向导电层后40.7%@0.16。"
+    },
+    {
+      "row_id": "R019",
+      "paper_id": 9,
+      "values": [
+        "n-InAlGaAs / p-InAlGaAs（比例未报告；Eg=1.10 eV）",
+        "半绝缘 InP（Table I：SI）",
+        "单结",
+        "40.7",
+        "约0.160",
+        "非均匀（高斯）",
+        "约1070 nm",
+        "直径2 mm，≈3.14 mm²",
+        "连续",
+        "南洋理工大学 Temasek Laboratories",
+        "[9]"
+      ],
+      "temperature": "未报告",
+      "kind": "直接激光实测",
+      "variant": "LCL蚀刻减薄优化",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "Table I给出InP substrate SI，不是n-InP。n型基区3300 nm、p型发射区200 nm。原设计37.2%@0.51；减薄横向导电层后40.7%@0.16。"
+    },
+    {
+      "row_id": "R020",
+      "paper_id": 10,
+      "values": [
+        "n-In₀.₂₄Ga₀.₇₆As:Si / p-In₀.₂₄Ga₀.₇₆As:Zn",
+        "n-GaAs:Si (100)，偏6°",
+        "单结",
+        "37.87",
+        "0.538",
+        "未报告",
+        "1080 nm",
+        "孔径5.5×5.5 mm²（0.3025 cm²）",
+        "连续",
+        "韩国KANC、光州APRI",
+        "[10]"
+      ],
+      "temperature": "未报告",
+      "kind": "直接激光实测",
+      "variant": "",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "Fig.2：n基区1300 nm，p发射区100 nm；峰值37.87%@0.538 W/cm²。实际波长1080 nm，不能写成1064 nm。"
+    },
+    {
+      "row_id": "R021",
+      "paper_id": 11,
+      "values": [
+        "In₀.₂₂Ga₀.₇₈As基区 / In₀.₂₂Ga₀.₇₈As发射区（吸收层掺杂未明确细列）",
+        "n-GaAs (100)，4英寸、偏6°",
+        "两结",
+        "46.83",
+        "未明确（Pin=0.7 W）",
+        "未量化；内切圆光斑",
+        "1056 nm",
+        "收光面1 cm²；内切圆光斑",
+        "激光；连续/脉冲未明确",
+        "中电科十八所、北京工业大学、722所/湖北重点实验室、天津蓝天、中电科蓝天",
+        "[11]"
+      ],
+      "temperature": "室温",
+      "kind": "直接激光实测",
+      "variant": "",
+      "input_power": "0.7 W",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "实际测试激光1056 nm。46.83%对应室温Pin=0.7 W；1.36 V为最大功率点电压，非开路电压；47.34%对应约263 K、Pin=0.9 W。未把Pin W直接改写成光斑功率密度。"
+    },
+    {
+      "row_id": "R022",
+      "paper_id": 11,
+      "values": [
+        "In₀.₂₂Ga₀.₇₈As基区 / In₀.₂₂Ga₀.₇₈As发射区（吸收层掺杂未明确细列）",
+        "n-GaAs (100)，4英寸、偏6°",
+        "两结",
+        "47.34",
+        "未明确（Pin=0.9 W）",
+        "未量化；内切圆光斑",
+        "1056 nm",
+        "收光面1 cm²；内切圆光斑",
+        "激光；连续/脉冲未明确",
+        "中电科十八所、北京工业大学、722所/湖北重点实验室、天津蓝天、中电科蓝天",
+        "[11]"
+      ],
+      "temperature": "约263 K（−10°C）",
+      "kind": "直接激光实测",
+      "variant": "温度扫描峰值",
+      "input_power": "0.9 W",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "实际测试激光1056 nm。46.83%对应室温Pin=0.7 W；1.36 V为最大功率点电压，非开路电压；47.34%对应约263 K、Pin=0.9 W。未把Pin W直接改写成光斑功率密度。"
+    },
+    {
+      "row_id": "R023",
+      "paper_id": 12,
+      "values": [
+        "p-InGaAsP:Zn / n-InGaAsP:Si（比例未报告；Eg=1.08 eV）",
+        "p-InP",
+        "三结",
+        "32.6",
+        "1.100",
+        "未量化；全光斑落在孔径内",
+        "1064 nm",
+        "孔径1×1 cm²",
+        "激光；连续/脉冲未明确",
+        "中科院苏州纳米所、 中国科学技术大学",
+        "[12]"
+      ],
+      "temperature": "室温",
+      "kind": "直接激光实测",
+      "variant": "",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "三结实验峰值32.6%@1.1 W/cm²。理论42.3%为器件模型，不能与实验混用。各子电池厚264/456/2109 nm。"
+    },
+    {
+      "row_id": "R024",
+      "paper_id": 12,
+      "values": [
+        "p-InGaAsP:Zn / n-InGaAsP:Si（比例未报告；Eg=1.08 eV）",
+        "p-InP",
+        "三结",
+        "42.3（模型）",
+        "1.000",
+        "未报告",
+        "1064 nm",
+        "孔径1×1 cm²",
+        "模型",
+        "中科院苏州纳米所、 中国科学技术大学",
+        "[12]"
+      ],
+      "temperature": "模型条件",
+      "kind": "模拟；不是实测",
+      "variant": "用于解释实验差距",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "三结实验峰值32.6%@1.1 W/cm²。理论42.3%为器件模型，不能与实验混用。各子电池厚264/456/2109 nm。"
+    },
+    {
+      "row_id": "R025",
+      "paper_id": 13,
+      "values": [
+        "p-InGaAsP / n-InGaAsP（比例未报告；Eg=1.08 eV）",
+        "InP（导电型以原图/正文为准，未细列）",
+        "单结",
+        "37.9",
+        "0.640",
+        "均匀",
+        "1064 nm",
+        "1 cm²",
+        "激光；连续/脉冲未明确",
+        "四川大学、苏州长光华芯",
+        "[13]"
+      ],
+      "temperature": "室温",
+      "kind": "直接激光实测",
+      "variant": "",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "各结数峰值温度不同。六结42.4%@28 W/cm²是在5°C，非室温。Table2统一25°C、5.52 W/cm²的数据另列；吸收层掺杂元素未由隧穿结掺杂代推。"
+    },
+    {
+      "row_id": "R026",
+      "paper_id": 13,
+      "values": [
+        "p-InGaAsP / n-InGaAsP（比例未报告；Eg=1.08 eV）",
+        "InP（导电型以原图/正文为准，未细列）",
+        "单结",
+        "53.4",
+        "0.405",
+        "均匀",
+        "1064 nm",
+        "1 cm²",
+        "激光；连续/脉冲未明确",
+        "四川大学、苏州长光华芯",
+        "[13]"
+      ],
+      "temperature": "−70°C",
+      "kind": "直接激光实测",
+      "variant": "低温",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "各结数峰值温度不同。六结42.4%@28 W/cm²是在5°C，非室温。Table2统一25°C、5.52 W/cm²的数据另列；吸收层掺杂元素未由隧穿结掺杂代推。"
+    },
+    {
+      "row_id": "R027",
+      "paper_id": 13,
+      "values": [
+        "p-InGaAsP / n-InGaAsP（比例未报告；Eg=1.08 eV）",
+        "InP（导电型以原图/正文为准，未细列）",
+        "两结",
+        "45.7",
+        "11.504",
+        "均匀",
+        "1064 nm",
+        "0.25 cm²",
+        "激光；连续/脉冲未明确",
+        "四川大学、苏州长光华芯",
+        "[13]"
+      ],
+      "temperature": "10°C",
+      "kind": "直接激光实测",
+      "variant": "",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "各结数峰值温度不同。六结42.4%@28 W/cm²是在5°C，非室温。Table2统一25°C、5.52 W/cm²的数据另列；吸收层掺杂元素未由隧穿结掺杂代推。"
+    },
+    {
+      "row_id": "R028",
+      "paper_id": 13,
+      "values": [
+        "p-InGaAsP / n-InGaAsP（比例未报告；Eg=1.08 eV）",
+        "InP（导电型以原图/正文为准，未细列）",
+        "六结",
+        "39.8",
+        "30.6",
+        "均匀",
+        "1064 nm",
+        "0.25 cm²",
+        "激光；连续/脉冲未明确",
+        "四川大学、苏州长光华芯",
+        "[13]"
+      ],
+      "temperature": "7°C",
+      "kind": "直接激光实测",
+      "variant": "初始Zn掺杂隧穿结",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "各结数峰值温度不同。六结42.4%@28 W/cm²是在5°C，非室温。Table2统一25°C、5.52 W/cm²的数据另列；吸收层掺杂元素未由隧穿结掺杂代推。"
+    },
+    {
+      "row_id": "R029",
+      "paper_id": 13,
+      "values": [
+        "p-InGaAsP / n-InGaAsP（比例未报告；Eg=1.08 eV）",
+        "InP（导电型以原图/正文为准，未细列）",
+        "六结",
+        "42.4",
+        "28.0",
+        "均匀",
+        "1064 nm",
+        "0.25 cm²",
+        "激光；连续/脉冲未明确",
+        "四川大学、苏州长光华芯",
+        "[13]"
+      ],
+      "temperature": "5°C",
+      "kind": "直接激光实测",
+      "variant": "厚度与表面优化",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "各结数峰值温度不同。六结42.4%@28 W/cm²是在5°C，非室温。Table2统一25°C、5.52 W/cm²的数据另列；吸收层掺杂元素未由隧穿结掺杂代推。"
+    },
+    {
+      "row_id": "R030",
+      "paper_id": 13,
+      "values": [
+        "p-InGaAsP / n-InGaAsP（比例未报告；Eg=1.08 eV）",
+        "InP（导电型以原图/正文为准，未细列）",
+        "单结",
+        "18.0",
+        "5.52",
+        "均匀",
+        "1064 nm",
+        "1 cm²",
+        "激光；连续/脉冲未明确",
+        "四川大学、苏州长光华芯",
+        "[13]"
+      ],
+      "temperature": "25°C",
+      "kind": "直接激光实测",
+      "variant": "Table2同条件：基准",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "各结数峰值温度不同。六结42.4%@28 W/cm²是在5°C，非室温。Table2统一25°C、5.52 W/cm²的数据另列；吸收层掺杂元素未由隧穿结掺杂代推。"
+    },
+    {
+      "row_id": "R031",
+      "paper_id": 13,
+      "values": [
+        "p-InGaAsP / n-InGaAsP（比例未报告；Eg=1.08 eV）",
+        "InP（导电型以原图/正文为准，未细列）",
+        "两结",
+        "41.1",
+        "5.52",
+        "均匀",
+        "1064 nm",
+        "0.25 cm²",
+        "激光；连续/脉冲未明确",
+        "四川大学、苏州长光华芯",
+        "[13]"
+      ],
+      "temperature": "25°C",
+      "kind": "直接激光实测",
+      "variant": "Table2同条件：基准",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "各结数峰值温度不同。六结42.4%@28 W/cm²是在5°C，非室温。Table2统一25°C、5.52 W/cm²的数据另列；吸收层掺杂元素未由隧穿结掺杂代推。"
+    },
+    {
+      "row_id": "R032",
+      "paper_id": 13,
+      "values": [
+        "p-InGaAsP / n-InGaAsP（比例未报告；Eg=1.08 eV）",
+        "InP（导电型以原图/正文为准，未细列）",
+        "六结",
+        "28.8",
+        "5.52",
+        "均匀",
+        "1064 nm",
+        "0.25 cm²",
+        "激光；连续/脉冲未明确",
+        "四川大学、苏州长光华芯",
+        "[13]"
+      ],
+      "temperature": "25°C",
+      "kind": "直接激光实测",
+      "variant": "Table2同条件：6J-1/TJ B",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "各结数峰值温度不同。六结42.4%@28 W/cm²是在5°C，非室温。Table2统一25°C、5.52 W/cm²的数据另列；吸收层掺杂元素未由隧穿结掺杂代推。"
+    },
+    {
+      "row_id": "R033",
+      "paper_id": 13,
+      "values": [
+        "p-InGaAsP / n-InGaAsP（比例未报告；Eg=1.08 eV）",
+        "InP（导电型以原图/正文为准，未细列）",
+        "六结",
+        "26.3",
+        "5.52",
+        "均匀",
+        "1064 nm",
+        "0.25 cm²",
+        "激光；连续/脉冲未明确",
+        "四川大学、苏州长光华芯",
+        "[13]"
+      ],
+      "temperature": "25°C",
+      "kind": "直接激光实测",
+      "variant": "Table2同条件：6J-2/TJ C",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "各结数峰值温度不同。六结42.4%@28 W/cm²是在5°C，非室温。Table2统一25°C、5.52 W/cm²的数据另列；吸收层掺杂元素未由隧穿结掺杂代推。"
+    },
+    {
+      "row_id": "R034",
+      "paper_id": 13,
+      "values": [
+        "p-InGaAsP / n-InGaAsP（比例未报告；Eg=1.08 eV）",
+        "InP（导电型以原图/正文为准，未细列）",
+        "六结",
+        "30.5",
+        "5.52",
+        "均匀",
+        "1064 nm",
+        "0.25 cm²",
+        "激光；连续/脉冲未明确",
+        "四川大学、苏州长光华芯",
+        "[13]"
+      ],
+      "temperature": "25°C",
+      "kind": "直接激光实测",
+      "variant": "Table2同条件：6J-3/厚度优化",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "各结数峰值温度不同。六结42.4%@28 W/cm²是在5°C，非室温。Table2统一25°C、5.52 W/cm²的数据另列；吸收层掺杂元素未由隧穿结掺杂代推。"
+    },
+    {
+      "row_id": "R035",
+      "paper_id": 13,
+      "values": [
+        "p-InGaAsP / n-InGaAsP（比例未报告；Eg=1.08 eV）",
+        "InP（导电型以原图/正文为准，未细列）",
+        "六结",
+        "31.6",
+        "5.52",
+        "均匀",
+        "1064 nm",
+        "0.25 cm²",
+        "激光；连续/脉冲未明确",
+        "四川大学、苏州长光华芯",
+        "[13]"
+      ],
+      "temperature": "25°C",
+      "kind": "直接激光实测",
+      "variant": "Table2同条件：6J-4/厚度+表面优化",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "各结数峰值温度不同。六结42.4%@28 W/cm²是在5°C，非室温。Table2统一25°C、5.52 W/cm²的数据另列；吸收层掺杂元素未由隧穿结掺杂代推。"
+    },
+    {
+      "row_id": "R036",
+      "paper_id": 14,
+      "values": [
+        "In₀.₂₄Ga₀.₇₆As p–n（掺杂未细列）",
+        "GaAs",
+        "4×单结（平面串联）",
+        "31.5",
+        "1.500",
+        "均匀",
+        "1064 nm",
+        "4片×1 cm²；按光敏面积计算效率",
+        "Xe脉冲模拟器",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[14]"
+      ],
+      "temperature": "室温",
+      "kind": "等效单色组件效率",
+      "variant": "",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "31.5%@1.5 W/cm²为四个单结平面串联组件，均匀Xe光等效单色结果。非垂直四结。与[6]有关联但为不同论文。"
+    },
+    {
+      "row_id": "R037",
+      "paper_id": 15,
+      "values": [
+        "n-In₀.₂₇Ga₀.₇₃As:Si / p-In₀.₂₇Ga₀.₇₃As:Zn",
+        "n-GaAs",
+        "单结",
+        "38.4",
+        "未报告",
+        "均匀",
+        "1064 nm",
+        "有效7.84 mm²；芯片3×3.4 mm²",
+        "Xe闪光模拟器",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[15]"
+      ],
+      "temperature": "未报告",
+      "kind": "等效1064 nm单色效率",
+      "variant": "Table1 样品A",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "Table1 A/B/C效率38.4/40.2/41.4%，为均匀Xe等效单色。最佳C在Pin≈0.25–0.7 W区间>41%，峰值精确Pin未列。非均匀连续1064 nm激光约40%，两种模式不混列。"
+    },
+    {
+      "row_id": "R038",
+      "paper_id": 15,
+      "values": [
+        "n-In₀.₂₄Ga₀.₇₆As:Si / p-In₀.₂₄Ga₀.₇₆As:Zn",
+        "n-GaAs",
+        "单结",
+        "40.2",
+        "未报告",
+        "均匀",
+        "1064 nm",
+        "有效7.84 mm²；芯片3×3.4 mm²",
+        "Xe闪光模拟器",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[15]"
+      ],
+      "temperature": "未报告",
+      "kind": "等效1064 nm单色效率",
+      "variant": "Table1 样品B",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "Table1 A/B/C效率38.4/40.2/41.4%，为均匀Xe等效单色。最佳C在Pin≈0.25–0.7 W区间>41%，峰值精确Pin未列。非均匀连续1064 nm激光约40%，两种模式不混列。"
+    },
+    {
+      "row_id": "R039",
+      "paper_id": 15,
+      "values": [
+        "n-In₀.₂₄Ga₀.₇₆As:Si / p-In₀.₂₄Ga₀.₇₆As:Zn",
+        "n-GaAs",
+        "单结",
+        "41.4",
+        "未报告",
+        "均匀",
+        "1064 nm",
+        "有效7.84 mm²；芯片3×3.4 mm²",
+        "Xe闪光模拟器",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[15]"
+      ],
+      "temperature": "未报告",
+      "kind": "等效1064 nm单色效率",
+      "variant": "Table1 样品C",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "Table1 A/B/C效率38.4/40.2/41.4%，为均匀Xe等效单色。最佳C在Pin≈0.25–0.7 W区间>41%，峰值精确Pin未列。非均匀连续1064 nm激光约40%，两种模式不混列。"
+    },
+    {
+      "row_id": "R040",
+      "paper_id": 15,
+      "values": [
+        "n-In₀.₂₄Ga₀.₇₆As:Si / p-In₀.₂₄Ga₀.₇₆As:Zn",
+        "n-GaAs",
+        "单结",
+        "约40",
+        "峰值点未明确",
+        "非均匀",
+        "1064 nm",
+        "有效7.84 mm²；芯片3×3.4 mm²",
+        "连续",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[15]"
+      ],
+      "temperature": "未报告",
+      "kind": "直接激光实测",
+      "variant": "样品C直接激光；至约0.25 W",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "Table1 A/B/C效率38.4/40.2/41.4%，为均匀Xe等效单色。最佳C在Pin≈0.25–0.7 W区间>41%，峰值精确Pin未列。非均匀连续1064 nm激光约40%，两种模式不混列。"
+    },
+    {
+      "row_id": "R041",
+      "paper_id": 16,
+      "values": [
+        "GaInAs（Eg=1.10 eV；准确原子比及吸收层掺杂未细列）",
+        "GaAs",
+        "单结",
+        "38.0",
+        "约55",
+        "未报告",
+        "1070 nm",
+        "未报告",
+        "激光；连续/脉冲未明确",
+        "美国国家可再生能源实验室 NREL",
+        "[16]"
+      ],
+      "temperature": "未报告",
+      "kind": "直接激光实测",
+      "variant": "无减反射膜",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "单结无减反射膜，38%@约55 W/cm²。另研究太阳/激光双用三结结构，但无可直接填写的三结激光效率记录；不把38%填入三结。"
+    },
+    {
+      "row_id": "R042",
+      "paper_id": 16,
+      "values": [
+        "GaInAs（Eg=1.10 eV；准确原子比及吸收层掺杂未细列）",
+        "GaAs",
+        "三结双用途结构",
+        "未报告可直接比较的激光效率",
+        "未报告",
+        "未报告",
+        "1070 nm目标",
+        "未报告",
+        "激光；连续/脉冲未明确",
+        "美国国家可再生能源实验室 NREL",
+        "[16]"
+      ],
+      "temperature": "未报告",
+      "kind": "双用途结构开发",
+      "variant": "太阳+激光；非单结38%记录",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "单结无减反射膜，38%@约55 W/cm²。另研究太阳/激光双用三结结构，但无可直接填写的三结激光效率记录；不把38%填入三结。"
+    },
+    {
+      "row_id": "R043",
+      "paper_id": 17,
+      "values": [
+        "n-In₀.₂₄Ga₀.₇₆As:Si / p-In₀.₂₄Ga₀.₇₆As:Zn",
+        "n-GaAs (100)，偏6°",
+        "单结",
+        "46.8",
+        "未报告",
+        "均匀",
+        "1064 nm",
+        "有效7.84 mm²；芯片3×3.4 mm²",
+        "Xe闪光模拟器",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[17]"
+      ],
+      "temperature": "未报告",
+      "kind": "等效1064 nm单色效率",
+      "variant": "无梯度基区",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "Fig.5均匀Xe等效单色：无梯度基区峰值46.8%；梯度基区44.9%。直接连续激光：梯度基区未聚焦44.5%、聚焦44.4%。峰值功率密度未明确数值列出，不沿用截图6.38作为已报告值。"
+    },
+    {
+      "row_id": "R044",
+      "paper_id": 17,
+      "values": [
+        "n-In₀.₂₄Ga₀.₇₆As:Si / p-In₀.₂₄Ga₀.₇₆As:Zn",
+        "n-GaAs (100)，偏6°",
+        "单结",
+        "44.9",
+        "未报告",
+        "均匀",
+        "1064 nm",
+        "有效7.84 mm²；芯片3×3.4 mm²",
+        "Xe闪光模拟器",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[17]"
+      ],
+      "temperature": "未报告",
+      "kind": "等效1064 nm单色效率",
+      "variant": "梯度掺杂基区",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "Fig.5均匀Xe等效单色：无梯度基区峰值46.8%；梯度基区44.9%。直接连续激光：梯度基区未聚焦44.5%、聚焦44.4%。峰值功率密度未明确数值列出，不沿用截图6.38作为已报告值。"
+    },
+    {
+      "row_id": "R045",
+      "paper_id": 17,
+      "values": [
+        "n-In₀.₂₄Ga₀.₇₆As:Si / p-In₀.₂₄Ga₀.₇₆As:Zn",
+        "n-GaAs (100)，偏6°",
+        "单结",
+        "44.5",
+        "未报告",
+        "散焦，部分改善均匀性",
+        "1064 nm",
+        "有效7.84 mm²；芯片3×3.4 mm²",
+        "连续",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[17]"
+      ],
+      "temperature": "未报告",
+      "kind": "直接激光实测",
+      "variant": "梯度基区；未聚焦激光",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "Fig.5均匀Xe等效单色：无梯度基区峰值46.8%；梯度基区44.9%。直接连续激光：梯度基区未聚焦44.5%、聚焦44.4%。峰值功率密度未明确数值列出，不沿用截图6.38作为已报告值。"
+    },
+    {
+      "row_id": "R046",
+      "paper_id": 18,
+      "values": [
+        "n-In₀.₂₃Ga₀.₇₇As:Si / p-In₀.₂₃Ga₀.₇₇As:Zn",
+        "n-GaAs (100)，偏6°",
+        "单结",
+        "50.8",
+        "4.2",
+        "均匀（匀光）",
+        "1064 nm",
+        "有效7.84 mm²；芯片3×3.4 mm²",
+        "脉冲",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[18]"
+      ],
+      "temperature": "室温",
+      "kind": "直接激光实测",
+      "variant": "",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "实测峰值50.8%@4.2 W/cm²；脉冲激光经匀光。论文还研究x=0.22–0.29系列，主表保留最佳器件。"
+    },
+    {
+      "row_id": "R047",
+      "paper_id": 19,
+      "values": [
+        "p-InGaAsP:Zn / n-InGaAsP:Si（比例未报告；PL≈1.12–1.13 μm）",
+        "p-InP:Zn (100)",
+        "单结",
+        "约44（摘要称>44）",
+        "1.5",
+        "未量化；圆形光斑匹配",
+        "1064 nm",
+        "环形区直径2 mm（≈3.14 mm²）；网格器件2×3 mm²",
+        "激光；连续/脉冲未明确",
+        "宫崎大学、NTT、千叶工业大学、NICT",
+        "[19]"
+      ],
+      "temperature": "未报告",
+      "kind": "直接激光实测",
+      "variant": "外环电极",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "一结带外环电极约44%@1.5 W/cm²。50%、60%为估算/未来改进，不列实测。两结样品C有实验曲线，但正文未给明确绝对峰值，标未明确报告。"
+    },
+    {
+      "row_id": "R048",
+      "paper_id": 19,
+      "values": [
+        "p-InGaAsP:Zn / n-InGaAsP:Si（比例未报告；PL≈1.12–1.13 μm）",
+        "p-InP:Zn (100)",
+        "两结",
+        "未明确给出绝对峰值",
+        "未给峰值配对值",
+        "依电极/光斑配置而变",
+        "1064 nm",
+        "环形区直径2 mm（≈3.14 mm²）；网格器件2×3 mm²",
+        "激光；连续/脉冲未明确",
+        "宫崎大学、NTT、千叶工业大学、NICT",
+        "[19]"
+      ],
+      "temperature": "未报告",
+      "kind": "直接激光实测",
+      "variant": "样品C；保留曲线存在，不估读未标数字",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "一结带外环电极约44%@1.5 W/cm²。50%、60%为估算/未来改进，不列实测。两结样品C有实验曲线，但正文未给明确绝对峰值，标未明确报告。"
+    },
+    {
+      "row_id": "R049",
+      "paper_id": 20,
+      "values": [
+        "n-In₀.₂₅Ga₀.₇₅As:Si / p-In₀.₂₅Ga₀.₇₅As:Zn",
+        "n-GaAs (001)，偏15°",
+        "六结",
+        "28.26",
+        "14.05",
+        "未报告",
+        "1064 nm",
+        "孔径3×3 mm²（0.09 cm²）",
+        "激光；连续/脉冲未明确",
+        "中科院苏州纳米所、 中国科学技术大学",
+        "[20]"
+      ],
+      "temperature": "室温",
+      "kind": "直接激光实测",
+      "variant": "",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "正文明确Si-doped base、Zn-doped emitter，基/发区顺序与团队器件相反；峰值28.26%@14.05 W/cm²、室温，Voc=4.59 V。照射3 s后采集，未明确给连续/脉冲分类。"
+    },
+    {
+      "row_id": "R050",
+      "paper_id": 21,
+      "values": [
+        "p-In₀.₂₂Ga₀.₇₈As / n-In₀.₂₂Ga₀.₇₈As（吸收区掺杂元素未细列；Cap明确Si掺杂）",
+        "n-GaAs",
+        "单结",
+        "44.68",
+        "0.400",
+        "未量化；光斑完全落在电池内",
+        "1064 nm",
+        "1 cm²（10×10 mm²）",
+        "激光；连续/脉冲未明确",
+        "天津蓝天、中电科十八所、天津恒电",
+        "[21]"
+      ],
+      "temperature": "25±1°C",
+      "kind": "直接激光实测",
+      "variant": "",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "上传的revised-v2 DOCX；文章编号尚为占位，不按已正式刊出处理。44.68%@0.4 W/cm²，25±1°C；Voc=0.765 V。参考文献回顾中的波长/组分笔误不作为原始数据使用。"
+    },
+    {
+      "row_id": "R051",
+      "paper_id": 22,
+      "values": [
+        "InGaAsP多结（晶格匹配InP；基/发区原子比及掺杂未披露）",
+        "InP",
+        "八结",
+        "55.0",
+        "32.7（32.7 W/1 cm²名义换算）",
+        "非均匀；内切圆光斑",
+        "约1065 nm（Fig.3）",
+        "1 cm²",
+        "连续光源；数秒冷启动扫描",
+        "Broadcom Canada",
+        "[22]"
+      ],
+      "temperature": "约20°C",
+      "kind": "直接激光实测",
+      "variant": "冷启动峰值",
+      "input_power": "32.7 W",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "1 cm²：55%@32.7 W输入，冷启动扫描；54.4%@24.2 W、1000 h平均。小芯片57.9–59.0%@35–69 W/cm²，1067 nm、20°C（非200°C）。各点并非同面积或同照明时间。"
+    },
+    {
+      "row_id": "R052",
+      "paper_id": 22,
+      "values": [
+        "InGaAsP多结（晶格匹配InP；基/发区原子比及掺杂未披露）",
+        "InP",
+        "八结",
+        "54.4（1000 h平均）",
+        "24.2（24.2 W/1 cm²名义换算）",
+        "非均匀；内切圆光斑",
+        "1064 nm",
+        "1 cm²",
+        "连续，>1000 h",
+        "Broadcom Canada",
+        "[22]"
+      ],
+      "temperature": "约20°C",
+      "kind": "直接激光实测",
+      "variant": "长时间稳态",
+      "input_power": "24.2 W",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "1 cm²：55%@32.7 W输入，冷启动扫描；54.4%@24.2 W、1000 h平均。小芯片57.9–59.0%@35–69 W/cm²，1067 nm、20°C（非200°C）。各点并非同面积或同照明时间。"
+    },
+    {
+      "row_id": "R053",
+      "paper_id": 22,
+      "values": [
+        "InGaAsP多结（晶格匹配InP；基/发区原子比及掺杂未披露）",
+        "InP",
+        "八结",
+        "57.9–59.0（区间）",
+        "35–69（配对区间，非单点）",
+        "非均匀；内切圆光斑",
+        "1067 nm",
+        "0.029 cm²",
+        "连续光源；短扫描",
+        "Broadcom Canada",
+        "[22]"
+      ],
+      "temperature": "20°C",
+      "kind": "直接激光实测",
+      "variant": "同批小面积测试芯片",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "1 cm²：55%@32.7 W输入，冷启动扫描；54.4%@24.2 W、1000 h平均。小芯片57.9–59.0%@35–69 W/cm²，1067 nm、20°C（非200°C）。各点并非同面积或同照明时间。"
+    },
+    {
+      "row_id": "R054",
+      "paper_id": 23,
+      "values": [
+        "p-In₀.₂₂Ga₀.₇₈As:Zn / n-In₀.₂₂Ga₀.₇₈As:Si",
+        "n-GaAs (100)，4英寸、偏9°",
+        "六结",
+        "46.5",
+        "3.0",
+        "未量化；光斑覆盖光敏区",
+        "1064 nm",
+        "光敏面积1 cm²",
+        "激光；连续/脉冲未明确",
+        "天津蓝天、中电科十八所、天津恒电、北京工业大学",
+        "[23]"
+      ],
+      "temperature": "25°C",
+      "kind": "直接激光实测",
+      "variant": "效率峰值",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "Fig.1明确GaInAs-Zn base / GaInAs-Si emitter。峰值46.5%@3 W/cm²、25°C，Voc4.91 V；5 W/cm²时43.3%、Voc4.94 V。均匀性未量化，不因全覆盖而标均匀。"
+    },
+    {
+      "row_id": "R055",
+      "paper_id": 23,
+      "values": [
+        "p-In₀.₂₂Ga₀.₇₈As:Zn / n-In₀.₂₂Ga₀.₇₈As:Si",
+        "n-GaAs (100)，4英寸、偏9°",
+        "六结",
+        "43.3",
+        "5.0",
+        "未量化；光斑覆盖光敏区",
+        "1064 nm",
+        "光敏面积1 cm²",
+        "激光；连续/脉冲未明确",
+        "天津蓝天、中电科十八所、天津恒电、北京工业大学",
+        "[23]"
+      ],
+      "temperature": "25°C",
+      "kind": "直接激光实测",
+      "variant": "较高功率；Voc4.94 V",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "Fig.1明确GaInAs-Zn base / GaInAs-Si emitter。峰值46.5%@3 W/cm²、25°C，Voc4.91 V；5 W/cm²时43.3%、Voc4.94 V。均匀性未量化，不因全覆盖而标均匀。"
+    },
+    {
+      "row_id": "R056",
+      "paper_id": 24,
+      "values": [
+        "p-GaInAs / n-GaInAs（Eg≈1.15 eV；吸收区比例未直接给出）",
+        "GaAs",
+        "单结",
+        "54.7",
+        "14.2（等效单色强度）",
+        "未报告",
+        "1064 nm",
+        "0.054 cm²",
+        "Xe宽带脉冲+谱响应换算",
+        "Fraunhofer ISE",
+        "[24]"
+      ],
+      "temperature": "25°C",
+      "kind": "等效1064 nm单色效率",
+      "variant": "",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "2023欧洲空间电源会议ESPC；54.7%是Xe宽带脉冲I–V结合SR换算的等效1064 nm效率，非直接激光测得。x=0.195明确用于缓冲层目标，不自动当作已明示的吸收区组成。"
+    },
+    {
+      "row_id": "R057",
+      "paper_id": 25,
+      "values": [
+        "p-In₀.₂₄Ga₀.₇₆As / n-In₀.₂₄Ga₀.₇₆As（最优模型）",
+        "p-GaAs（原型结构）",
+        "单结",
+        "42.6（模型）",
+        "0.300",
+        "均匀（模型）",
+        "1070 nm",
+        "模型有效面积1 cm²",
+        "模型，不适用连续/脉冲",
+        "日本宇宙航空研究开发机构 JAXA",
+        "[25]"
+      ],
+      "temperature": "300 K",
+      "kind": "PC1D模拟",
+      "variant": "",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "PC1D模拟42.6%@0.3 W/cm²、300 K。最佳In组分0.24；0.23是模型标定参考器件，不能用参考器件组分替代最优结果。"
+    },
+    {
+      "row_id": "R058",
+      "paper_id": 26,
+      "values": [
+        "n-In₀.₁₈₅Ga₀.₈₁₅As:Si / p-In₀.₁₈₅Ga₀.₈₁₅As:Zn（样品B，12对DBR）",
+        "n-GaAs",
+        "单结",
+        "52.0",
+        "约6.5",
+        "均匀Xe；激光均匀性未量化",
+        "1.06 μm（装置1.064 μm）",
+        "有效7.84 mm²；芯片3×3.4 mm²",
+        "脉冲激光；Xe模拟器结果一致",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[26]"
+      ],
+      "temperature": "室温",
+      "kind": "直接激光实测",
+      "variant": "样品B；12对DBR",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "Table1最佳样品B的x=0.185；正文一处Ga0.715为组分不归一的笔误，按表纠正。52%@约6.5 W/cm²是1.06 μm结果，54.8%左右是1020 nm，不混入1064 nm排名。"
+    },
+    {
+      "row_id": "R059",
+      "paper_id": 26,
+      "values": [
+        "n-In₀.₁₈₅Ga₀.₈₁₅As:Si / p-In₀.₁₈₅Ga₀.₈₁₅As:Zn（样品B，12对DBR）",
+        "n-GaAs",
+        "单结",
+        "约54.8",
+        "约4",
+        "均匀",
+        "1020 nm",
+        "有效7.84 mm²；芯片3×3.4 mm²",
+        "Xe脉冲模拟器",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[26]"
+      ],
+      "temperature": "未报告",
+      "kind": "等效单色；非1064 nm",
+      "variant": "DBR样品短波对照",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "Table1最佳样品B的x=0.185；正文一处Ga0.715为组分不归一的笔误，按表纠正。52%@约6.5 W/cm²是1.06 μm结果，54.8%左右是1020 nm，不混入1064 nm排名。"
+    },
+    {
+      "row_id": "R060",
+      "paper_id": 27,
+      "values": [
+        "p-InGaAsP:Zn / n-InGaAsP:Te（实际器件精确比例未列；Eg≈1.10 eV）",
+        "n-InP:Te (100)，偏3°",
+        "单结",
+        "34.5",
+        "约9.80（1.2 W/0.1225 cm²换算）",
+        "均匀",
+        "1064 nm（等效）",
+        "3.5×3.5 mm²（0.1225 cm²）",
+        "脉冲模拟器",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[27]"
+      ],
+      "temperature": "未报告",
+      "kind": "等效1064 nm单色效率",
+      "variant": "",
+      "input_power": "等效1.2 W",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "34.5%来自均匀脉冲模拟器：等效1064 nm输入1.2 W；密度1.2/0.1225≈9.80为换算值。原文另称非均匀直接激光无明显效率下降，但未单列其精确效率。"
+    },
+    {
+      "row_id": "R061",
+      "paper_id": 28,
+      "values": [
+        "p-InGaAsP:Zn / n-InGaAsP:Si（比例未报告；Eg=1.10 eV）",
+        "p-InP:Zn (100)",
+        "单结",
+        "42.0",
+        "4.000",
+        "非均匀（高斯）",
+        "1064 nm",
+        "收光1 cm²；含焊盘芯片1×1.2 cm²",
+        "激光；连续/脉冲未明确",
+        "宫崎大学、NTT、千叶工业大学、NICT",
+        "[28]"
+      ],
+      "temperature": "25°C",
+      "kind": "直接激光实测",
+      "variant": "",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "25°C，42.0%@4.0 W/cm²。高斯非均匀光斑；厚11 μm金属电极。最大FF76.9%@3.0 W/cm²不等于最大η条件。"
+    },
+    {
+      "row_id": "R062",
+      "paper_id": 29,
+      "values": [
+        "p-InGaAsP:Zn / n-InGaAsP:Si（背景给Ga₀.₂₂In₀.₇₈As₀.₄₆P₀.₅₄；本器件比例未单独确认）",
+        "n-InP:Sn",
+        "单结",
+        "34.5",
+        "10.0",
+        "谱响应均匀；效率照明分布未细列",
+        "1064 nm",
+        "3.5×3.5 mm²",
+        "激光；连续/脉冲未明确",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[29]"
+      ],
+      "temperature": "未报告",
+      "kind": "直接激光实测",
+      "variant": "Fig.1单结器件",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "34.5%@10 W/cm²对应Fig.1单结；两级GaP微晶短路互联原型只验证两级工作，不能套用单结效率。背景组分及分层生长引用为既往工作，本器件正文给Eg1.05 eV，不强行赋同组分。"
+    },
+    {
+      "row_id": "R063",
+      "paper_id": 29,
+      "values": [
+        "p-InGaAsP:Zn / n-InGaAsP:Si（背景给Ga₀.₂₂In₀.₇₈As₀.₄₆P₀.₅₄；本器件比例未单独确认）",
+        "n-InP:Sn",
+        "两结/两级",
+        "未报告峰值效率",
+        "未报告",
+        "未报告",
+        "1064 nm",
+        "3.5×3.5 mm²",
+        "激光；连续/脉冲未明确",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[29]"
+      ],
+      "temperature": "未报告",
+      "kind": "制备与工作验证",
+      "variant": "GaP微晶耦合；非单结34.5%记录",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "34.5%@10 W/cm²对应Fig.1单结；两级GaP微晶短路互联原型只验证两级工作，不能套用单结效率。背景组分及分层生长引用为既往工作，本器件正文给Eg1.05 eV，不强行赋同组分。"
+    },
+    {
+      "row_id": "R064",
+      "paper_id": 30,
+      "values": [
+        "In₀.₅₃Ga₀.₄₇As基区/发射区（两种n/p掺杂模型；基区导电型随模型变化）",
+        "n-InP",
+        "单结",
+        "约40（模型）",
+        "未报告；Pin=2–6 W",
+        "未报告",
+        "1300 nm",
+        "未报告",
+        "模型",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[30]"
+      ],
+      "temperature": "未报告",
+      "kind": "非1064 nm模拟",
+      "variant": "",
+      "input_power": "2–6 W",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "本篇实际模拟1300和1550 nm，非1064 nm论文。约40%和50%为该长波段模型极限，不能作为1064 nm实验记录；2–6 W是输入功率而非W/cm²。"
+    },
+    {
+      "row_id": "R065",
+      "paper_id": 30,
+      "values": [
+        "In₀.₅₃Ga₀.₄₇As基区/发射区（两种n/p掺杂模型；基区导电型随模型变化）",
+        "n-InP",
+        "单结",
+        "约50（模型）",
+        "未报告；Pin=2–6 W",
+        "未报告",
+        "1550 nm",
+        "未报告",
+        "模型",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[30]"
+      ],
+      "temperature": "未报告",
+      "kind": "非1064 nm模拟",
+      "variant": "",
+      "input_power": "2–6 W",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "本篇实际模拟1300和1550 nm，非1064 nm论文。约40%和50%为该长波段模型极限，不能作为1064 nm实验记录；2–6 W是输入功率而非W/cm²。"
+    },
+    {
+      "row_id": "R066",
+      "paper_id": 31,
+      "values": [
+        "p-InGaAsP / n-InGaAsP（比例未报告；Eg=1.08 eV）",
+        "InP（导电型未细列）",
+        "六结",
+        "41.2±2.0",
+        "约20.14（1.676 W/0.0832 cm²换算）",
+        "非均匀（高斯）",
+        "1064 nm",
+        "有效孔径8.32 mm²；芯片3×3 mm²",
+        "激光；快门限制每次测量≤2 s",
+        "中科院苏州纳米所、 中国科学技术大学、姑苏实验室",
+        "[31]"
+      ],
+      "temperature": "室温",
+      "kind": "直接激光实测",
+      "variant": "",
+      "input_power": "1.676 W",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "41.2±2%@1.676 W、室温；按有效孔径换算约20.14 W/cm²，而非按9 mm²算18.62。高斯光束；每条I–V以快门控制在照射2 s内，不等于脉冲激光。"
+    },
+    {
+      "row_id": "R067",
+      "paper_id": 32,
+      "values": [
+        "n-InₓGa₁₋ₓAs:Si / p-InₓGa₁₋ₓAs:Zn（样品系列x=0.025–0.24）",
+        "n-GaAs",
+        "单结材料结构",
+        "未报告1064 nm PCE",
+        "未报告",
+        "未报告",
+        "材料与宽谱响应表征",
+        "未报告",
+        "不适用；无激光PCE数据",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[32]"
+      ],
+      "temperature": "未报告",
+      "kind": "材料/电学研究",
+      "variant": "",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "研究Si/Te掺杂DBR的电阻、FF及谱响应，未给可纳入排名的1064 nm转换效率。FF>80%、EQE>85%不可当作PCE；电流密度2 A/cm²不是光功率密度。"
+    },
+    {
+      "row_id": "R068",
+      "paper_id": 33,
+      "values": [
+        "In₀.₂₃Ga₀.₇₇As p–n（本篇掺杂未细列）",
+        "n-GaAs",
+        "单结",
+        "50.4",
+        "6.0",
+        "均匀/准均匀散焦",
+        "1064 nm",
+        "有效7.84 mm²（原文芯片尺寸单位nm²疑为笔误）",
+        "脉冲，1.5 ms",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[33]"
+      ],
+      "temperature": "室温",
+      "kind": "直接激光实测",
+      "variant": "Xe或散焦激光",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "本篇最高50.4%@6 W/cm²（Xe或准均匀散焦脉冲激光），聚焦非均匀脉冲峰值49.4%，不与[8]50.6%或[18]50.8%混用。"
+    },
+    {
+      "row_id": "R069",
+      "paper_id": 33,
+      "values": [
+        "In₀.₂₃Ga₀.₇₇As p–n（本篇掺杂未细列）",
+        "n-GaAs",
+        "单结",
+        "49.4",
+        "峰值密度未单列",
+        "非均匀（聚焦）",
+        "1064 nm",
+        "有效7.84 mm²（原文芯片尺寸单位nm²疑为笔误）",
+        "脉冲，1.5 ms",
+        "Ioffe Institute（俄罗斯约飞研究所）",
+        "[33]"
+      ],
+      "temperature": "室温",
+      "kind": "直接激光实测",
+      "variant": "聚焦激光",
+      "input_power": "未报告",
+      "location": "摘要、实验与结果部分（定位摘录见证据表）",
+      "notes": "本篇最高50.4%@6 W/cm²（Xe或准均匀散焦脉冲激光），聚焦非均匀脉冲峰值49.4%，不与[8]50.6%或[18]50.8%混用。"
+    }
+  ],
+  "evidence": [
+    [
+      "[1]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "and temperature. The maximum conversion efficiency of 44.1% and 550 hours of continuous stable operation at 4 W were demonstrated. Under 1064 nm laser illumination of 4 W, the temperature coefficients for the conversion efficiency and open-circuit voltage were -0.1%abs/°C and -1.6 mV",
+      "1064nm InGaAs metamorphic laser power converts with over 44% efficiency.pdf"
+    ],
+    [
+      "[1]",
+      "材料/结构",
+      "上传文件PDF第2页",
+      "layer, a Si-doped InGaAs emitter, and the Zn-doped GaAs base sandwiched between the InGaP window layer and the Inx(AlGa)1−xAs back surface field layer, was designed to operate at 1064 nm. Lambert’s law was used to simulate the absorption thickness. Trimet",
+      "1064nm InGaAs metamorphic laser power converts with over 44% efficiency.pdf"
+    ],
+    [
+      "[2]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "performance degradation after electron irradiation. The power conversion efficiency (η) decreased from 39.8% to 22.8% after electron irradiation and recovered up to 28.7% after continuous laser illumination for 30 min at an LI of 6.8 W cm−2, whereas the η recovery was lower at LI = 0.1 W cm−2 and negligible under AM1.5G. The tem",
+      "Operation-relevant electron-irradiation tolerance and laser-induced recovery in 1064-nm InGaAsP laser power converters.pdf"
+    ],
+    [
+      "[2]",
+      "材料/结构",
+      "上传文件PDF第1页",
+      "recovery in 1064-nm InGaAsP laser power converters Sho Aonuki a,* , Yudai Yamashita b , Takaya Oshimo c , Kotona Tabata c, Takeru Yamada c, Masato Suzuki a , Natsuha Ochiai a , Yukiko Suzuki a , Yuka Oshima a , Kouichi Akahane d , Masakazu Arai c",
+      "Operation-relevant electron-irradiation tolerance and laser-induced recovery in 1064-nm InGaAsP laser power converters.pdf"
+    ],
+    [
+      "[3]",
+      "效率/研究范围",
+      "上传文件PDF第3页",
+      "for the 2.8 × 2.8 mm2 LPC is 530 mW (6.8 W/cm2, 1064 nm). temperature (see Fig. 2c) forms a general positive temperature trend for the product “SR × Voc” and the efﬁciency of the LPC as a whole. In aggregate, the efﬁciency values of LPC2 are higher than the s",
+      "IEEE Electron Device Letters-2020-Temperature Tweaking of the Output Photovoltaic Parameters of Laser Power Converters(1J,1064nm,45%).pdf"
+    ],
+    [
+      "[3]",
+      "材料/结构",
+      "上传文件PDF第1页",
+      "morphic InGaAs photovoltaic converter is presented. The peculiarity of the proposed device is the ability to operate efﬁciently with the high-power 1064 nm laser radiation at the elevated up to +125◦C temperatures. The temperature depende",
+      "IEEE Electron Device Letters-2020-Temperature Tweaking of the Output Photovoltaic Parameters of Laser Power Converters(1J,1064nm,45%).pdf"
+    ],
+    [
+      "[4]",
+      "效率/研究范围",
+      "上传文件PDF第2页",
+      "efficiency exceeded 35% at 3.3 W cm−2 laser power density. © 2025 The Japan Society of Applied Physics. All rights, including for text and data mining, AI training, and similar technologies, are reserved. Optical wireless power transfer enables long-",
+      "Mesh-shaped electrode thickness dependence of 1.06 μm range InGaAsP photovoltaic characteristics under high-intensity laser irradiation.pdf"
+    ],
+    [
+      "[4]",
+      "材料/结构",
+      "上传文件PDF第1页",
+      "1.06 μm range InGaAsP photovoltaic characteristics under high-intensity laser irradiation To cite this article: Takaya Oshimo et al 2025 Jpn. J. Appl. Phys. 64 108001 View the article online for updates and enhancements. You may also like Cha",
+      "Mesh-shaped electrode thickness dependence of 1.06 μm range InGaAsP photovoltaic characteristics under high-intensity laser irradiation.pdf"
+    ],
+    [
+      "[5]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "efficiency of 39.8% and a Voc of 0.798 V at 199 mW. Our first round of 2J device results were presented at SPIE Photonics West 2024. Characterization of the metamorphic grade showed good performance, and the high performance of the single ju",
+      "Improving 2J In0.20Ga0.80As Laser Power Converters for 1064nm Power Beaming（1J,~1064nm,39.8% 2J@未知）.pdf"
+    ],
+    [
+      "[5]",
+      "材料/结构",
+      "上传文件PDF第3页",
+      "parameters of InGaAs metamorphic laser (λ=1064 nm) power converters with over 50% efficiency,” Sol. Energy Mater. Sol. Cells, vol. 217, p. 110710, Nov. 2020, doi: 10.1016/j.solmat.2020.110710. [4] C. Pellegrino, H. Helmers, J. Ohlma",
+      "Improving 2J In0.20Ga0.80As Laser Power Converters for 1064nm Power Beaming（1J,~1064nm,39.8% 2J@未知）.pdf"
+    ],
+    [
+      "[6]",
+      "效率/研究范围",
+      "上传文件PDF第2页",
+      "provided the monochromatic conversion efficiency up to 36.0% (at 2.0 W) and 31.5 % (at 1.5 W), respectively, at uniform illumination. INTRODUCTION Wireless energy transmission by laser channel systems [1] requires an efficient, affordable and reliable radiation source capable to",
+      "InGaAs-GaAs receiver for infrared (λ=1064 nm) laser power conversion(1064nm,36%@1J,31.5%@4J).pdf"
+    ],
+    [
+      "[6]",
+      "材料/结构",
+      "上传文件PDF第1页",
+      "InGaAs/GaAs receiver for infrared (λ=1064 nm) laser power conversion  Nikolay Kalyuzhnyy; Sergey Mintairov; Maxim Shvarts; Nataliia Potapovich; Svetlana Sorokina; Vladimir Khvostikov  AIP Conf. Proc. 2012, 110003 (2018) https://",
+      "InGaAs-GaAs receiver for infrared (λ=1064 nm) laser power conversion(1064nm,36%@1J,31.5%@4J).pdf"
+    ],
+    [
+      "[7]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "maximum power conversion efficiency of a fabricated device without an anti-reflection coating was 20.3%. Key Words: \u0007Optical Wireless Power Transmission (OWPT), Photovoltaic device, Crystal growth †1 Website of JAXA: https://www.kenkai.jaxa.jp/research/ssps/ssps-ssps.html 1. Introduction Optical wireless power transmission (OW",
+      "Electrode Shape Dependence of InGaAsP Photovoltaic Characteristics under Laser Irradiation for Optical Wireless and Fiber Power Transmission.pdf"
+    ],
+    [
+      "[7]",
+      "材料/结构",
+      "上传文件PDF第1页",
+      "Electrode Shape Dependence of InGaAsP Photovoltaic Characteristics under Laser Irradiation for Optical Wireless and Fiber Power Transmission Masakazu ARAI,\u00031 Akira KUSHIYAMA,\u00031 Yuga MOTOMURA,\u00031 and Kensuke NISHIOKA\u00032 1Faculty of Engineering ,University of Mi",
+      "Electrode Shape Dependence of InGaAsP Photovoltaic Characteristics under Laser Irradiation for Optical Wireless and Fiber Power Transmission.pdf"
+    ],
+    [
+      "[8]",
+      "效率/研究范围",
+      "上传文件PDF第2页",
+      "with 50.6% maximum at 5.2 W/cm2. INTRODUCTION Recently, the problem of transmitting energy over a distance by means of a laser beam (with a fiber optic or with wireless transmission systems) has become increasingly important and has",
+      "Thermal and resistive losses in InGaAs metamorphic laser (λ=1064nm）power converters with over 50% efficiency(1J,1064nm,50.6%).pdf"
+    ],
+    [
+      "[8]",
+      "材料/结构",
+      "上传文件PDF第3页",
+      "emitter), back surface field (BSF) barrier, wideband Inx(Al0.5Ga0.5)1-xAs-p:Zn “window”. The same heterostructure parameters were optimized earlier for obtaining structures with a low resistance and high fill-factor (FF) [10]. T",
+      "Thermal and resistive losses in InGaAs metamorphic laser (λ=1064nm）power converters with over 50% efficiency(1J,1064nm,50.6%).pdf"
+    ],
+    [
+      "[9]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "achieved. Efﬁciency up to 40.7% has been achieved at an incident intensity of ∼0.16 W/cm2. Efﬁciency of these devices can be further improved by design optimization and suppressing series resistance. Index Terms—Photovoltaics, open circuit voltage, ﬁll fac",
+      "InAlGaAs InP-Based Laser Photovoltaic Converter at 1070 nm(1J,1070nm,40.7%).pdf"
+    ],
+    [
+      "[9]",
+      "材料/结构",
+      "上传文件PDF第1页",
+      "systems such as GaSb and InGaAs/InP have received some attention [3], [5]. Selection of this wavelength range gives advantages such as less attenuation while propagating through the ﬁbre (at 1300 nm and 1550 nm) and earth’s atmosphere, and wavelengths lon",
+      "InAlGaAs InP-Based Laser Photovoltaic Converter at 1070 nm(1J,1070nm,40.7%).pdf"
+    ],
+    [
+      "[10]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "quantum eﬃciency of 82.16% at 1080 nm wavelength. As a result, a conversion eﬃciency of 37.87% was achieved under 1080 nm monochromatic light at a laser power density of 538 mW/cm2. Further improvements are expected when the device structure is modiﬁed to reduce the series resistance and the growth condition is optim",
+      "1080nm InGaAs laser power converters grown by MOCVD using InAlGaAs(1J,1080nm,37.87%).pdf"
+    ],
+    [
+      "[10]",
+      "材料/结构",
+      "上传文件PDF第1页",
+      "1080 nm InGaAs laser power converters grown by MOCVD using InAlGaAs metamorphic buﬀer layers Youngjo Kima, Hyun-Beom Shina, Won-Hee Leea, Sang Hyun Junga, Chang Zoo Kima, Hyunsung Kima, Yong Tak Leeb, Ho Kwan Kanga,* a Korea Advanced Nano",
+      "1080nm InGaAs laser power converters grown by MOCVD using InAlGaAs(1J,1080nm,37.87%).pdf"
+    ],
+    [
+      "[11]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "为0.7 W 时，激光电池的最大功率点光电转换效率为46.83%，电压为1.36 V，填充因子为82.8%。 关键词：砷化镓衬底；激光电池；晶格异变；AlGaInAs 中图分类号：TM 914 文献标识码：A 文章编号：1002-087 X(2026)08-1573-07 DOI: 10.3969/j.issn.1002-087X.2026.08.022 Preparation and performance testing of 1 μm band lattice-mismatched laser pow",
+      "1um波段晶格异变激光电池制备及性能测试.pdf"
+    ],
+    [
+      "[11]",
+      "材料/结构",
+      "上传文件PDF第2页",
+      "子电池背场层、第二子电池基区、第二子电池发射 区、第二子电池窗口层、隧穿结、第一子电池背场层、 第一子电池基区、第一子电池发射区、第一子电池窗 口层、帽层组成，总厚度约7.06 μm(其中图形宽度代 表材料晶格常数)。 图1 1 μm 波段激光电池外延结构 1574 --- PAGE 3 --- 研究与设计 2026.8 Vol.50 No.8 为满足单体激光电池高电压输出的需求，设计 了如图1 所示的垂直串联两结电池结构，子电池吸收 层对入射激光遵循朗伯-比尔定律(Beer",
+      "1um波段晶格异变激光电池制备及性能测试.pdf"
+    ],
+    [
+      "[12]",
+      "效率/研究范围",
+      "上传文件PDF第2页",
+      "junction InGaAsP laser power converters demonstrate a conversion efficiency of 32.6% at a power density of 1.1 W/cm2, with an open-circuit voltage of 2.16 V and a fill factor of 0.74. In this paper, the characteristics of the laser power converters are ana- lyzed and ways to improve the conversion efficiency",
+      "1064 nm InGaAsP multi-junction laser power converters(3J,~1064nm,32.6%).pdf"
+    ],
+    [
+      "[12]",
+      "材料/结构",
+      "上传文件PDF第3页",
+      "n-InGaAsP emitter p-InGaAsP base n+-InGaAs/p+-InGaAs n-InGaAsP emiter p-InGaAsP base n+-InGaAs/p+-InGaAs n-InGaAsP emitter p-InGaAsP base p-InP: substrate Cell 1 TJ Cell 2 TJ Cell 3 Fig. 1. Schematic layer structure of the designed",
+      "1064 nm InGaAsP multi-junction laser power converters(3J,~1064nm,32.6%).pdf"
+    ],
+    [
+      "[13]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "achieved 45.7% efficiency at an operating temperature of 10℃and an incident laser power of 11.504 W/cm2, while the six-junction reached 39.8% at 7℃and 30.6 W/cm2. A systematic design optimization approach for multi-junction LPCs was demons",
+      "1064 nm InGaAsP multi-junction laser power converters via reverse-bias method.pdf"
+    ],
+    [
+      "[13]",
+      "材料/结构",
+      "上传文件PDF第2页",
+      "and window layer material, while InGaAsP serves as the absorber (emitter and base) layer to match the 1064 nm laser wavelength. The absorber thickness was determined using the Beer–Lambert law, targeting about 99% absorption of incident photons at 1064 nm to ensure efficient carrier generation",
+      "1064 nm InGaAsP multi-junction laser power converters via reverse-bias method.pdf"
+    ],
+    [
+      "[14]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "the monochromatic efficiency (at a wavelength of 1064 nm) of this module is 31.5% under exposure to a Xe-lamp with a radiation power of 1.5 W/cm2. Keywords: laser radiation, photoelectric converter, module, InGaAs/GaAs, wireless energy transmission, heterostructure. DOI: 10.1134/S1063782619080116 1. INTRO",
+      "Module of Laser-Radiation (λ=1064 nm) Photovoltaic Converters(科研通-ablesci.com).pdf"
+    ],
+    [
+      "[14]",
+      "材料/结构",
+      "上传文件PDF第1页",
+      "spheric channels are presented. The four-cell module based on single-junction metamorphic InGaAs/GaAs converters grown by metal-organic vapor-phase epitaxy has an open-circuit voltage of ~3 V. It is shown that the monochromatic efficiency (at a wavelength of 1064 nm) of this module is 31.5% under exposure to a Xe-lamp",
+      "Module of Laser-Radiation (λ=1064 nm) Photovoltaic Converters(科研通-ablesci.com).pdf"
+    ],
+    [
+      "[15]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "buffer have demonstrated efﬁciency 41.4% for 1064 nm monochromatic radiation conversion and ∼40% for laser power conversion. Introduction: Today a power-by-light technology is in demand and therefore the development of both lasers and laser power converters (LPCs)",
+      "InGaAs metamorphic laser (1064 nm) power converters with over 40% efficiency.pdf"
+    ],
+    [
+      "[15]",
+      "材料/结构",
+      "上传文件PDF第1页",
+      "(Fig. 1, left) included MB, GaInAs-n:Si base and GaInAs-p:Zn emitter, back surface ﬁeld barrier, wide-band gap window and contact layer. The parameters of Inx(Al0.5Ga0.5)1−xAs-p:Zn ‘window’ (50 nm thickness and high holes concentration) were optimised earlier [8], that allow obtaining struc",
+      "InGaAs metamorphic laser (1064 nm) power converters with over 40% efficiency.pdf"
+    ],
+    [
+      "[16]",
+      "效率/研究范围",
+      "上传文件PDF第2页",
+      "peak efficiency of 38% at a laser power of about 55 W/cm2, which can be improved further by applying an anti- reflecting coating on the cell. Fig. 3. Quantum efficiency of a single-junction cell with and without the contact layer removed. AM0 solar spectrum is plotted f",
+      "1.1 eV GaInAs Cell Development for Dual-Use Solar and 1070 nm Laser Power Converters(1J,1070nm,38%,无抗反射涂层）.pdf"
+    ],
+    [
+      "[16]",
+      "材料/结构",
+      "上传文件PDF第3页",
+      "J. T. Kiehl; High-efficiency GaInP/GaAs/InGaAs triple- junction solar cells grown inverted with a metamorphic bottom junction. Appl. Phys. Lett. 9 July 2007. [3] E. A. Fitzgerald, Y.‐H. Xie, D. Monroe, P. J. Silverman, J. M. Kuo, A. R. Kortan, F. A. Thiel, B. E. Weir",
+      "1.1 eV GaInAs Cell Development for Dual-Use Solar and 1070 nm Laser Power Converters(1J,1070nm,38%,无抗反射涂层）.pdf"
+    ],
+    [
+      "[17]",
+      "效率/研究范围",
+      "上传文件PDF第2页",
+      "range (46.8% maximal value for LPC with “optimized” base under uniform illumination). Calculated with taking into account maximal MCC diffusion length and optimal antireflection coating efficiencies show potential of developed metamorp",
+      "InGaAs Metamorphic Laser (λ=1064 nm) Power Converters with over 44% efficiency.pdf"
+    ],
+    [
+      "[17]",
+      "材料/结构",
+      "上传文件PDF第3页",
+      "emitter), back surface field (BSF) barrier, wideband window and a contact layer. Hole concentration in the emitters of all structures was ~1.1018 cm–3. The parameters of Inx(Al0.5Ga0.5)1-xAs-p:Zn “window” (50 nm thickness and hig",
+      "InGaAs Metamorphic Laser (λ=1064 nm) Power Converters with over 44% efficiency.pdf"
+    ],
+    [
+      "[18]",
+      "效率/研究范围",
+      "上传文件PDF第7页",
+      "than 48% is maintained. The maximum efficiency value was 50.8% (with an incident power of 4.2 W/cm2) at pulsed laser power mode. 3. Conclusions The parameter optimization of LPCs based on the InxGa1-xAs MM structure has led to achieving a laser conversion efficiency (λ = 1064 nm) o",
+      "Optimization of photoelectric parameters of InGaAs metamorphic laser (λ=1064 nm) power converters with over 50% efficiency(1J,1064nm,50%).pdf"
+    ],
+    [
+      "[18]",
+      "材料/结构",
+      "上传文件PDF第2页",
+      "active area (InxGa1-xAs-n:Si base and InxGa1-xAs-p:Zn emitter), a back surface field (BSF) barrier, a wideband window and a contact layer. The parameters of Inx(Al0.5Ga0.5)1-xAs-p:Zn “window” (50 nm thick and high hole concentration of ~1⋅1019 cm−3) were chosen to minimize resisti",
+      "Optimization of photoelectric parameters of InGaAs metamorphic laser (λ=1064 nm) power converters with over 50% efficiency(1J,1064nm,50%).pdf"
+    ],
+    [
+      "[19]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "efﬁciency that exceeds 44% at a laser irradiation intensity of 1.5 W cm\u00012. RESEARCH ARTICLE www.pss-a.com Phys. Status Solidi A 2025, 2500585 2500585 (1 of 6) © 2025 Wiley-VCH GmbH --- PAGE 2 --- exceeding 41% at a laser irradiation intensity of 20 W",
+      "High‐Efficiency InGaAsP Photovoltaic Devices for Optical Wireless Power.pdf"
+    ],
+    [
+      "[19]",
+      "材料/结构",
+      "上传文件PDF第1页",
+      "High-Efﬁciency InGaAsP Photovoltaic Devices for Optical Wireless Power Transmission in the 1.06 μm Range Takaya Oshimo,* Yuga Motomura, Kotona Tabata, Takeru Yamada, Sho Aonuki, Natsuha Ochiai, Yukiko Suzuki, Kazuto Kashiwakura, Yohei Toriumi, M",
+      "High‐Efficiency InGaAsP Photovoltaic Devices for Optical Wireless Power.pdf"
+    ],
+    [
+      "[20]",
+      "效率/研究范围",
+      "上传文件PDF第2页",
+      "conversion efficiency of 28.26% with an open-circuit voltage of 4.59 V, and a fill factor of 81.76% at an incident laser power density of 14.05 W/cm2. The open-circuit voltage and conversion efficiency show a temperature coefficient of \u00038.46 mV/K and \u00030.0",
+      "High-voltage metamorphic 1064 nm InGaAs multi-junction laser power converter.pdf"
+    ],
+    [
+      "[20]",
+      "材料/结构",
+      "上传文件PDF第3页",
+      "Each subcell consists of a Si-doped base and a Zn-doped emitter, which are sandwiched between an AlGaInAs window layer and a back-surface field layer (BSF). The thicknesses of the subcells were designed using the Beer–Lambert law,20 expecting that each subcell absorbs about 15.4% of th",
+      "High-voltage metamorphic 1064 nm InGaAs multi-junction laser power converter.pdf"
+    ],
+    [
+      "[21]",
+      "效率/研究范围",
+      "DOCX段落",
+      "4 nm、辐照功率密度0.4 W/cm²的激光辐照下，激光光伏电池的开路电压可达0.765 V，In0.22Ga0.78As 激光光伏电池的激光光电转换效率达到44.68%。该研究可以为高功率激光能量接收系统的研制提供良好的技术支撑。 关键词：激光光伏电池；1064nm；晶格失配；光电转换效率。 中图分类号:TM 912.9 文献标识码：A 文章编号：xxxxxx Design and fabrication of high-efficiency 1 064 nm laser photovoltaic cell WAN Ronghua1, LV Zhaochen2, ZHANG Bao1, N",
+      "高效率1064 nm激光光伏电池设计与制备研究-2026-00073-revised-v2.docx"
+    ],
+    [
+      "[21]",
+      "材料/结构",
+      "DOCX段落",
+      "金属电极形成的欧姆接触，AlGaAs/GaAs隧穿结可以将N型GaAs衬底实现N转P的结构反型，利用N型GaAs衬底和金属电极形成更低的欧姆接触；同时，可以实现基区为P型掺杂，发射区则是N型掺杂，可以减少采用N型GaAs衬底材料的NP型结构设计中高掺杂Zn扩散问题。AlGaInAs渐变缓冲层包含了不同In组分含量的AlGaInAs阶梯渐变层和过冲层，最终实现目标材料晶格渐变和应力释放，同时该渐变缓冲层与GaInAs基区的禁带宽度差异较大，充当了背场层的作用，形成了阻挡少数载流子的势垒，降低了载流子表面复合速率。GaInAs基区和GaInAs发射区构成同质PN结形成了有源区，实现对波长1 064 nm激光的吸收并产",
+      "高效率1064 nm激光光伏电池设计与制备研究-2026-00073-revised-v2.docx"
+    ],
+    [
+      "[22]",
+      "效率/研究范围",
+      "上传文件PDF第2页",
+      "load near Rmpp at ~2 ohms. Efﬁciencies between 57.9% and 59.0% were also obtained for smaller 0.029 cm2 chips for input intensities between 35 and 69 W/cm2. This is an important development for power beaming applications: the unprecedented combination of power and conversion e",
+      "55% Efficient High-Power Multijunction Photovoltaic Laser Power Converters for 1070 nm.pdf"
+    ],
+    [
+      "[22]",
+      "材料/结构",
+      "上传文件PDF第2页",
+      "in the past few decades. On the emitter side, in the ﬁeld of high-power lasers, many interest- ing semiconductor diode solutions are readily available today, covering various wavelength ranges. Furthermore, high-power ﬁber lasers [1–5], such as ytterbium ﬁber la",
+      "55% Efficient High-Power Multijunction Photovoltaic Laser Power Converters for 1070 nm.pdf"
+    ],
+    [
+      "[23]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "the 1 cm2 device achieved an open-circuit voltage of 4.91 V and a power conversion eﬃciency of 46.5%. Temperature-dependent characterization from −110 to 120 °C revealed the underlying physical mech- anisms governing the variations of open-circuit voltage, short-circuit current, ﬁll factor, and conversion eﬃciency. These re",
+      "Design and fabrication of high-efficiency lattice-mismatched six-junction In0.22Ga0.78As laser power converters for 1064 nm remote power transmission.pdf"
+    ],
+    [
+      "[23]",
+      "材料/结构",
+      "上传文件PDF第3页",
+      "p–n junction subcells composed of GaInAs base/emitter regions (interconnected by AlGaInAs n++/p++ tunnel junctions), a GaInP window layer, and a GaInAs ohmic contact cap layer. The schematic epitaxial structure is shown in Fig. 1. 2.2 Buﬀer layer design and epitaxial growth B",
+      "Design and fabrication of high-efficiency lattice-mismatched six-junction In0.22Ga0.78As laser power converters for 1064 nm remote power transmission.pdf"
+    ],
+    [
+      "[24]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "efficiency of 54.7 % is demonstrated at an irradiance level of 14.2 W/cm2 for begin-of-life conditions. These results highlight the potential of optical energy transmission systems for future space applications targeting high conversion effi",
+      "High-Efficiency 1064 nm Metamorphic Photonic Power Converters for Spacecraft Wireless Power Transfer(1J,1064nm,54.7%).pdf"
+    ],
+    [
+      "[24]",
+      "材料/结构",
+      "上传文件PDF第1页",
+      "matched to GaSb, InGaAsP or InAlGaAs lattice-matched to InP, and GaInAs lattice-mismatched on GaAs. The latter solution is convenient as GaAs wafers are cost-effective and more easily available on the market in 6” or even 8” format, thus offer",
+      "High-Efficiency 1064 nm Metamorphic Photonic Power Converters for Spacecraft Wireless Power Transfer(1J,1064nm,54.7%).pdf"
+    ],
+    [
+      "[25]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "conversion efficiency of 42.6 % at 0.3 W/cm2 laser irradiance and 300 K cell temperature was obtained by optimizing all the structural parameters, indication that the thickness and carrier concentration optimization leads remarkable improvements in co",
+      "Structural design of laser-photovoltaic power converter(1J,~1070nm,42.6%).pdf"
+    ],
+    [
+      "[25]",
+      "材料/结构",
+      "上传文件PDF第2页",
+      "n-lnGaAs emitter p-lnGaAs base InGaP step-graded buffer p-GaAs buffer p-GaAs substrate Electrode 11111111111111111111111111111111111B11111111\\111111111\\1111\\1111\\1\\\\\\\\ 120 130 140 150 160 170 180 Fig. 3. Cell structure and exterior",
+      "Structural design of laser-photovoltaic power converter(1J,~1070nm,42.6%).pdf"
+    ],
+    [
+      "[26]",
+      "效率/研究范围",
+      "上传文件PDF第2页",
+      "following record efficiency (for such a type of LPC) for monochromatic light conversion has been achieved: about 52% at 1.06 μm and 55% at 1.02μm. Moreover, the use of a Bragg reflector has allowed stabilizing high spectral response at the InGaAs absorption edge (x=0.18), and demonstrating more than 47% efficiency at a real operating tempe",
+      "InGaAs metamorphic laser power converters with distributed Bragg reflector for wavelength range λ=1-1.1um(1J,1.06μm,52%).pdf"
+    ],
+    [
+      "[26]",
+      "材料/结构",
+      "上传文件PDF第3页",
+      "InxGa1-xAs -p:Zn emitter), wideband Inx(Al0.5Ga0.5)1-xAs-p:Zn “window”. The same heterostructure parameters were optimized earlier for obtaining structures with a low resistance and high fill-factor (FF) [10]. The composition of InxGa1-xAs activ",
+      "InGaAs metamorphic laser power converters with distributed Bragg reflector for wavelength range λ=1-1.1um(1J,1.06μm,52%).pdf"
+    ],
+    [
+      "[27]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "bonding using soldering pastes with different melting points are considered. The efficiency of 34.5% (1.2 W, λ =1064 nm) is achieved for the converters with the area of 3.5 × 3.5 mm2 at uniform radiation conditions. DOI: 10.1134/S1063782618130079 1. INTRODUCTION Quaternary GaInAsP solid solutions lattice- matched with InP a",
+      "GaInAsP and InP Based Laser Power Converters (λ = 1064 nm).pdf"
+    ],
+    [
+      "[27]",
+      "材料/结构",
+      "上传文件PDF第2页",
+      "rather than onto the thin emitter layers as in the case of “traditional” LPCs with illumination on the solid- solution side. Moreover, the low resistance to flowing lateral currents in it with sufficient substrate conduc- tivity makes it possible to exclud",
+      "GaInAsP and InP Based Laser Power Converters (λ = 1064 nm).pdf"
+    ],
+    [
+      "[28]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "42.0% and an FF of 76.7% were achieved in the single- junction InGaAsP LPC with an active area of 1 cm2 under 4.0 W·cm–2. To the best of our knowledge, these represent the highest reported values for any single-junction LPC design",
+      "Enhanced High Laser Irradiation Tolerance in Single-Junction InGaAsP Laser Power Converters With 42 Conversion Efficiency.pdf"
+    ],
+    [
+      "[28]",
+      "材料/结构",
+      "上传文件PDF第1页",
+      "Single-Junction InGaAsP Laser Power Converters With 42% Conversion Efﬁciency Sho Aonuki , Takaya Oshimo, Kotona Tabata, Takeru Yamada, Junichi Suzuki, Reo Aoyama, Shiro Uchida , Kouichi Akahane , Natsuha Ochiai , Yukiko Suzuki, Kazuto Kashiwakura",
+      "Enhanced High Laser Irradiation Tolerance in Single-Junction InGaAsP Laser Power Converters With 42 Conversion Efficiency.pdf"
+    ],
+    [
+      "[29]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "According to the measurement results of the grown samples, an efficiency of 34.5% was achieved. A promising design of a cascade photoelectric converter is proposed, in which the cascades are connected with using conduction channels based on GaP microcrystallites. Keywords: Light power converter, laser rad",
+      "Development of the technology for production power laser conventers on wavelength 1.06μm（1J 2J,~1064nm,34.5%）.pdf"
+    ],
+    [
+      "[29]",
+      "材料/结构",
+      "上传文件PDF第1页",
+      "applied on the substrate instead of on thin emitter layers (as in classical PVC), the contact grid area is reduced. This reduces shading losses in the LR PVC and reduces ohmic losses in the contact itself. An anti-reflection coating based on Ta2O5 film with a thickness of 1",
+      "Development of the technology for production power laser conventers on wavelength 1.06μm（1J 2J,~1064nm,34.5%）.pdf"
+    ],
+    [
+      "[30]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "Simulation of the Characteristics of InGaAs/InP-based Photovoltaic Laser-Power Converters V. M. Emelyanov, S. V. Sorokina, V. P. Khvostikov, and M. Z. Shvarts Ioffe Physical–Technical Institute, Russian Academy of Sciences, St. Petersburg, 194021 Russia e-mail: resso",
+      "Simulation of the Characteristics of InGaAs-InP based Photovoltaic.pdf"
+    ],
+    [
+      "[30]",
+      "材料/结构",
+      "上传文件PDF第1页",
+      "Simulation of the Characteristics of InGaAs/InP-based Photovoltaic Laser-Power Converters V. M. Emelyanov, S. V. Sorokina, V. P. Khvostikov, and M. Z. Shvarts Ioffe Physical–Technical Institute, Russian Academy of Sciences, St. Petersburg, 194021 Russia e-mail: resso",
+      "Simulation of the Characteristics of InGaAs-InP based Photovoltaic.pdf"
+    ],
+    [
+      "[31]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "reach 4.694 V and 41.2 ± 2%, respectively,under the 1064 nm laser illumination of 1.676 W. The conversion efﬁciency decreases with the temperature at a rate of −0.09%abs/K independent of laser power. The temperature coefﬁcient of the open-circuit v",
+      "High-Voltage 1064 nm InGaAsP Multijunction Laser Power Converters(6J,1064nm,41.2%).pdf"
+    ],
+    [
+      "[31]",
+      "材料/结构",
+      "上传文件PDF第1页",
+      "High-Voltage 1064 nm InGaAsP Multijunction Laser Power Converters Jiajing Yin , Yurun Sun, Ancheng Wang, Shuzhen Yu, Junsheng Wang, Qiuxue Fu, Jie Qin, Yanhui Han, Wei Zhang, Shuming Zhang, Cong Xue, and Jianrong Dong Abstract— 1064 nm six-junction la",
+      "High-Voltage 1064 nm InGaAsP Multijunction Laser Power Converters(6J,1064nm,41.2%).pdf"
+    ],
+    [
+      "[32]",
+      "效率/研究范围",
+      "上传文件PDF第1页",
+      "characteristic above 80% up to current densities of 2 A/cm2. Values exceeding 85%, achieved for the quantum efficiency, indicate that the “memory” and tellurium segregation effects characteristic of this kind of impurity are suppressed. Keywords: phot",
+      "Effects of Doping of Bragg Reflector Layers on the Electrical.pdf"
+    ],
+    [
+      "[32]",
+      "材料/结构",
+      "上传文件PDF第2页",
+      "p-InxGa1 \u0002 xAs emitter 500 nm n-InxGa1 \u0002 xAs base 1500\u00023500 nm n-InxAl1 \u0002 xAs n-InxGa1 \u0002 xAs n-InxAl1 \u0002 xAs n-InxGa1 \u0002 xAs n-InxAl1 \u0002 xAs n-InxGa1 \u0002 xAs \u0003 N periods DBR n-InxGa1 \u0002 xAs/ InxAl1 \u0002 xAs n-InxGa1 \u0002 xAs MM buffer \u0003 N periods DBR n-Inx",
+      "Effects of Doping of Bragg Reflector Layers on the Electrical.pdf"
+    ],
+    [
+      "[33]",
+      "效率/研究范围",
+      "上传文件PDF第5页",
+      "13W/cm2) with a maximum value of 50.4% at 6 W/cm2 (λ = 1064 nm). The losses discussed above associated with both illumination nonuniformity and additional resistive losses lead to the efficiency decrease in the case of a focused laser down to 49.4% for the maxi",
+      "Performance of InGaAs metamorphic laser power converters at different conditions.pdf"
+    ],
+    [
+      "[33]",
+      "材料/结构",
+      "上传文件PDF第1页",
+      "Performance of InGaAs metamorphic laser power converters at different conditions To cite this article: N A Kalyuzhnyy et al 2019 J. Phys.: Conf. Ser. 1410 012094 View the article online for updates and enhancements. You may also like Generatio",
+      "Performance of InGaAs metamorphic laser power converters at different conditions.pdf"
+    ]
+  ],
+  "notes": [
+    [
+      "覆盖范围",
+      "逐篇核对33篇不同论文；另有3份重复上传。主表69条器件/条件记录，包含主要峰值与关键对照；不是对每幅曲线逐点数字化。"
+    ],
+    [
+      "与参考表一致",
+      "主表严格采用参考表的11列。温度、实测性质、输入W及原文歧义置于单独核对表和单元格批注。"
+    ],
+    [
+      "编号",
+      "[1]—[33]为本次上传文献重新编号，不沿用截图[30]等编号。"
+    ],
+    [
+      "基区/发射区顺序",
+      "所有吸收层写法统一为基区/发射区；n/p不代表固定先后。没有明确给掺杂元素时不根据同团队其他论文或隧穿结材料补猜。"
+    ],
+    [
+      "化学组分",
+      "InGaAsP、InAlGaAs论文未给精确四元比例时，写材料名和已报告Eg；不能仅由Eg反推出唯一外延化学式。"
+    ],
+    [
+      "效率可比性",
+      "直接激光、Xe等效单色、模拟三类明确标识；各温度、面积、波长、均匀性或脉冲条件不同，不能据此直接作统一条件排名。"
+    ],
+    [
+      "功率与功率密度",
+      "W与W/cm²严格区分；只有给明确面积口径才作标注换算。名义器件平均密度不代表局部高斯峰值强度。"
+    ],
+    [
+      "面积",
+      "芯片几何面积、有效孔径、光敏区和光斑面积分别注明；[31]强度按8.32 mm²孔径换算。"
+    ],
+    [
+      "连续/脉冲",
+      "未明确报告时保留未明确；快门开光2 s或短I–V扫描不能自动归为脉冲激光。等效Xe闪光不写成直接1064 nm脉冲激光。"
+    ],
+    [
+      "未报告/约值",
+      "未报告表示上传全文未找到足以确认的字段；不表示数值为零。约值、区间、摘要下限与换算值均显式标注。"
+    ],
+    [
+      "邻近波长",
+      "1056/1070/1080 nm保留实际波长。[26]含1020 nm对照；[30]为1300/1550 nm模拟，不应作为1064 nm实验记录。"
+    ],
+    [
+      "非器件效率研究",
+      "[32]为DBR材料/电学研究；未报告单波长PCE，不能用FF/EQE替代PCE。"
+    ],
+    [
+      "参考表修正1",
+      "Broadcom小芯片57.9%–59.0%：1067 nm、20°C，截图的200°C有误。"
+    ],
+    [
+      "参考表修正2",
+      "Fraunhofer 54.7%为Xe宽带脉冲实测换算的等效单色效率；NTU衬底Table I明确是半绝缘InP。"
+    ],
+    [
+      "参考表修正3",
+      "RIT39.8%对应单结参考器件，两结本篇未报明确峰值；Ioffe四片串联是4×1J组件，非垂直4J。"
+    ],
+    [
+      "原文内部分歧",
+      "[1]基区GaAs/InGaAs文字与图不一致；[26]Ga0.715为归一错误，按Table1 x=0.185写Ga0.815；[33]nm²单位疑笔误，均留说明。"
+    ],
+    [
+      "重复上传核对",
+      "单独上传的6结EPJ论文=文献[23]；单独上传的1μm两结PDF=文献[11]；单独上传的单结revised-v2 DOCX=文献[21]。"
+    ],
+    [
+      "发表状态",
+      "[21]按上传修订稿标注，未虚构期刊/卷页/DOI。其他年份取原文出版信息。"
+    ],
+    [
+      "原文定位说明",
+      "PDF页码指上传PDF内部第几页，可能含出版社封面，非期刊印刷页码；摘录仅帮助回查，不替代全文。DOCX无稳定页码。"
+    ],
+    [
+      "整理日期",
+      "2026-11-04；只依据用户上传文献，不宣称涵盖该领域全部公开论文。"
+    ]
+  ]
+}

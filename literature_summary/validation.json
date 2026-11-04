@@ -1,0 +1,19 @@
+{
+  "unique_papers": 33,
+  "duplicate_uploads": 3,
+  "rows": 69,
+  "main_columns": 11,
+  "xlsx_sheets": [
+    "汇总表_同参考字段",
+    "测试条件与核对",
+    "文献目录_33篇",
+    "原文证据定位",
+    "说明与差异"
+  ],
+  "evidence_excerpts": 66,
+  "pdf_pages": 18,
+  "xlsx_json_cell_consistency": "pass",
+  "csv_json_consistency": "pass",
+  "pdf_row_coverage": "pass",
+  "pdf_text_within_page": "pass"
+}
