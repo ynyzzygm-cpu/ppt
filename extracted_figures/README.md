@@ -1,5 +1,7 @@
-# PPT图像提取
+# 第11页单图
 
-[下载第11页图(a)：六结器件辐照响应（PNG，1835×1067）](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/extracted_figures/1064nm_page11_fig_a.png)
+[下载单页PPT：已删除“（a）辐照响应”](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/extracted_figures/1064nm_page11_fig_a_no_caption.pptx)
 
-从已交付的14页红白图片版第11页直接提取，保留图例、四条曲线及左右各两个Y轴；未重画或修改数据。
+仅移除左上角的面板标题，保留图例、四条曲线、坐标轴及原有配色。单页PPT为图像版，已通过PDF渲染检查。
+
+[原始提取图（PNG，1835×1067）](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/extracted_figures/1064nm_page11_fig_a.png)
