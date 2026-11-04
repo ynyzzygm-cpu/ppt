@@ -1,0 +1,49 @@
+{
+  "slides": 1,
+  "aspect_ratio": "16:9",
+  "slide_kind": "full-slide generated image",
+  "backend": "built-in image tool (image_gen__imagegen), edit",
+  "source_image_pixels": [
+    1672,
+    941
+  ],
+  "picture_bytes_match_selected_backend_image": true,
+  "notes_embedded": true,
+  "english_typography": "Times New Roman Bold serif appearance rendered into page image; no editable font objects",
+  "visual_QA": {
+    "3d_isometric_stacks": true,
+    "junction_counts": [
+      1,
+      2,
+      6,
+      9
+    ],
+    "intercell_TJ_counts_6J_9J": [
+      5,
+      8
+    ],
+    "9J_old_extension_label_removed": true,
+    "9J_same_subcell_material_design_as_6J": true,
+    "9J_Voc_V": 7.3,
+    "9J_PCE_percent": ">40",
+    "condition_nm_W_cm2": [
+      1064,
+      3.6
+    ],
+    "buffer_In_steps_percent": [
+      1,
+      2,
+      6,
+      10,
+      14,
+      18,
+      22,
+      30,
+      22
+    ],
+    "last_buffer_step_returns_to_22_percent": true,
+    "fabrication_modules": 6,
+    "no_InP_InGaAsP_reference_materials_copied": true
+  },
+  "geometry_note": "Schematic, not to physical thickness scale."
+}

@@ -1,0 +1,55 @@
+{
+  "run_status": "slides_recorded",
+  "deck_name": "multijunction-process-slide-v2",
+  "selected_backend": "built-in image tool",
+  "sample_generation_method": {
+    "backend_used": "built-in image tool",
+    "tool_name": "image_gen__imagegen",
+    "mode": "edit",
+    "input_context_preparation": "Reference image viewed; edit existing slide using built-in image tool. User provided supplementary 9J data and an isometric style reference."
+  },
+  "max_concurrent_slides": 6,
+  "slides": [
+    {
+      "slide_id": "slide_01",
+      "number": 1,
+      "title": "多结InGaAs激光光伏电池：结构设计与制备流程",
+      "job": "prompts/slide_01.json",
+      "out": "origin_image/slide_01.png",
+      "input_images": [
+        {
+          "path": "/workspace/multijunction-process-slide/origin_image/slide_01.png",
+          "role": "existing slide to edit; preserve correct staircase and six process modules",
+          "fidelity": "edit only per latest request and verified instructions"
+        }
+      ],
+      "requires_context_images": true,
+      "status": "recorded",
+      "dispatch": {
+        "agent_id": "/root/process_slide_image",
+        "agent_nickname": "process_slide_image",
+        "prompt": "prompts/slide_01.json",
+        "prompt_sha256": "5167b5ed271303282487839ebb1cd75a2fbc50f8717f247e7dea635d168702bb",
+        "dispatched_at": "2026-11-04T13:44:52Z"
+      },
+      "result": {
+        "agent_id": "/root/process_slide_image",
+        "backend_used": "built-in image tool",
+        "selected_source": "/workspace/multijunction-process-slide-v2/candidates/slide01_v3_final.png",
+        "selected_source_sha256": "85130279aa2956a713f2931eed09d7ff9bcf7950b5c7f0737d9b3f1df18cdfb4",
+        "final_image": "origin_image/slide_01.png",
+        "final_image_sha256": "85130279aa2956a713f2931eed09d7ff9bcf7950b5c7f0737d9b3f1df18cdfb4",
+        "expected_backend": "built-in image tool",
+        "expected_backend_labels": [
+          "built-in image tool",
+          "image_gen__imagegen"
+        ],
+        "sample_generation_method_matched": true,
+        "qa_note": "Root visual QA: four isometric stacks with exact1/2/6/9 cells; six-junction has five intercell TJs and nine-junction has eight; same material modules, non-scale schematic; obsolete9J-extension text absent;9J7.3V/PCE>40% at1064nm and3.6W/cm² correct; English/numeral serif typography checked; exact9-step buffer and six process modules preserved.",
+        "recorded_at": "2026-11-04T13:52:25Z"
+      },
+      "blocker": null
+    }
+  ],
+  "updated_at": "2026-11-04T13:52:25Z"
+}
