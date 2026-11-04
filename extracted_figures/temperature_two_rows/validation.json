@@ -1,0 +1,20 @@
+{
+  "font": "Times New Roman",
+  "font_weight": "bold",
+  "tick_font_pt": 18,
+  "axis_label_font_pt": [
+    23,
+    24
+  ],
+  "fit_annotation_font_pt": 17,
+  "layout": "2 rows, each dual-Y, shared linear temperature X",
+  "png_pixels": [
+    4000,
+    3440
+  ],
+  "pdf_fonts": [
+    "FYLPTV+TimesNewRomanPS-BoldItalicMT",
+    "CNAJXZ+TimesNewRomanPS-BoldMT"
+  ],
+  "data_unchanged_from_previous_export": true
+}
