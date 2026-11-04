@@ -18,7 +18,8 @@
     "png_size": [
       4200,
       3280
-    ]
+    ],
+    "png_unchanged": true
   },
   "power": {
     "layout": "2x2 contiguous panels; right-column Y axis on outside right",
@@ -39,6 +40,13 @@
     "png_size": [
       4200,
       3280
+    ],
+    "fit_annotation_removed": true,
+    "only_changed_pixel_box": [
+      1130,
+      1086,
+      1764,
+      1328
     ]
   }
 }
