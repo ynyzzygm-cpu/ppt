@@ -1,0 +1,160 @@
+{
+  "format": "image-based PPTX, exactly one high-resolution image per slide",
+  "page_count": 19,
+  "aspect_ratio": "16:9",
+  "pixel_dimensions": [
+    2880,
+    1620
+  ],
+  "pptx_zip_valid": true,
+  "one_picture_per_slide": true,
+  "page_mapping_preserved": true,
+  "pptx_bytes": 12938086,
+  "pages": [
+    {
+      "page": 1,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 166011,
+      "sha256": "b3c8e374c50140f51bd2580f576ed73104c840b696c2190b8c0f62bb24a3c160"
+    },
+    {
+      "page": 2,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 232702,
+      "sha256": "a3540af675f9e70b9ff9eb94ab87c2705e7406b40130a22890cdf37cafa3b92e"
+    },
+    {
+      "page": 3,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 1082387,
+      "sha256": "d0732ff5b60157969f7d84e0e20912b495af6d3231a264886b16bacfb773853a"
+    },
+    {
+      "page": 4,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 1434183,
+      "sha256": "8769e057d49c9719466b861952c7d34ab794de867d16e470dd07e6172bacac19"
+    },
+    {
+      "page": 5,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 1742154,
+      "sha256": "380d5b2e326638d0c460f872e51cc2d54db4da135c66dc921af25d8bad21cb9f"
+    },
+    {
+      "page": 6,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 541785,
+      "sha256": "d68f2d3713915640aa50fdc6ba1710c7fe481a6e4fbc0815fb0ba6a3148aca28"
+    },
+    {
+      "page": 7,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 646862,
+      "sha256": "a4cea96a165e1c2670eec6c80b8be890daf3088ebea89d4b857529071cee76f4"
+    },
+    {
+      "page": 8,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 515692,
+      "sha256": "1dcc7ea0d8c5457939b131b7a46208721cccb48edb66bda3674b3144cb38aad9"
+    },
+    {
+      "page": 9,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 688148,
+      "sha256": "e096f2e11f9ca83cb17b5c50b6e039036a3492682427d945d6806a32f13af967"
+    },
+    {
+      "page": 10,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 565041,
+      "sha256": "9fc10f0b33754a3f0e8cf65d2031062ca68c6958d25f1e8427720183623d7f47"
+    },
+    {
+      "page": 11,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 770758,
+      "sha256": "338d0a9fbc0c1eb5c60749fd14b4fbb2f1b4d399ba79aaa535130f66265f3686"
+    },
+    {
+      "page": 12,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 817362,
+      "sha256": "013ca331ea812fca41afcfd4c272628b0d4b668208fa7690e0e50695443f65f2"
+    },
+    {
+      "page": 13,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 1033799,
+      "sha256": "5ea70fae3488a4a030586e31e049b5df10dccfacb41ae0ccc8d49f31bd67ea9a"
+    },
+    {
+      "page": 14,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 726181,
+      "sha256": "2fefb6c3d1443875cf26ef8d960a59aa71e0ec7aa0defe8f460b0efb553651a2"
+    },
+    {
+      "page": 15,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 598939,
+      "sha256": "babf21308f3aed0cfcc1f1a416e09b360eeaef1a42d6548827cc200aeb60cb91"
+    },
+    {
+      "page": 16,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 519080,
+      "sha256": "a7bc3507b1048e8b848600d78af19bc19b4d09ceb80c1dfc75fc7cb3fc25931a"
+    },
+    {
+      "page": 17,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 530654,
+      "sha256": "7acb6f869d6df47b552a1c75a644f9ab7d215ffc4d94fc39e61f5803ee6d976d"
+    },
+    {
+      "page": 18,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 534659,
+      "sha256": "1d91dc28c5a04d6053b71526be6426e418887d88cb4d0e2c915ed7f9d20c7d74"
+    },
+    {
+      "page": 19,
+      "width": 2880,
+      "height": 1620,
+      "png_bytes": 110372,
+      "sha256": "05c93689ad3ab2e9866fc7f4e390297ad90963644040e9d7eb7c23b43c275cc8"
+    }
+  ],
+  "scientific_note": "Curves are approximate digitizations/redraws of uploaded figures; key reported metrics preserved and corrected against uploaded papers.",
+  "embedded_images_match_source_hashes": true,
+  "no_image_cropping_or_misalignment": true,
+  "office_render_open_check": true,
+  "office_render_page_count": 19,
+  "working_deck_structural_validation": {
+    "passed": true,
+    "expected_pages": 19,
+    "slides": 19,
+    "missing_parts": [],
+    "page_contract_violations": []
+  }
+}

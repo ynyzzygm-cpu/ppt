@@ -53,3 +53,12 @@ SVG/PDF为纯矢量，不含嵌入位图；仅处理用户选定页面，不替�
 - [下载完整Excel](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/literature_summary/1064nm_literature_summary.xlsx)
 - [下载PDF汇总表](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/literature_summary/1064nm_literature_summary.pdf)
 - [完整表格、文献目录与核对说明](literature_summary/README.md)
+
+## 最新：19页红白学术图片版PPT
+
+按新上传PPT重新设计全部页面，重点重绘材料路线与单结/两结/六结大组图。按最新要求输出图片版：每页2880×1620，PPT约12.34 MB。
+
+- [下载高清图片版PPT](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/academic_redesign/1064nm_InGaAs_redwhite_academic_image.pptx)
+- [下载PDF](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/academic_redesign/1064nm_InGaAs_redwhite_academic.pdf)
+- [下载19页高清图片包](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/academic_redesign/1064nm_slide_images.zip)
+- [预览及修改说明](academic_redesign/README.md)
