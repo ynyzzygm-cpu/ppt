@@ -1,0 +1,15 @@
+{
+  "font": "Times New Roman Bold",
+  "pdf_fonts": [
+    "CNAJXZ+TimesNewRomanPS-BoldMT"
+  ],
+  "legend_above_plot": true,
+  "legend_clearance_pixels_at_100dpi": 19.82,
+  "curve_styles_preserved": true,
+  "axis_limits_preserved": true,
+  "data_source": "Existing original-figure digitization, approximate readings; peak 44.68% exact source metric",
+  "png_size": [
+    4800,
+    3680
+  ]
+}
