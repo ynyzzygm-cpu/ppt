@@ -1,0 +1,49 @@
+{
+  "run_status": "slides_recorded",
+  "deck_name": "multijunction-process-slide",
+  "selected_backend": "built-in image tool",
+  "sample_generation_method": {
+    "backend_used": "built-in image tool",
+    "tool_name": "image_gen__imagegen",
+    "mode": "generate",
+    "input_context_preparation": "Complete source-verified text and schematic instructions; no result chart required as an embedded asset."
+  },
+  "max_concurrent_slides": 6,
+  "slides": [
+    {
+      "slide_id": "slide_01",
+      "number": 1,
+      "title": "多结InGaAs激光光伏电池：结构设计与制备流程",
+      "job": "prompts/slide_01.json",
+      "out": "origin_image/slide_01.png",
+      "input_images": [],
+      "requires_context_images": false,
+      "status": "recorded",
+      "dispatch": {
+        "agent_id": "/root/process_slide_image",
+        "agent_nickname": "process_slide_image",
+        "prompt": "prompts/slide_01.json",
+        "prompt_sha256": "df2d5e3771d6edae9e59c82be1f8f95b96d8b97b727c360576f386110df3c49a",
+        "dispatched_at": "2026-11-04T12:01:46Z"
+      },
+      "result": {
+        "agent_id": "/root/process_slide_image",
+        "backend_used": "built-in image tool",
+        "selected_source": "/workspace/multijunction-process-slide/candidates/slide01_v1.png",
+        "selected_source_sha256": "c791836ebc7f8e193e165696f6d67feb7d1d5f34d9f670add6d8481cc6bd52a7",
+        "final_image": "origin_image/slide_01.png",
+        "final_image_sha256": "c791836ebc7f8e193e165696f6d67feb7d1d5f34d9f670add6d8481cc6bd52a7",
+        "expected_backend": "built-in image tool",
+        "expected_backend_labels": [
+          "built-in image tool",
+          "image_gen__imagegen"
+        ],
+        "sample_generation_method_matched": true,
+        "qa_note": "Root visual QA: exactly 1/2/6/9 numbered subcells; 9J marked as design extension; exactly nine In composition steps 1/2/6/10/14/18/22/30/22 percent with last step lower; six process modules legible, red-white style, no measured-performance claims.",
+        "recorded_at": "2026-11-04T12:05:46Z"
+      },
+      "blocker": null
+    }
+  ],
+  "updated_at": "2026-11-04T12:05:46Z"
+}

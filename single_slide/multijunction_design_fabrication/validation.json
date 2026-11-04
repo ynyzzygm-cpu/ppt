@@ -1,0 +1,37 @@
+{
+  "slides": 1,
+  "aspect_ratio": "16:9",
+  "slide_kind": "full-slide generated image",
+  "backend": "built-in image tool (image_gen__imagegen)",
+  "picture_matches_generated_image_bytes": true,
+  "source_image_pixels": [
+    1672,
+    941
+  ],
+  "file_size_bytes": 1457094,
+  "notes_embedded": true,
+  "visual_QA": {
+    "junction_counts": [
+      1,
+      2,
+      6,
+      9
+    ],
+    "9J_label": "拓展设计",
+    "buffer_In_steps_percent": [
+      1,
+      2,
+      6,
+      10,
+      14,
+      18,
+      22,
+      30,
+      22
+    ],
+    "step9_returns_to_22_percent": true,
+    "fabrication_modules": 6,
+    "Chinese_readability_checked": true
+  },
+  "scientific_scope": "1J/2J/6J source-based, 9J schematic extension; no new performance results"
+}
