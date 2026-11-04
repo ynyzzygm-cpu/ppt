@@ -62,3 +62,12 @@ SVG/PDF为纯矢量，不含嵌入位图；仅处理用户选定页面，不替�
 - [下载PDF](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/academic_redesign/1064nm_InGaAs_redwhite_academic.pdf)
 - [下载19页高清图片包](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/academic_redesign/1064nm_slide_images.zip)
 - [预览及修改说明](academic_redesign/README.md)
+
+## 最新：最初12页版补充背景与现状（14页，红白图片版）
+
+以用户重新上传的最初版为底稿，补入典型应用场景与国内外研究现状；原团队五页的主要内容、实验图与组图布局保留，仅统一配色。每页2880×1620，PPT约26.5 MB，原12页讲者备注保留。
+
+- [下载14页图片版PPT](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/original_plus_background/1064nm_original_plus_background_redwhite.pptx)
+- [下载PDF](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/original_plus_background/1064nm_original_plus_background_redwhite.pdf)
+- [下载14页高清图片包](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/original_plus_background/1064nm_original_plus_background_images.zip)
+- [预览与修改说明](original_plus_background/README.md)

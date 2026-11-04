@@ -1,0 +1,169 @@
+{
+  "base_pages": 12,
+  "final_pages": 14,
+  "added_pages": [
+    3,
+    4
+  ],
+  "team_base_pages": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "team_final_pages": [
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "original_scientific_regions_retained": 12,
+  "source_image_hashes_match": true,
+  "original_region_positions_and_sizes_match": true,
+  "all_12_original_notes_preserved": true,
+  "pdf_page_count": 14,
+  "pdf_text_within_page_bounds": true,
+  "passed": true,
+  "format": "image-based PPTX, one high-resolution image per slide",
+  "pixel_dimensions": [
+    2880,
+    1620
+  ],
+  "one_picture_per_slide": true,
+  "embedded_image_hashes_match": true,
+  "notes_preserved_in_final_image_pptx": true,
+  "pptx_bytes": 27787675,
+  "pages": [
+    {
+      "page": 1,
+      "sha256": "558577678e7f271bae499398c23ed271b0bdd3e4765e54f35d01f89b1d8dcb4e",
+      "size_bytes": 1563017,
+      "pixels": [
+        2880,
+        1620
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "fbbdcda27def2d095fa2ce508e039aca8375c8580446387b177c97f1a9af01f6",
+      "size_bytes": 2029955,
+      "pixels": [
+        2880,
+        1620
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "c37f30cb1bd4076e2c8612608cd2ce0cb5275dcf9a878da4094e99e2de93d458",
+      "size_bytes": 1235245,
+      "pixels": [
+        2880,
+        1620
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "b721d27addf85a6504bd122e1a7b2dfe43ca18e7f14de3ab24e7ead75ffbfb17",
+      "size_bytes": 1314482,
+      "pixels": [
+        2880,
+        1620
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "e1a96ea2c1717a7cbfb8a1a3f5eb400d448499afcca267aa7cb068da9be17152",
+      "size_bytes": 1865321,
+      "pixels": [
+        2880,
+        1620
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "3c395f2d9cd2b75f581333318145ae908a3a8a79d7e08f6cd6b41adcdc602626",
+      "size_bytes": 2540690,
+      "pixels": [
+        2880,
+        1620
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "e484fab29153acc44f78f45785d984af4e28088d8d403649e9feabaa111c00a2",
+      "size_bytes": 2044834,
+      "pixels": [
+        2880,
+        1620
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "3e0808a49f0d288a127084a6b317998164816fc19920cf595fab478cfb0bed38",
+      "size_bytes": 2288083,
+      "pixels": [
+        2880,
+        1620
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "265520f039e8b51c96366b29d2ba772895061385ee1eda3d2ee83590c468029f",
+      "size_bytes": 2220936,
+      "pixels": [
+        2880,
+        1620
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "4e3cfaeaef7a8524e2d1750d0966ef4d2fd9eaa730c5f51b55bc27d3b5ec2e70",
+      "size_bytes": 2184044,
+      "pixels": [
+        2880,
+        1620
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "adaccecc14271543cd4df419ee7cff263e854e5174e5f2bb33a4b7edf85e5fa6",
+      "size_bytes": 2287463,
+      "pixels": [
+        2880,
+        1620
+      ]
+    },
+    {
+      "page": 12,
+      "sha256": "b4dcae998cc9bc86087053b753042b96013e60c65cf3585d3de7173c1b1cb596",
+      "size_bytes": 2230649,
+      "pixels": [
+        2880,
+        1620
+      ]
+    },
+    {
+      "page": 13,
+      "sha256": "b1971fe17ba34d08c6d7b75d4e0e62944a9446151f15c79f2b5509c1a2ac9ac3",
+      "size_bytes": 2135175,
+      "pixels": [
+        2880,
+        1620
+      ]
+    },
+    {
+      "page": 14,
+      "sha256": "ee59d35464ab66b827f7e040c21943b1b8b19c07c786e6080dd8ca0b0af48b2f",
+      "size_bytes": 2006777,
+      "pixels": [
+        2880,
+        1620
+      ]
+    }
+  ],
+  "actual_office_render_passed": true,
+  "actual_office_page_count": 14,
+  "donor_application_images_match_original_pptx_media": true
+}
