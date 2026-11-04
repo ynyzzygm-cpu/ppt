@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "slide_count": 1,
+  "source_page": 8,
+  "format": "image-based single-slide PPTX",
+  "pixel_dimensions": [
+    2880,
+    1620
+  ],
+  "original_non_figure_text_retained": true,
+  "original_speaker_notes_retained": true,
+  "native_structure_labels_checked": [
+    "GaInAs-Si Cap层",
+    "GaInP-Si 窗口层",
+    "GaInAs-Si 发射区",
+    "GaInAs-Zn 基区",
+    "AlGaInAs-Zn 渐变缓冲层",
+    "AlGaAs/GaAs 隧穿结",
+    "GaAs-Si 缓冲层",
+    "N型GaAs衬底"
+  ],
+  "original_plot_images_inserted_without_redraw": 5,
+  "other_pages_not_generated_or_modified": true,
+  "pptx_bytes": 2320705,
+  "png_sha256": "7549e975856e5c404c1721c56e32d6348e2c1023bdd997d1a48116dd35d8fe23",
+  "office_render_open_check": true
+}

@@ -71,3 +71,10 @@ SVG/PDF为纯矢量，不含嵌入位图；仅处理用户选定页面，不替�
 - [下载PDF](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/original_plus_background/1064nm_original_plus_background_redwhite.pdf)
 - [下载14页高清图片包](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/original_plus_background/1064nm_original_plus_background_images.zip)
 - [预览与修改说明](original_plus_background/README.md)
+
+## 第8页单页修订
+
+按参考截图重写8层外延组分，换入器件/栅线、I–V、EQE、辐照响应和反射率5幅原图组成组图，其余文字段落保留。仅输出这一页，图片版PPT约2.2 MB。
+
+- [下载第8页单页PPT](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/single_slide/page08_revised/1064nm_page08_revised.pptx)
+- [查看单页预览](single_slide/page08_revised/1064nm_page08_revised.png)
