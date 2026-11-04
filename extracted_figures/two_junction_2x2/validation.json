@@ -1,0 +1,44 @@
+{
+  "temperature": {
+    "layout": "2x2 contiguous panels; right-column Y axis on outside right",
+    "order": [
+      "Isc",
+      "Voc",
+      "FF",
+      "PCE"
+    ],
+    "font": "Times New Roman Bold",
+    "pdf_fonts": [
+      "FYLPTV+TimesNewRomanPS-BoldItalicMT",
+      "CNAJXZ+TimesNewRomanPS-BoldMT"
+    ],
+    "shared_x": "Temperature (K)",
+    "points": 38,
+    "raw_measurements": false,
+    "png_size": [
+      4200,
+      3280
+    ]
+  },
+  "power": {
+    "layout": "2x2 contiguous panels; right-column Y axis on outside right",
+    "order": [
+      "Isc",
+      "Voc",
+      "FF",
+      "PCE"
+    ],
+    "font": "Times New Roman Bold",
+    "pdf_fonts": [
+      "FYLPTV+TimesNewRomanPS-BoldItalicMT",
+      "CNAJXZ+TimesNewRomanPS-BoldMT"
+    ],
+    "shared_x": "Incident laser power (W)",
+    "points": 27,
+    "raw_measurements": false,
+    "png_size": [
+      4200,
+      3280
+    ]
+  }
+}
