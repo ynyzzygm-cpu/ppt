@@ -1,0 +1,55 @@
+{
+  "run_status": "slides_recorded",
+  "deck_name": "multijunction-process-slide-v4",
+  "selected_backend": "built-in image tool",
+  "sample_generation_method": {
+    "backend_used": "built-in image tool",
+    "tool_name": "image_gen__imagegen",
+    "mode": "edit",
+    "input_context_preparation": "Reference image viewed; edit existing slide using built-in image tool. User provided supplementary 9J data and an isometric style reference."
+  },
+  "max_concurrent_slides": 6,
+  "slides": [
+    {
+      "slide_id": "slide_01",
+      "number": 1,
+      "title": "多结InGaAs激光光伏电池：结构设计与制备流程",
+      "job": "prompts/slide_01.json",
+      "out": "origin_image/slide_01.png",
+      "input_images": [
+        {
+          "path": "/workspace/multijunction-process-slide-v3/origin_image/slide_01.png",
+          "role": "Current verified slide to edit; flatten/recolor only structure region and shared zoom panels",
+          "fidelity": "Preserve material labels, cell numbering/ellipsis,9J result, right chart and bottom process."
+        }
+      ],
+      "requires_context_images": true,
+      "status": "recorded",
+      "dispatch": {
+        "agent_id": "/root/process_slide_image",
+        "agent_nickname": "process_slide_image",
+        "prompt": "prompts/slide_01.json",
+        "prompt_sha256": "bcab97443ef2453b041189ec051a1482c5084580799189d87e56b3a23396e2f1",
+        "dispatched_at": "2026-11-04T14:17:10Z"
+      },
+      "result": {
+        "agent_id": "/root/process_slide_image",
+        "backend_used": "built-in image tool",
+        "selected_source": "/workspace/multijunction-process-slide-v4/candidates/slide01_flat_final.png",
+        "selected_source_sha256": "c4bf8affbf33a7c9fde04ed0e516e73538c3ebe802489f4a65af60204b450a02",
+        "final_image": "origin_image/slide_01.png",
+        "final_image_sha256": "c4bf8affbf33a7c9fde04ed0e516e73538c3ebe802489f4a65af60204b450a02",
+        "expected_backend": "built-in image tool",
+        "expected_backend_labels": [
+          "built-in image tool",
+          "image_gen__imagegen"
+        ],
+        "sample_generation_method_matched": true,
+        "qa_note": "Root visual QA: all4structure stacks front-view flat rectangles, no extruded sides or perspective tops; green subcells/orangeTJs/tealCGB/blue-grey substrate and matching material zooms; all labels and2Jnumbering,6/9omission ranges,1JinversionTJ preserved; rightstaircase,bottom6modules,9Jperformance andTimes-style serif English unchanged.",
+        "recorded_at": "2026-11-04T14:20:02Z"
+      },
+      "blocker": null
+    }
+  ],
+  "updated_at": "2026-11-04T14:20:02Z"
+}

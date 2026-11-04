@@ -1,0 +1,52 @@
+{
+  "slides": 1,
+  "aspect_ratio": "16:9",
+  "slide_kind": "full-slide generated image",
+  "backend": "built-in image tool (image_gen__imagegen), edit",
+  "source_image_pixels": [
+    1672,
+    941
+  ],
+  "picture_bytes_match_backend_image": true,
+  "notes_embedded": true,
+  "visual_QA": {
+    "structure_geometry": "flat2D front-view rectangles, no isometric faces",
+    "structure_palette": {
+      "Emitter": "green",
+      "Base": "light green",
+      "BSF": "pale green",
+      "TJ": "orange",
+      "CGB": "teal",
+      "substrate": "blue-grey"
+    },
+    "materials_and_insets_preserved": true,
+    "2J_numbering_top_to_bottom": [
+      1,
+      2
+    ],
+    "6J_omitted_range": [
+      2,
+      5
+    ],
+    "9J_omitted_range": [
+      2,
+      8
+    ],
+    "1J_inversion_TJ": "AlGaAs/GaAs",
+    "9J_performance_preserved": true,
+    "buffer_In_steps_percent": [
+      1,
+      2,
+      6,
+      10,
+      14,
+      18,
+      22,
+      30,
+      22
+    ],
+    "fabrication_modules": 6,
+    "Times_New_Roman_style_Latin_preserved": true
+  },
+  "schematic_not_thickness_scale": true
+}
