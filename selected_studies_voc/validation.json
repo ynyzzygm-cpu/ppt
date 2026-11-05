@@ -1,0 +1,17 @@
+{
+  "GaAs_points": 6,
+  "InP_points": 6,
+  "true_vector_SVG_no_images": true,
+  "editable_native_PPT_graphics": true,
+  "font_Latin": "Times New Roman",
+  "font_Chinese": "Noto Sans CJK SC",
+  "blue_y_axis": "Open-circuitvoltage V",
+  "data_labels": "efficiency,junctioncount,area,inputpower",
+  "RIT_input": "3.9W/cm²,notunverified0.5W",
+  "approximate_Voc": [
+    "C18≈0.75V",
+    "C31≈1.57V"
+  ],
+  "C29_six_junction_Voc_V": 5.33,
+  "two_junction_wavelength_difference_visible": false
+}

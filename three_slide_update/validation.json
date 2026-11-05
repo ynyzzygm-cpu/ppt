@@ -1,7 +1,7 @@
 {
   "slides": 3,
-  "ppt_bytes": 4720321,
-  "pdf_bytes": 4912639,
+  "ppt_bytes": 3117026,
+  "pdf_bytes": 3399551,
   "speaker_notes_embedded": 3,
   "backend": "built-in image tool",
   "final_pages_are_generated_images": true,
@@ -18,5 +18,11 @@
     "laser_nm": 1064,
     "irradiance_W_cm2": 3.6,
     "area_cm2": null
-  }
+  },
+  "page1": "nativeeditable_selected_studies_efficiency_Voc",
+  "page1_points": {
+    "GaAs": 6,
+    "InP": 6
+  },
+  "page2_and_page3_preserved": true
 }

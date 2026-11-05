@@ -82,9 +82,18 @@ SVG/PDF为纯矢量，不含嵌入位图；仅处理用户选定页面，不替�
 
 ## 最新三页修订：GaAs/InP文献对照与9结总结
 
-2022年及以后的GaAs/InP双纵轴图、2025—2026年器件性能比较、加入9结7.3 V/效率>40%的团队总结。3页图片版，详细来源及测试口径已嵌入讲者备注。
+按指定文献更新的GaAs/InP效率—开路电压双纵轴图；2025—2026年器件比较与9结总结两页保留。第一页原生可编辑，详细来源及测试口径已嵌入讲者备注。
 
 - [下载三页PPT](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/three_slide_update/1064nm_three_slides_updated.pptx)
 - [PDF预览](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/three_slide_update/1064nm_three_slides_updated.pdf)
 - [PNG图片包](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/three_slide_update/1064nm_three_slide_images.zip)
 - [三页预览与说明](three_slide_update/README.md)
+
+
+## 指定文献图：效率与开路电压（原生PPT与矢量导出）
+
+GaAs与InP各6个器件点，效率旁含结数、面积与输入功率；横轴只列团队和年份。C29归入InP；GaAs含本团队1J/2J/6J。
+
+- [修改后的单页PPT](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/selected_studies_voc/1064nm_selected_studies_slide.pptx)
+- [两幅图的PNG、SVG、PDF、PPT与数据](selected_studies_voc/README.md)
+- [下载全部格式ZIP](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/selected_studies_voc/1064nm_comparison_all_formats.zip)
