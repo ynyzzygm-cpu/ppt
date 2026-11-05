@@ -1,0 +1,22 @@
+{
+  "slides": 3,
+  "ppt_bytes": 4720321,
+  "pdf_bytes": 4912639,
+  "speaker_notes_embedded": 3,
+  "backend": "built-in image tool",
+  "final_pages_are_generated_images": true,
+  "slide_01_categories": {
+    "GaAs": 6,
+    "InP": 11
+  },
+  "source_data": "../verified_chart_data.json",
+  "power_axis": "Total incident W, linear: GaAs0–4W andInP0–40W; no mixed irradiance units",
+  "nine_junction": {
+    "designed": true,
+    "Voc_V": 7.3,
+    "PCE_percent": ">40",
+    "laser_nm": 1064,
+    "irradiance_W_cm2": 3.6,
+    "area_cm2": null
+  }
+}
