@@ -127,3 +127,6 @@ GaAs与InP各6个器件点，效率旁含结数、面积与输入功率；横轴
 - [下载优化后的PPT](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/optimized_17slides/1064nm_InGaAs_optimized.pptx)
 - [查看PDF预览](https://github.com/ynyzzygm-cpu/ppt/blob/main/optimized_17slides/1064nm_InGaAs_optimized.pdf)
 - [修改说明与文件](optimized_17slides/README.md)
+
+
+优化版下载异常时，可使用[ZIP下载包](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/optimized_17slides/1064nm_InGaAs_optimized_download.zip)，解压后打开其中的PPT。完整PPT大小约13.9 MiB。
