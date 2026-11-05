@@ -109,3 +109,12 @@ GaAs与InP各6个器件点，效率旁含结数、面积与输入功率；横轴
 - [可编辑PPT](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/nine_junction_structure/1064nm_9J_structure_saturated.pptx)
 - [全部格式ZIP](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/nine_junction_structure/1064nm_9J_structure_all_formats.zip)
 - [预览与说明](nine_junction_structure/README.md)
+
+
+## 总结页更新：9结46.02%与7.600 V
+
+- [图片版PPT](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/summary_9j_update/1064nm_summary_9J_image.pptx)
+- [可编辑版PPT](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/summary_9j_update/1064nm_summary_9J_editable.pptx)
+- [高清PNG及修改说明](summary_9j_update/README.md)
+
+可编辑版中四张结构图为一张图片，其余文字与测试数据均可编辑。
