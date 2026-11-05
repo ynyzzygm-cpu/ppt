@@ -97,3 +97,15 @@ GaAs与InP各6个器件点，效率旁含结数、面积与输入功率；横轴
 - [修改后的单页PPT](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/selected_studies_voc/1064nm_selected_studies_slide.pptx)
 - [两幅图的PNG、SVG、PDF、PPT与数据](selected_studies_voc/README.md)
 - [下载全部格式ZIP](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/selected_studies_voc/1064nm_comparison_all_formats.zip)
+
+
+## 9结InGaAs结构图：增强饱和度配色
+
+9个子电池及TJ1–TJ9完整展开，保留隧穿结与子电池材料详图。Times New Roman Bold，青绿/金黄/蓝/橙紫配色。SVG/PDF为真正矢量，PPT为70个原生可编辑对象。
+
+- [PNG高清图](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/nine_junction_structure/1064nm_9J_structure_saturated.png)
+- [SVG矢量图](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/nine_junction_structure/1064nm_9J_structure_saturated.svg)
+- [PDF矢量图](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/nine_junction_structure/1064nm_9J_structure_saturated.pdf)
+- [可编辑PPT](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/nine_junction_structure/1064nm_9J_structure_saturated.pptx)
+- [全部格式ZIP](https://github.com/ynyzzygm-cpu/ppt/raw/refs/heads/main/nine_junction_structure/1064nm_9J_structure_all_formats.zip)
+- [预览与说明](nine_junction_structure/README.md)
